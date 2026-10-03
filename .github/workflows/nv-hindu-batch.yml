@@ -1,0 +1,69 @@
+name: nv-hindu-batch
+
+# Builds one 100-name hindu batch from its curated knowledge table, installs the
+# records, refreshes the tracker, and pushes to BOTH names-upgraded-v3 and main.
+#
+# The curated table is the source of truth: records are generated inside the
+# runner, so only the (small) table travels over the wire.
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch number (e.g. 1)'
+        required: true
+      curated:
+        description: 'Curated module name (e.g. curated_h1)'
+        required: true
+      first:
+        description: 'First name in the batch'
+        required: true
+      last:
+        description: 'Last name in the batch'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout names-upgraded-v3
+        uses: actions/checkout@v4
+        with:
+          ref: names-upgraded-v3
+          fetch-depth: 0
+
+      - name: Unpack toolchain
+        run: |
+          if [ -f upgrading/scripts/nv_hindu_toolchain.b64 ]; then
+            base64 -d upgrading/scripts/nv_hindu_toolchain.b64 | tar xzf - -C upgrading/scripts
+            echo "toolchain unpacked"
+          fi
+          ls upgrading/scripts/
+
+      - name: Build records from the curated table
+        run: python3 upgrading/scripts/hbuild_batch.py "${{ inputs.curated }}" out/hindu
+
+      - name: Install records
+        run: |
+          mkdir -p upgrading/names_upgraded/hindu
+          cp out/hindu/*.json upgrading/names_upgraded/hindu/
+          ls upgrading/names_upgraded/hindu/ | wc -l
+
+      - name: Refresh tracker
+        run: python3 upgrading/scripts/hmerge_progress.py "${{ inputs.batch }}" "${{ inputs.first }}" "${{ inputs.last }}"
+
+      - name: Commit
+        run: |
+          git config user.name "nameverse-bot"
+          git config user.email "bot@nameverse.local"
+          git add upgrading/names_upgraded/hindu upgrading/PROGRESS.json upgrading/PROGRESS.md
+          git commit -m "NameVerse hindu batch ${{ inputs.batch }}: ${{ inputs.first }}..${{ inputs.last }} (100 names)" || echo "nothing to commit"
+
+      - name: Push to names-upgraded-v3
+        run: git push origin HEAD:names-upgraded-v3
+
+      - name: Push to main
+        run: git push origin HEAD:main || echo "main push skipped (not fast-forward)"

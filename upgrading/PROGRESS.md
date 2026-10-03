@@ -102,34 +102,35 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 300 |
-| Current batch | 3 |
-| Batch range | ajhar .. aloke (100) |
-| Batches completed | 3 |
-| Verified forms | 206 |
-| Unverified forms (no gloss asserted) | 94 |
-| Next batch starts after | aloke |
-| Updated | 2026-10-03T03:52:20Z |
+| Names completed | 400 |
+| Current batch | 4 |
+| Batch range | alokesh .. ananya (100) |
+| Batches completed | 4 |
+| Verified forms | 295 |
+| Unverified forms (no gloss asserted) | 105 |
+| Next batch starts after | ananya |
+| Updated | 2026-10-03T03:52:21Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 145 |
-| medium | 61 |
-| unverified | 94 |
+| high | 212 |
+| medium | 83 |
+| unverified | 105 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 189 |
-| Unknown | 63 |
-| Arabic | 31 |
+| Sanskrit | 279 |
+| Unknown | 66 |
+| Arabic | 36 |
 | Persian | 11 |
 | Tamil | 4 |
+| English | 2 |
 | Japanese | 1 |
-| English | 1 |
+| Punjabi | 1 |
 
 ## Hindu quality gate
 
@@ -149,4 +150,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 3 | ajhar .. aloke | 100 | complete |
+| 4 | alokesh .. ananya | 100 | complete |

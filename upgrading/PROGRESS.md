@@ -92,3 +92,59 @@
 | 24 | ferhat .. ghadir | 100 | complete |
 | 25 | ghaffar .. guzel | 100 | complete |
 | 26 | haadee .. hakeema | 100 | complete |
+
+
+---
+
+# Hindu slice
+
+| Field | Value |
+|---|---|
+| Culture | hindu |
+| Total names in slice | 5,885 |
+| Names completed | 100 |
+| Current batch | 1 |
+| Batch range | aaba .. abhishek (100) |
+| Batches completed | 1 |
+| Verified forms | 75 |
+| Unverified forms (no gloss asserted) | 25 |
+| Next batch starts after | abhishek |
+| Updated | 2026-10-03T03:25:25Z |
+
+## Hindu confidence summary
+
+| Confidence | Count |
+|---|---|
+| high | 60 |
+| medium | 15 |
+| unverified | 25 |
+
+## Hindu origin summary
+
+| Origin | Count |
+|---|---|
+| Sanskrit | 72 |
+| Unknown | 21 |
+| Arabic | 4 |
+| Persian | 2 |
+| Tamil | 1 |
+
+## Hindu quality gate
+
+| Check | Result |
+|---|---|
+| Invalid JSON | 0 |
+| Conflict markers | 0 |
+| Schema mismatches | 0 |
+| Duplicate slugs | 0 |
+| English gloss in script field | 0 |
+| Bad structured data | 0 |
+| Missing evidence | 0 |
+| Broken text | 0 |
+| **Total failures** | **0** |
+
+## Hindu batch manifest
+
+| Batch | Range | Count | Status |
+|---|---|---|---|
+| 1 | aaba .. abhishek | 100 | complete |

@@ -1,4 +1,3 @@
 # hindu batch spec (batch curated_module first last)
-# batch 8: athi..baba (100 names)
-8 curated_h8 athi baba
-9 curated_h9 babai balvir
+# batches 1-9 already installed; build only what is listed below
+10 curated_h10 balwant bhadur

@@ -33,12 +33,11 @@ jobs:
           # Base toolchain: the verified archive from the batch-2 commit.
           git show 829859598:upgrading/scripts/nv_hindu_toolchain.b64 \
             | base64 -d | tar xzf - -C upgrading/scripts
-          # Delta: curated tables + gloss supplements added after that commit.
-          # The URL is kept in a small tracked file so a new batch only needs
-          # that file + the trigger updated, never this workflow.
-          DELTA_URL=$(tr -d '\r\n' < upgrading/scripts/nv_hindu_delta_url.txt)
-          echo "delta: $DELTA_URL"
-          curl -fsSL -o /tmp/nv_delta.tar.gz "$DELTA_URL"
+          # Delta: every curated_hN/hglossN added since that commit.
+          # Fetched from the published archive recorded in nv_hindu_delta_url.txt
+          # (the file is the single source of truth for the delta location).
+          DL="$(tr -d '\r\n' < upgrading/scripts/nv_hindu_delta_url.txt)"
+          curl -fsSL -o /tmp/nv_delta.tar.gz "$DL"
           tar xzf /tmp/nv_delta.tar.gz -C upgrading/scripts
           ls upgrading/scripts/
 
@@ -61,6 +60,14 @@ jobs:
           done < upgrading/scripts/nv_build_trigger.txt
           echo "total hindu records:"
           ls upgrading/names_upgraded/hindu/ | wc -l
+
+      - name: Refresh mirror (upgrading/upgrade_names_hindu)
+        run: |
+          set -e
+          mkdir -p upgrading/upgrade_names_hindu
+          cp -f upgrading/names_upgraded/hindu/*.json upgrading/upgrade_names_hindu/
+          git add upgrading/upgrade_names_hindu
+          git commit -m "Mirror hindu upgraded set into upgrade_names_hindu" || echo "nothing to mirror"
 
       - name: Push to names-upgraded-v3
         run: git push origin HEAD:names-upgraded-v3

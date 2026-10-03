@@ -21,6 +21,33 @@
 | medium | 578 |
 | unverified | 157 |
 
+## Origin summary
+
+| Origin | Count |
+|---|---|
+| Arabic | 1865 |
+| Persian | 386 |
+| Unknown | 190 |
+| Hebrew | 56 |
+| Turkish | 37 |
+| Turkic | 17 |
+| Kurdish | 11 |
+| Sanskrit | 7 |
+| Greek | 7 |
+| Pashto | 5 |
+| Urdu | 3 |
+| Hindi | 3 |
+| Latin | 2 |
+| Irish | 2 |
+| Punjabi | 2 |
+| Yoruba | 1 |
+| Basque | 1 |
+| Berber | 1 |
+| Akkadian | 1 |
+| Slavic | 1 |
+| Indonesian | 1 |
+| English | 1 |
+
 ## Quality gate
 
 | Check | Result |
@@ -35,6 +62,38 @@
 | Broken text | 0 |
 | **Total failures** | **0** |
 
+## Batch manifest
+
+| Batch | Range | Count | Status |
+|---|---|---|---|
+| 1 | aamilah .. aaus | 100 | complete |
+| 2 | aayan .. adeel | 100 | complete |
+| 3 | adeela .. afsar | 100 | complete |
+| 4 | afshan .. aizah | 100 | complete |
+| 5 | aizat .. alesha | 100 | complete |
+| 6 | alev .. amaal | 100 | complete |
+| 7 | amaan .. anabia | 100 | complete |
+| 8 | anaf .. aphrodite | 100 | complete |
+| 9 | aqdas .. arsal | 100 | complete |
+| 10 | arsala .. asima | 100 | complete |
+| 11 | asimah .. aurangzeb | 100 | complete |
+| 12 | aus .. ayyoub | 100 | complete |
+| 13 | ayyub .. badawi | 100 | complete |
+| 14 | badee .. bara | 100 | complete |
+| 15 | baraa .. bazla | 100 | complete |
+| 16 | bazlul .. caitlyn | 100 | complete |
+| 17 | cala .. darman | 100 | complete |
+| 18 | daroon .. diya | 100 | complete |
+| 19 | diyaa .. elvina | 100 | complete |
+| 20 | emaad .. fahda | 100 | complete |
+| 21 | fahdah .. fareedah | 100 | complete |
+| 22 | fareeha .. fateem | 100 | complete |
+| 23 | fateema .. ferdous | 100 | complete |
+| 24 | ferhat .. ghadir | 100 | complete |
+| 25 | ghaffar .. guzel | 100 | complete |
+| 26 | haadee .. hakeema | 100 | complete |
+
+
 ---
 
 # Hindu slice
@@ -43,44 +102,45 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 1000 |
-| Current batch | 10 |
-| Batch range | balwant .. bhadur (100) |
-| Batches completed | 10 |
-| Verified forms | 641 |
-| Unverified forms (no gloss asserted) | 359 |
-| Next batch starts after | bhadur |
-| Updated | 2026-10-03T05:19:55Z |
+| Names completed | 1100 |
+| Current batch | 11 |
+| Batch range | bhagaban .. bholanath (100) |
+| Batches completed | 11 |
+| Verified forms | 729 |
+| Unverified forms (no gloss asserted) | 371 |
+| Next batch starts after | bholanath |
+| Updated | 2026-10-03T05:22:22Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 482 |
-| low | 10 |
-| medium | 149 |
-| unverified | 359 |
+| high | 544 |
+| low | 24 |
+| medium | 161 |
+| unverified | 371 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 545 |
+| Sanskrit | 554 |
 | Unknown | 215 |
+| Hindi | 118 |
 | Arabic | 67 |
-| Hindi | 52 |
-| Tamil | 27 |
+| Tamil | 31 |
 | Persian | 19 |
-| Bengali | 15 |
-| Punjabi | 11 |
-| Gujarati | 11 |
-| Marathi | 9 |
+| Gujarati | 18 |
+| Bengali | 16 |
+| Marathi | 14 |
+| Punjabi | 13 |
+| Telugu | 9 |
 | Kannada | 8 |
-| Telugu | 6 |
-| Odia | 5 |
+| Odia | 6 |
 | English | 3 |
 | Malayalam | 3 |
 | Hebrew | 2 |
+| Assamese | 2 |
 | Japanese | 1 |
 | Kashmiri | 1 |
 
@@ -102,4 +162,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 10 | balwant .. bhadur | 100 | complete |
+| 11 | bhagaban .. bholanath | 100 | complete |

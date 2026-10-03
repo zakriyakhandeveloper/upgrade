@@ -109,7 +109,7 @@
 | Verified forms | 729 |
 | Unverified forms (no gloss asserted) | 371 |
 | Next batch starts after | bholanath |
-| Updated | 2026-10-03T05:22:22Z |
+| Updated | 2026-10-03T05:23:26Z |
 
 ## Hindu confidence summary
 

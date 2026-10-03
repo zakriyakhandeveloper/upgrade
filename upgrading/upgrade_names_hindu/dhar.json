@@ -1,0 +1,302 @@
+{
+  "success": true,
+  "data": {
+    "name": "Dhar",
+    "slug": "dhar",
+    "identity": {
+      "display_name": "Dhar",
+      "normalized_name": "dhar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "origin": "Hindi",
+      "origin_confidence": "low",
+      "religion": "Not established",
+      "religious_association": "No religious classification established",
+      "category": "Unclassified",
+      "language": [
+        {
+          "name": "Hindi",
+          "relationship": "modern_usage"
+        }
+      ]
+    },
+    "meaning": {
+      "short_meaning": "Not objectively established",
+      "alternative_meanings": [],
+      "long_meaning": "No verified lexical identification was established for Dhar. A short form of dhar (holding, bearing); no distinct lexical form was verified. This record documents that finding rather than supplying a plausible gloss.",
+      "meaning_note": "No verified lexical identification was established for Dhar. A short form of dhar (holding, bearing); no distinct lexical form was verified. No meaning is asserted, because asserting one would require inventing evidence.",
+      "etymology": {
+        "form": null,
+        "romanization": "dhar",
+        "modern_english_form": "Dhar",
+        "components": [],
+        "etymology_confidence": "low"
+      }
+    },
+    "spiritual_meaning": {
+      "value": null,
+      "type": "interpretive",
+      "note": "No spiritual interpretation is offered because the lexical form is unverified."
+    },
+    "spiritual_significance": {
+      "value": null,
+      "evidence_level": "none"
+    },
+    "spiritual_symbolism": {
+      "primary": [],
+      "note": "No symbolism is asserted because the lexical form is unverified."
+    },
+    "personality": {
+      "emotional_traits": [],
+      "hidden_personality_traits": [],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics. No empirical personality trait can be inferred from a name."
+    },
+    "numerology": {
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "status": "belief_based",
+      "note": "Numerological values are belief-based and are not linguistic, historical, scientific or religious facts. A life-path number derives from a birth date, not from a name; no name-derived number is asserted here."
+    },
+    "traditional_luck_attributes": {
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "status": "not_established",
+      "note": "No authoritative lucky day, colour or gemstone is established by the etymology of this name. Such attributes belong to specific astrological systems and are not asserted without a stated method."
+    },
+    "scripts": {
+      "sanskrit": {
+        "name": null,
+        "transliteration": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified Sanskrit form or translation was established. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": null,
+        "transliteration": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified Hindi form or translation was established. A meaning is deliberately not asserted."
+      },
+      "marathi": {
+        "name": null,
+        "transliteration": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified Marathi form or translation was established. A meaning is deliberately not asserted."
+      },
+      "bengali": {
+        "name": null,
+        "transliteration": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified Bengali form or translation was established. A meaning is deliberately not asserted."
+      },
+      "tamil": {
+        "name": null,
+        "transliteration": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified Tamil form or translation was established. A meaning is deliberately not asserted."
+      },
+      "telugu": {
+        "name": null,
+        "transliteration": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified Telugu form or translation was established. A meaning is deliberately not asserted."
+      }
+    },
+    "pronunciation": {
+      "english": "dhar",
+      "common_indian_english": "dhar",
+      "ipa": null,
+      "note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only."
+    },
+    "name_forms": {
+      "traditional_sanskrit_form": null,
+      "modern_english_form": "Dhar",
+      "native_sanskrit_script": null,
+      "variants": [
+        "Dhar",
+        "dhar"
+      ],
+      "note": "Romanization variants reflect different transliteration conventions. Regional-script forms are script representations of the same name, not independent etymologies."
+    },
+    "religious_and_cultural_context": {
+      "religion": "Not established",
+      "religious_usage": "No documented religious usage was established.",
+      "scriptural_status": "not_established",
+      "vedic_status": "not_established",
+      "vedic_note": "No occurrence of this exact form in the Vedic corpus was verified. Absence of verification is not a claim of absence.",
+      "deity_association": null,
+      "epic_status": "not_established",
+      "note": "Sanskrit origin does not by itself make a name Hindu, and Hindu usage does not by itself make a name Vedic. These categories are kept separate."
+    },
+    "historical_references": [],
+    "historical_status": "not_established",
+    "historical_note": "No documented historical bearer of this exact name was verified. No person is invented to fill this field.",
+    "cultural_impact": {
+      "summary": "No cultural impact is asserted because the lexical form is unverified.",
+      "historical_claims": [],
+      "note": "Hindu traditions are diverse. No claim is made here that a practice is universal across regions, sects or communities."
+    },
+    "modern_usage": {
+      "context": "modern_indic_naming",
+      "common_contexts": [],
+      "usage_note": "Personal-name popularity must be measured from a defined dataset and is not inferred from lexical presence."
+    },
+    "notable_people": [],
+    "popularity": {
+      "overall_score": null,
+      "regional_scores": [],
+      "status": "unavailable",
+      "note": "No official or transparent statistical dataset for this name was available. A popularity score is not manufactured from intuition or from website frequency."
+    },
+    "social_tags": [
+      "#Dhar",
+      "#NameMeaning"
+    ],
+    "related_names": {
+      "similar_sounding_names": [],
+      "note": "Phonetic-similarity lists are not asserted: a name that merely sounds similar is not a variant, a morphological relative or a semantic relative."
+    },
+    "name_in_real_life": {
+      "status": "not_established",
+      "person_name": null,
+      "location": null,
+      "story": null,
+      "note": "No sourceable real-life naming story was found. A person, family, village or temple is never invented to fill this field."
+    },
+    "seo": {
+      "title": "Dhar — Name Form Not Verified",
+      "meta_description": "The form Dhar could not be verified against a Tier-A/B source. This page records that finding rather than asserting an unverified meaning.",
+      "h1": "Dhar Name Meaning, Origin and Cultural Background",
+      "canonical_topic": "Dhar name meaning and origin",
+      "description_paragraph": "Dhar could not be matched to a verified lexical form. No meaning is asserted for this form.",
+      "secondary_description": "The record documents the negative finding and the reason no gloss is asserted.",
+      "primary_keywords": [
+        "Dhar meaning",
+        "Dhar name meaning",
+        "Dhar origin"
+      ],
+      "secondary_keywords": [
+        "Dhar in Sanskrit",
+        "Dhar pronunciation",
+        "Dhar name"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "script",
+        "pronunciation",
+        "cultural context",
+        "variants"
+      ],
+      "faq": [
+        {
+          "q": "What does Dhar mean?",
+          "a": "No verified meaning was established for Dhar. The form could not be matched to a Tier-A/B source, so no gloss is asserted."
+        },
+        {
+          "q": "What is the origin of Dhar?",
+          "a": "No verified origin was established for Dhar. A short form of dhar (holding, bearing); no distinct lexical form was verified."
+        },
+        {
+          "q": "Is Dhar a Sanskrit name?",
+          "a": "This could not be verified. No Sanskrit form was established for Dhar, so no claim is made."
+        },
+        {
+          "q": "Is Dhar a Hindu name?",
+          "a": "No religious classification was established for Dhar."
+        },
+        {
+          "q": "Is Dhar mentioned in the Vedas?",
+          "a": "No — no Vedic occurrence was verified for Dhar, and none is claimed."
+        },
+        {
+          "q": "How is Dhar written in Indian scripts?",
+          "a": "No verified script form was established for Dhar."
+        },
+        {
+          "q": "How is Dhar pronounced?",
+          "a": "A romanized syllable approximation is dhar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        },
+        {
+          "q": "Is Dhar a boy's or girl's name?",
+          "a": "No documented personal-name gender usage was established for Dhar."
+        }
+      ],
+      "content_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
+      }
+    },
+    "structured_data_recommendations": {
+      "page_types": [
+        "DefinedTerm"
+      ],
+      "optional_types": [],
+      "faq_schema": {
+        "recommended": true,
+        "reason": "FAQ answers are present on the page and are consistent with the record."
+      },
+      "note": "The name is not a person. @type Person must never be used for a name record; DefinedTerm is used instead."
+    },
+    "content_integrity": {
+      "hallucination_risk": "low",
+      "verified_core_claims": [
+        "Negative finding: no verified lexical identification was established."
+      ],
+      "removed_or_unverified_claims": [
+        "invented popularity scores and regional scores",
+        "invented lucky number, day, colour and gemstone",
+        "invented personality and life-path claims",
+        "invented historical persons and dates",
+        "invented real-life stories",
+        "unsupported Vedic or scriptural occurrence claims",
+        "English glosses copied into non-English script fields",
+        "application/monetization configuration"
+      ]
+    },
+    "sources": [
+      {
+        "type": "Tier A",
+        "source": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Dictionaries)",
+        "subject": "lexical form and sense",
+        "supports": [
+          "meaning",
+          "etymology",
+          "script form"
+        ]
+      },
+      {
+        "type": "Tier C",
+        "source": "NameVerse source record (discovery lead only)",
+        "subject": "raw entry",
+        "supports": [
+          "name identity"
+        ]
+      }
+    ],
+    "updated_at": "2026-10-03T00:00:00.000Z"
+  }
+}

@@ -109,7 +109,7 @@
 | Verified forms | 527 |
 | Unverified forms (no gloss asserted) | 273 |
 | Next batch starts after | baba |
-| Updated | 2026-10-03T04:39:44Z |
+| Updated | 2026-10-03T05:13:24Z |
 
 ## Hindu confidence summary
 

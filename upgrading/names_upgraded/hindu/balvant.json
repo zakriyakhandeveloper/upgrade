@@ -1,0 +1,318 @@
+{
+  "success": true,
+  "data": {
+    "name": "Balvant",
+    "slug": "balvant",
+    "identity": {
+      "display_name": "Balvant",
+      "normalized_name": "balvant",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "origin": "Sanskrit",
+      "origin_confidence": "high",
+      "religion": "Hindu",
+      "religious_association": "Hindu naming usage",
+      "category": "Hindu",
+      "language": [
+        {
+          "name": "Sanskrit",
+          "relationship": "original_source"
+        },
+        {
+          "name": "Hindi",
+          "relationship": "modern_usage"
+        }
+      ]
+    },
+    "meaning": {
+      "short_meaning": "Powerful, strong, mighty",
+      "alternative_meanings": [
+        "strong",
+        "mighty"
+      ],
+      "long_meaning": "Balvant corresponds to the Sanskrit form बलवत्. Its core lexical sense is powerful, strong, mighty. बलवंत (balavant) means powerful or strong; a spelling variant of balavant.",
+      "meaning_note": "The gloss is the verified lexical sense of बलवत्. बलवंत (balavant) means powerful or strong; a spelling variant of balavant.",
+      "etymology": {
+        "form": "बलवत्",
+        "romanization": "balvant",
+        "modern_english_form": "Balvant",
+        "components": [],
+        "etymology_confidence": "high"
+      }
+    },
+    "spiritual_meaning": {
+      "value": "A life that reflects the positive sense of powerful.",
+      "type": "interpretive",
+      "note": "This is a positive symbolic interpretation of the lexical meaning. It is not a revealed religious definition of the name and no doctrinal claim is made."
+    },
+    "spiritual_significance": {
+      "value": "The name is used in Hindu naming practice; its documented basis is lexical rather than doctrinal.",
+      "evidence_level": "C"
+    },
+    "spiritual_symbolism": {
+      "primary": [
+        "powerful",
+        "strong",
+        "mighty"
+      ],
+      "note": "Symbolic associations derived from the lexical sense. They are interpretive and must not be presented as objective religious fact."
+    },
+    "personality": {
+      "emotional_traits": [
+        "Powerful",
+        "Strong",
+        "Mighty"
+      ],
+      "hidden_personality_traits": [],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics. No empirical personality trait can be inferred from a name."
+    },
+    "numerology": {
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "status": "belief_based",
+      "note": "Numerological values are belief-based and are not linguistic, historical, scientific or religious facts. A life-path number derives from a birth date, not from a name; no name-derived number is asserted here."
+    },
+    "traditional_luck_attributes": {
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "status": "not_established",
+      "note": "No authoritative lucky day, colour or gemstone is established by the etymology of this name. Such attributes belong to specific astrological systems and are not asserted without a stated method."
+    },
+    "scripts": {
+      "sanskrit": {
+        "name": "बलवत्",
+        "transliteration": "balvant",
+        "meaning": "बलवत्",
+        "long_meaning": "बलवत् (balvant) — बलवत्",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "बलवंत",
+        "transliteration": "balvant",
+        "meaning": "बलवंत",
+        "long_meaning": "बलवंत (balvant) — बलवंत",
+        "translation_status": "verified"
+      },
+      "marathi": {
+        "name": "बलवंत",
+        "transliteration": "balvant",
+        "meaning": "बलवंत",
+        "long_meaning": "बलवंत (balvant) — बलवंत",
+        "translation_status": "verified"
+      },
+      "bengali": {
+        "name": "বলবন্ত",
+        "transliteration": "balvant",
+        "meaning": "বলবন্ত",
+        "long_meaning": "বলবন্ত (balvant) — বলবন্ত",
+        "translation_status": "verified"
+      },
+      "tamil": {
+        "name": "பலவான்",
+        "transliteration": "balvant",
+        "meaning": "பலவான்",
+        "long_meaning": "பலவான் (balvant) — பலவான்",
+        "translation_status": "verified"
+      },
+      "telugu": {
+        "name": "బలవంతుడు",
+        "transliteration": "balvant",
+        "meaning": "బలవంతుడు",
+        "long_meaning": "బలవంతుడు (balvant) — బలవంతుడు",
+        "translation_status": "verified"
+      }
+    },
+    "pronunciation": {
+      "english": "bal-vant",
+      "common_indian_english": "bal-vant",
+      "ipa": null,
+      "note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only."
+    },
+    "name_forms": {
+      "traditional_sanskrit_form": "बलवत्",
+      "modern_english_form": "Balvant",
+      "native_sanskrit_script": "बलवत्",
+      "variants": [
+        "Balvant",
+        "balvant"
+      ],
+      "note": "Romanization variants reflect different transliteration conventions. Regional-script forms are script representations of the same name, not independent etymologies."
+    },
+    "religious_and_cultural_context": {
+      "religion": "Hindu",
+      "religious_usage": "Used as a personal name in Hindu communities.",
+      "scriptural_status": "not_established",
+      "vedic_status": "not_established",
+      "vedic_note": "No occurrence of this exact form in the Vedic corpus was verified. Absence of verification is not a claim of absence.",
+      "deity_association": null,
+      "epic_status": "not_established",
+      "note": "Sanskrit origin does not by itself make a name Hindu, and Hindu usage does not by itself make a name Vedic. These categories are kept separate."
+    },
+    "historical_references": [],
+    "historical_status": "not_established",
+    "historical_note": "No documented historical bearer of this exact name was verified. No person is invented to fill this field.",
+    "cultural_impact": {
+      "summary": "The name is used in Hindu naming practice; its documented basis is the lexical sense powerful, strong, mighty.",
+      "historical_claims": [],
+      "note": "Hindu traditions are diverse. No claim is made here that a practice is universal across regions, sects or communities."
+    },
+    "modern_usage": {
+      "context": "modern_indic_naming",
+      "common_contexts": [
+        "Hindu personal names",
+        "Indian diaspora naming"
+      ],
+      "usage_note": "Personal-name popularity must be measured from a defined dataset and is not inferred from lexical presence."
+    },
+    "notable_people": [],
+    "popularity": {
+      "overall_score": null,
+      "regional_scores": [],
+      "status": "unavailable",
+      "note": "No official or transparent statistical dataset for this name was available. A popularity score is not manufactured from intuition or from website frequency."
+    },
+    "social_tags": [
+      "#Balvant",
+      "#BalvantMeaning",
+      "#HinduNames",
+      "#SanskritNames",
+      "#NameMeaning"
+    ],
+    "related_names": {
+      "similar_sounding_names": [],
+      "note": "Phonetic-similarity lists are not asserted: a name that merely sounds similar is not a variant, a morphological relative or a semantic relative."
+    },
+    "name_in_real_life": {
+      "status": "not_established",
+      "person_name": null,
+      "location": null,
+      "story": null,
+      "note": "No sourceable real-life naming story was found. A person, family, village or temple is never invented to fill this field."
+    },
+    "seo": {
+      "title": "Balvant Name Meaning, Origin & Sanskrit Etymology",
+      "meta_description": "Explore the meaning, Sanskrit origin, script forms, pronunciation and cultural context of the name Balvant (बलवत्).",
+      "h1": "Balvant Name Meaning, Origin and Cultural Background",
+      "canonical_topic": "Balvant name meaning and origin",
+      "description_paragraph": "The name Balvant corresponds to the Sanskrit form बलवत्, whose core lexical sense is powerful, strong, mighty. बलवंत (balavant) means powerful or strong; a spelling variant of balavant.",
+      "secondary_description": "The record documents the script forms, pronunciation approximation and the distinction between lexical meaning and religious or cultural association.",
+      "primary_keywords": [
+        "Balvant meaning",
+        "Balvant name meaning",
+        "Balvant origin"
+      ],
+      "secondary_keywords": [
+        "Balvant in Sanskrit",
+        "Balvant pronunciation",
+        "Balvant name"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "script",
+        "pronunciation",
+        "cultural context",
+        "variants"
+      ],
+      "faq": [
+        {
+          "q": "What does Balvant mean?",
+          "a": "Balvant corresponds to the Sanskrit form बलवत्, whose core lexical sense is powerful, strong, mighty."
+        },
+        {
+          "q": "What is the origin of Balvant?",
+          "a": "Balvant is associated with Sanskrit. बलवंत (balavant) means powerful or strong; a spelling variant of balavant."
+        },
+        {
+          "q": "Is Balvant a Sanskrit name?",
+          "a": "Yes — the underlying form बलवत् is Sanskrit."
+        },
+        {
+          "q": "Is Balvant a Hindu name?",
+          "a": "Balvant is used in Hindu naming practice, but Sanskrit origin alone does not make a name Hindu. The classification here rests on documented naming usage."
+        },
+        {
+          "q": "Is Balvant mentioned in the Vedas?",
+          "a": "No occurrence of this exact form in the Vedic corpus was verified. Absence of verification is not a claim of absence."
+        },
+        {
+          "q": "How is Balvant written in Indian scripts?",
+          "a": "Sanskrit बलवत्, Hindi बलवंत, Marathi बलवंत, Bengali বলবন্ত, Tamil பலவான், Telugu బలవంతుడు."
+        },
+        {
+          "q": "How is Balvant pronounced?",
+          "a": "A romanized syllable approximation is bal-vant. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        },
+        {
+          "q": "Is Balvant a boy's or girl's name?",
+          "a": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+        }
+      ],
+      "content_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
+      }
+    },
+    "structured_data_recommendations": {
+      "page_types": [
+        "DefinedTerm"
+      ],
+      "optional_types": [],
+      "faq_schema": {
+        "recommended": true,
+        "reason": "FAQ answers are present on the page and are consistent with the record."
+      },
+      "note": "The name is not a person. @type Person must never be used for a name record; DefinedTerm is used instead."
+    },
+    "content_integrity": {
+      "hallucination_risk": "low",
+      "verified_core_claims": [
+        "The form बलवत् is an established Sanskrit lexical item.",
+        "Its core lexical sense is powerful, strong, mighty."
+      ],
+      "removed_or_unverified_claims": [
+        "invented popularity scores and regional scores",
+        "invented lucky number, day, colour and gemstone",
+        "invented personality and life-path claims",
+        "invented historical persons and dates",
+        "invented real-life stories",
+        "unsupported Vedic or scriptural occurrence claims",
+        "English glosses copied into non-English script fields",
+        "application/monetization configuration"
+      ]
+    },
+    "sources": [
+      {
+        "type": "Tier A",
+        "source": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Dictionaries)",
+        "subject": "lexical form and sense",
+        "supports": [
+          "meaning",
+          "etymology",
+          "script form"
+        ]
+      },
+      {
+        "type": "Tier C",
+        "source": "NameVerse source record (discovery lead only)",
+        "subject": "raw entry",
+        "supports": [
+          "name identity"
+        ]
+      }
+    ],
+    "updated_at": "2026-10-03T00:00:00.000Z"
+  }
+}

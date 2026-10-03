@@ -26057,18 +26057,18 @@
   "total_failures": 0
  },
  "next_batch_starts_after": "hakeema",
- "updated_at": "2026-10-03T05:13:24Z",
+ "updated_at": "2026-10-03T05:13:25Z",
  "hindu": {
   "culture": "hindu",
   "total_names_in_slice": 5885,
-  "names_completed": 800,
-  "current_batch": 8,
+  "names_completed": 900,
+  "current_batch": 9,
   "batch_range": {
-   "first": "athi",
-   "last": "baba",
+   "first": "babai",
+   "last": "balvir",
    "count": 100
   },
-  "batches_completed": 8,
+  "batches_completed": 9,
   "per_name": [
    {
     "name": "Aaba",
@@ -34069,30 +34069,1034 @@
     "gender": "Male",
     "manual_review_required": false,
     "reason": null
+   },
+   {
+    "name": "Babai",
+    "slug": "babai",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babai. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Babaloo",
+    "slug": "babaloo",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babaloo. No verified lexical form was established; this is an affectionate coinage of babu, not a lexical"
+   },
+   {
+    "name": "Babalu",
+    "slug": "babalu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babalu. No verified lexical form was established; this is an affectionate coinage of babu, not a lexical "
+   },
+   {
+    "name": "Baban",
+    "slug": "baban",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Baban. No verified lexical form was established; a Marathi diminutive of babu rather than a distinct lexi"
+   },
+   {
+    "name": "Babasaheb",
+    "slug": "babasaheb",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Babaso",
+    "slug": "babaso",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babaso. No verified lexical form was established; a Marathi diminutive of babu rather than a distinct lex"
+   },
+   {
+    "name": "Babban",
+    "slug": "babban",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babban. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+   },
+   {
+    "name": "Babblu",
+    "slug": "babblu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babblu. No verified lexical form was established; an affectionate Hindi diminutive, not a lexical item. N"
+   },
+   {
+    "name": "Babji",
+    "slug": "babji",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babji. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+   },
+   {
+    "name": "Babloo",
+    "slug": "babloo",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babloo. No verified lexical form was established; an affectionate Hindi diminutive, not a lexical item. N"
+   },
+   {
+    "name": "Bablu",
+    "slug": "bablu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bablu. No verified lexical form was established; an affectionate Hindi diminutive, not a lexical item. No"
+   },
+   {
+    "name": "Bablukumar",
+    "slug": "bablukumar",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bablukumar. bablu (affectionate diminutive) + kumar (son, prince); the compound has no distinct lexical s"
+   },
+   {
+    "name": "Babon",
+    "slug": "babon",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babon. No verified lexical form was established; a Bengali affectionate form, not a lexical item. No mean"
+   },
+   {
+    "name": "Babu",
+    "slug": "babu",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Babubhai",
+    "slug": "babubhai",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Babul",
+    "slug": "babul",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Babula",
+    "slug": "babula",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babula. No verified lexical form was established; a diminutive of babu rather than a distinct lexical ite"
+   },
+   {
+    "name": "Babuli",
+    "slug": "babuli",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babuli. No verified lexical form was established; a diminutive of babu rather than a distinct lexical ite"
+   },
+   {
+    "name": "Babulu",
+    "slug": "babulu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babulu. No verified lexical form was established; a diminutive of babu rather than a distinct lexical ite"
+   },
+   {
+    "name": "Babun",
+    "slug": "babun",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babun. No verified lexical form was established; a Bengali affectionate form, not a lexical item. No mean"
+   },
+   {
+    "name": "Babuna",
+    "slug": "babuna",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Babuna. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+   },
+   {
+    "name": "Baburam",
+    "slug": "baburam",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baburao",
+    "slug": "baburao",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Babusona",
+    "slug": "babusona",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "The gloss is the verified lexical sense of बाबूसोना. An affectionate Hindi compound of babu and sona (gold); the source record asserted no usable gloss."
+   },
+   {
+    "name": "Bacchu",
+    "slug": "bacchu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bacchu. No verified lexical form was established; a diminutive of baccha (child), not a lexical item. No "
+   },
+   {
+    "name": "Bachan",
+    "slug": "bachan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bachchan",
+    "slug": "bachchan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bachchu",
+    "slug": "bachchu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bachchu. No verified lexical form was established; a diminutive of baccha (child), not a lexical item. No"
+   },
+   {
+    "name": "Bachhu",
+    "slug": "bachhu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bachhu. No verified lexical form was established; a diminutive of baccha (child), not a lexical item. No "
+   },
+   {
+    "name": "Bachu",
+    "slug": "bachu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bachu. No verified lexical form was established; a diminutive of baccha (child), not a lexical item. No m"
+   },
+   {
+    "name": "Bada",
+    "slug": "bada",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bada. bada (big, elder) is a common Hindi adjective, not an established personal name; no name identity w"
+   },
+   {
+    "name": "Badal",
+    "slug": "badal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Badan",
+    "slug": "badan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Badan. badan (body) is a common Hindi noun, not an established personal name; no name identity was verifi"
+   },
+   {
+    "name": "Bade",
+    "slug": "bade",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bade. bade (big, elder) is a common Hindi adjective, not an established personal name; no name identity w"
+   },
+   {
+    "name": "Badmas",
+    "slug": "badmas",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Badmas. badmas (rascal, rogue) is a common Hindi noun of abuse, not a personal name; no name identity was"
+   },
+   {
+    "name": "Badmash",
+    "slug": "badmash",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Badmash. badmash (rascal, rogue) is a common Hindi noun of abuse, not a personal name; no name identity w"
+   },
+   {
+    "name": "Badre",
+    "slug": "badre",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Badre. Arabic badr (full moon) with an added ending; no verified Indic lexical form. The source record as"
+   },
+   {
+    "name": "Badrinath",
+    "slug": "badrinath",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Badsa",
+    "slug": "badsa",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Persian",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "The gloss is the verified lexical sense of None. A clipped form of Persian padishah (emperor). The source gloss is semantically right but the word is Persian, n"
+   },
+   {
+    "name": "Badsah",
+    "slug": "badsah",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Persian",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "The gloss is the verified lexical sense of None. A variant of Persian padishah (emperor). The source gloss is semantically right but the word is Persian, not Sa"
+   },
+   {
+    "name": "Badsha",
+    "slug": "badsha",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Persian",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "The gloss is the verified lexical sense of None. A variant of Persian padishah (emperor). The source gloss is semantically right but the word is Persian, not Sa"
+   },
+   {
+    "name": "Baharul",
+    "slug": "baharul",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Baharul. The source record asserted no usable gloss; the spelling is consistent with an Arabic-derived na"
+   },
+   {
+    "name": "Bahdeng",
+    "slug": "bahdeng",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bahdeng. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+   },
+   {
+    "name": "Bahduh",
+    "slug": "bahduh",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bahduh. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+   },
+   {
+    "name": "Bahubali",
+    "slug": "bahubali",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baibhav",
+    "slug": "baibhav",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baidhnath",
+    "slug": "baidhnath",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baidyanath",
+    "slug": "baidyanath",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baijnath",
+    "slug": "baijnath",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baiju",
+    "slug": "baiju",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Baiju. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Bajarang",
+    "slug": "bajarang",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baji",
+    "slug": "baji",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "The gloss is the verified lexical sense of बाजी. बाजी (baji) means a wager or stake, and is also a Marathi honorific. The source record asserted no usable gloss"
+   },
+   {
+    "name": "Bajrangi",
+    "slug": "bajrangi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bal",
+    "slug": "bal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bala",
+    "slug": "bala",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balabhadra",
+    "slug": "balabhadra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balachandra",
+    "slug": "balachandra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balai",
+    "slug": "balai",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balai. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+   },
+   {
+    "name": "Balajee",
+    "slug": "balajee",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balaji",
+    "slug": "balaji",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balak",
+    "slug": "balak",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balakrishna",
+    "slug": "balakrishna",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balakrishnan",
+    "slug": "balakrishnan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balam",
+    "slug": "balam",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balam. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+   },
+   {
+    "name": "Balappa",
+    "slug": "balappa",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Kannada",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balappa. No verified lexical form was established; a Kannada name formed with the masculine suffix -appa "
+   },
+   {
+    "name": "Balaraj",
+    "slug": "balaraj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balaraju",
+    "slug": "balaraju",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Telugu",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balasaheb",
+    "slug": "balasaheb",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balasaheb. A Marathi honorific compound rather than a lexical item; the source record asserted no usable "
+   },
+   {
+    "name": "Balaso",
+    "slug": "balaso",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balaso. No verified lexical form was established; a Marathi affectionate form rather than a lexical item."
+   },
+   {
+    "name": "Balavant",
+    "slug": "balavant",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balbeer",
+    "slug": "balbeer",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balbinder",
+    "slug": "balbinder",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balbir",
+    "slug": "balbir",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balchand",
+    "slug": "balchand",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baldev",
+    "slug": "baldev",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balen",
+    "slug": "balen",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balen. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+   },
+   {
+    "name": "Balendra",
+    "slug": "balendra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balesh",
+    "slug": "balesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baleshwar",
+    "slug": "baleshwar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bali",
+    "slug": "bali",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balindar",
+    "slug": "balindar",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balinder",
+    "slug": "balinder",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balindra",
+    "slug": "balindra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Baliram",
+    "slug": "baliram",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balistar",
+    "slug": "balistar",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balistar. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mea"
+   },
+   {
+    "name": "Baljeet",
+    "slug": "baljeet",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balkar",
+    "slug": "balkar",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balkar. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+   },
+   {
+    "name": "Balkishan",
+    "slug": "balkishan",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balkrishan",
+    "slug": "balkrishan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balkrishna",
+    "slug": "balkrishna",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balkrushna",
+    "slug": "balkrushna",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balli",
+    "slug": "balli",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Balli. No verified lexical form was established; an affectionate diminutive rather than a lexical item. N"
+   },
+   {
+    "name": "Ballu",
+    "slug": "ballu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Ballu. No verified lexical form was established; an affectionate Hindi diminutive, not a lexical item. No"
+   },
+   {
+    "name": "Balmiki",
+    "slug": "balmiki",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balraj",
+    "slug": "balraj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balram",
+    "slug": "balram",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balvant",
+    "slug": "balvant",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balveer",
+    "slug": "balveer",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balvinder",
+    "slug": "balvinder",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Balvir",
+    "slug": "balvir",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
    }
   ],
   "confidence_summary": {
-   "unverified": 273,
-   "high": 405,
-   "medium": 122
+   "unverified": 314,
+   "high": 445,
+   "medium": 136,
+   "low": 5
   },
   "origin_summary": {
-   "Unknown": 184,
-   "Sanskrit": 505,
-   "Persian": 15,
-   "Arabic": 63,
-   "Tamil": 18,
+   "Unknown": 198,
+   "Sanskrit": 542,
+   "Persian": 18,
+   "Arabic": 65,
+   "Tamil": 20,
    "Japanese": 1,
    "English": 3,
-   "Punjabi": 3,
+   "Punjabi": 9,
    "Hebrew": 2,
-   "Telugu": 2,
-   "Marathi": 1,
-   "Kannada": 1,
-   "Malayalam": 2
+   "Telugu": 3,
+   "Marathi": 8,
+   "Kannada": 2,
+   "Malayalam": 2,
+   "Hindi": 22,
+   "Bengali": 4,
+   "Gujarati": 1
   },
-  "verified_forms": 527,
-  "unverified_forms": 273,
+  "verified_forms": 586,
+  "unverified_forms": 314,
   "quality_gate": {
    "invalid_json": 0,
    "conflict_markers": 0,
@@ -34104,8 +35108,8 @@
    "broken_text": 0,
    "total_failures": 0
   },
-  "next_batch_starts_after": "baba",
-  "updated_at": "2026-10-03T05:13:24Z"
+  "next_batch_starts_after": "balvir",
+  "updated_at": "2026-10-03T05:13:25Z"
  },
  "slices": {
   "islamic": {
@@ -60167,7 +61171,7 @@
     "total_failures": 0
    },
    "next_batch_starts_after": "hakeema",
-   "updated_at": "2026-10-03T04:39:44Z",
+   "updated_at": "2026-10-03T05:13:24Z",
    "hindu": {
     "culture": "hindu",
     "total_names_in_slice": 5885,
@@ -68215,20 +69219,20 @@
      "total_failures": 0
     },
     "next_batch_starts_after": "baba",
-    "updated_at": "2026-10-03T04:39:44Z"
+    "updated_at": "2026-10-03T05:13:24Z"
    }
   },
   "hindu": {
    "culture": "hindu",
    "total_names_in_slice": 5885,
-   "names_completed": 800,
-   "current_batch": 8,
+   "names_completed": 900,
+   "current_batch": 9,
    "batch_range": {
-    "first": "athi",
-    "last": "baba",
+    "first": "babai",
+    "last": "balvir",
     "count": 100
    },
-   "batches_completed": 8,
+   "batches_completed": 9,
    "per_name": [
     {
      "name": "Aaba",
@@ -76229,30 +77233,1034 @@
      "gender": "Male",
      "manual_review_required": false,
      "reason": null
+    },
+    {
+     "name": "Babai",
+     "slug": "babai",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babai. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Babaloo",
+     "slug": "babaloo",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babaloo. No verified lexical form was established; this is an affectionate coinage of babu, not a lexical"
+    },
+    {
+     "name": "Babalu",
+     "slug": "babalu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babalu. No verified lexical form was established; this is an affectionate coinage of babu, not a lexical "
+    },
+    {
+     "name": "Baban",
+     "slug": "baban",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Baban. No verified lexical form was established; a Marathi diminutive of babu rather than a distinct lexi"
+    },
+    {
+     "name": "Babasaheb",
+     "slug": "babasaheb",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Babaso",
+     "slug": "babaso",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babaso. No verified lexical form was established; a Marathi diminutive of babu rather than a distinct lex"
+    },
+    {
+     "name": "Babban",
+     "slug": "babban",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babban. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+    },
+    {
+     "name": "Babblu",
+     "slug": "babblu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babblu. No verified lexical form was established; an affectionate Hindi diminutive, not a lexical item. N"
+    },
+    {
+     "name": "Babji",
+     "slug": "babji",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babji. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+    },
+    {
+     "name": "Babloo",
+     "slug": "babloo",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babloo. No verified lexical form was established; an affectionate Hindi diminutive, not a lexical item. N"
+    },
+    {
+     "name": "Bablu",
+     "slug": "bablu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bablu. No verified lexical form was established; an affectionate Hindi diminutive, not a lexical item. No"
+    },
+    {
+     "name": "Bablukumar",
+     "slug": "bablukumar",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bablukumar. bablu (affectionate diminutive) + kumar (son, prince); the compound has no distinct lexical s"
+    },
+    {
+     "name": "Babon",
+     "slug": "babon",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babon. No verified lexical form was established; a Bengali affectionate form, not a lexical item. No mean"
+    },
+    {
+     "name": "Babu",
+     "slug": "babu",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Babubhai",
+     "slug": "babubhai",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Babul",
+     "slug": "babul",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Babula",
+     "slug": "babula",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babula. No verified lexical form was established; a diminutive of babu rather than a distinct lexical ite"
+    },
+    {
+     "name": "Babuli",
+     "slug": "babuli",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babuli. No verified lexical form was established; a diminutive of babu rather than a distinct lexical ite"
+    },
+    {
+     "name": "Babulu",
+     "slug": "babulu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babulu. No verified lexical form was established; a diminutive of babu rather than a distinct lexical ite"
+    },
+    {
+     "name": "Babun",
+     "slug": "babun",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babun. No verified lexical form was established; a Bengali affectionate form, not a lexical item. No mean"
+    },
+    {
+     "name": "Babuna",
+     "slug": "babuna",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Babuna. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+    },
+    {
+     "name": "Baburam",
+     "slug": "baburam",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baburao",
+     "slug": "baburao",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Babusona",
+     "slug": "babusona",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "The gloss is the verified lexical sense of बाबूसोना. An affectionate Hindi compound of babu and sona (gold); the source record asserted no usable gloss."
+    },
+    {
+     "name": "Bacchu",
+     "slug": "bacchu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bacchu. No verified lexical form was established; a diminutive of baccha (child), not a lexical item. No "
+    },
+    {
+     "name": "Bachan",
+     "slug": "bachan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bachchan",
+     "slug": "bachchan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bachchu",
+     "slug": "bachchu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bachchu. No verified lexical form was established; a diminutive of baccha (child), not a lexical item. No"
+    },
+    {
+     "name": "Bachhu",
+     "slug": "bachhu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bachhu. No verified lexical form was established; a diminutive of baccha (child), not a lexical item. No "
+    },
+    {
+     "name": "Bachu",
+     "slug": "bachu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bachu. No verified lexical form was established; a diminutive of baccha (child), not a lexical item. No m"
+    },
+    {
+     "name": "Bada",
+     "slug": "bada",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bada. bada (big, elder) is a common Hindi adjective, not an established personal name; no name identity w"
+    },
+    {
+     "name": "Badal",
+     "slug": "badal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Badan",
+     "slug": "badan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Badan. badan (body) is a common Hindi noun, not an established personal name; no name identity was verifi"
+    },
+    {
+     "name": "Bade",
+     "slug": "bade",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bade. bade (big, elder) is a common Hindi adjective, not an established personal name; no name identity w"
+    },
+    {
+     "name": "Badmas",
+     "slug": "badmas",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Badmas. badmas (rascal, rogue) is a common Hindi noun of abuse, not a personal name; no name identity was"
+    },
+    {
+     "name": "Badmash",
+     "slug": "badmash",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Badmash. badmash (rascal, rogue) is a common Hindi noun of abuse, not a personal name; no name identity w"
+    },
+    {
+     "name": "Badre",
+     "slug": "badre",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Arabic",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Badre. Arabic badr (full moon) with an added ending; no verified Indic lexical form. The source record as"
+    },
+    {
+     "name": "Badrinath",
+     "slug": "badrinath",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Badsa",
+     "slug": "badsa",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Persian",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "The gloss is the verified lexical sense of None. A clipped form of Persian padishah (emperor). The source gloss is semantically right but the word is Persian, n"
+    },
+    {
+     "name": "Badsah",
+     "slug": "badsah",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Persian",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "The gloss is the verified lexical sense of None. A variant of Persian padishah (emperor). The source gloss is semantically right but the word is Persian, not Sa"
+    },
+    {
+     "name": "Badsha",
+     "slug": "badsha",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Persian",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "The gloss is the verified lexical sense of None. A variant of Persian padishah (emperor). The source gloss is semantically right but the word is Persian, not Sa"
+    },
+    {
+     "name": "Baharul",
+     "slug": "baharul",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Arabic",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Baharul. The source record asserted no usable gloss; the spelling is consistent with an Arabic-derived na"
+    },
+    {
+     "name": "Bahdeng",
+     "slug": "bahdeng",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bahdeng. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+    },
+    {
+     "name": "Bahduh",
+     "slug": "bahduh",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bahduh. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+    },
+    {
+     "name": "Bahubali",
+     "slug": "bahubali",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baibhav",
+     "slug": "baibhav",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baidhnath",
+     "slug": "baidhnath",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baidyanath",
+     "slug": "baidyanath",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baijnath",
+     "slug": "baijnath",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baiju",
+     "slug": "baiju",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Baiju. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Bajarang",
+     "slug": "bajarang",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baji",
+     "slug": "baji",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "The gloss is the verified lexical sense of बाजी. बाजी (baji) means a wager or stake, and is also a Marathi honorific. The source record asserted no usable gloss"
+    },
+    {
+     "name": "Bajrangi",
+     "slug": "bajrangi",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bal",
+     "slug": "bal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bala",
+     "slug": "bala",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balabhadra",
+     "slug": "balabhadra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balachandra",
+     "slug": "balachandra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balai",
+     "slug": "balai",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balai. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+    },
+    {
+     "name": "Balajee",
+     "slug": "balajee",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balaji",
+     "slug": "balaji",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balak",
+     "slug": "balak",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balakrishna",
+     "slug": "balakrishna",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balakrishnan",
+     "slug": "balakrishnan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balam",
+     "slug": "balam",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balam. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+    },
+    {
+     "name": "Balappa",
+     "slug": "balappa",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Kannada",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balappa. No verified lexical form was established; a Kannada name formed with the masculine suffix -appa "
+    },
+    {
+     "name": "Balaraj",
+     "slug": "balaraj",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balaraju",
+     "slug": "balaraju",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Telugu",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balasaheb",
+     "slug": "balasaheb",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balasaheb. A Marathi honorific compound rather than a lexical item; the source record asserted no usable "
+    },
+    {
+     "name": "Balaso",
+     "slug": "balaso",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balaso. No verified lexical form was established; a Marathi affectionate form rather than a lexical item."
+    },
+    {
+     "name": "Balavant",
+     "slug": "balavant",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balbeer",
+     "slug": "balbeer",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balbinder",
+     "slug": "balbinder",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balbir",
+     "slug": "balbir",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balchand",
+     "slug": "balchand",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baldev",
+     "slug": "baldev",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balen",
+     "slug": "balen",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balen. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+    },
+    {
+     "name": "Balendra",
+     "slug": "balendra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balesh",
+     "slug": "balesh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baleshwar",
+     "slug": "baleshwar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bali",
+     "slug": "bali",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balindar",
+     "slug": "balindar",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balinder",
+     "slug": "balinder",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balindra",
+     "slug": "balindra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Baliram",
+     "slug": "baliram",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balistar",
+     "slug": "balistar",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balistar. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mea"
+    },
+    {
+     "name": "Baljeet",
+     "slug": "baljeet",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balkar",
+     "slug": "balkar",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balkar. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+    },
+    {
+     "name": "Balkishan",
+     "slug": "balkishan",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balkrishan",
+     "slug": "balkrishan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balkrishna",
+     "slug": "balkrishna",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balkrushna",
+     "slug": "balkrushna",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balli",
+     "slug": "balli",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Balli. No verified lexical form was established; an affectionate diminutive rather than a lexical item. N"
+    },
+    {
+     "name": "Ballu",
+     "slug": "ballu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Ballu. No verified lexical form was established; an affectionate Hindi diminutive, not a lexical item. No"
+    },
+    {
+     "name": "Balmiki",
+     "slug": "balmiki",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balraj",
+     "slug": "balraj",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balram",
+     "slug": "balram",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balvant",
+     "slug": "balvant",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balveer",
+     "slug": "balveer",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balvinder",
+     "slug": "balvinder",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Balvir",
+     "slug": "balvir",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
     }
    ],
    "confidence_summary": {
-    "unverified": 273,
-    "high": 405,
-    "medium": 122
+    "unverified": 314,
+    "high": 445,
+    "medium": 136,
+    "low": 5
    },
    "origin_summary": {
-    "Unknown": 184,
-    "Sanskrit": 505,
-    "Persian": 15,
-    "Arabic": 63,
-    "Tamil": 18,
+    "Unknown": 198,
+    "Sanskrit": 542,
+    "Persian": 18,
+    "Arabic": 65,
+    "Tamil": 20,
     "Japanese": 1,
     "English": 3,
-    "Punjabi": 3,
+    "Punjabi": 9,
     "Hebrew": 2,
-    "Telugu": 2,
-    "Marathi": 1,
-    "Kannada": 1,
-    "Malayalam": 2
+    "Telugu": 3,
+    "Marathi": 8,
+    "Kannada": 2,
+    "Malayalam": 2,
+    "Hindi": 22,
+    "Bengali": 4,
+    "Gujarati": 1
    },
-   "verified_forms": 527,
-   "unverified_forms": 273,
+   "verified_forms": 586,
+   "unverified_forms": 314,
    "quality_gate": {
     "invalid_json": 0,
     "conflict_markers": 0,
@@ -76264,8 +78272,8 @@
     "broken_text": 0,
     "total_failures": 0
    },
-   "next_batch_starts_after": "baba",
-   "updated_at": "2026-10-03T05:13:24Z"
+   "next_batch_starts_after": "balvir",
+   "updated_at": "2026-10-03T05:13:25Z"
   }
  }
 }

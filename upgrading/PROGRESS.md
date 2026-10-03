@@ -102,40 +102,44 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 800 |
-| Current batch | 8 |
-| Batch range | athi .. baba (100) |
-| Batches completed | 8 |
-| Verified forms | 527 |
-| Unverified forms (no gloss asserted) | 273 |
-| Next batch starts after | baba |
-| Updated | 2026-10-03T05:13:24Z |
+| Names completed | 900 |
+| Current batch | 9 |
+| Batch range | babai .. balvir (100) |
+| Batches completed | 9 |
+| Verified forms | 586 |
+| Unverified forms (no gloss asserted) | 314 |
+| Next batch starts after | balvir |
+| Updated | 2026-10-03T05:13:25Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 405 |
-| medium | 122 |
-| unverified | 273 |
+| high | 445 |
+| low | 5 |
+| medium | 136 |
+| unverified | 314 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 505 |
-| Unknown | 184 |
-| Arabic | 63 |
-| Tamil | 18 |
-| Persian | 15 |
+| Sanskrit | 542 |
+| Unknown | 198 |
+| Arabic | 65 |
+| Hindi | 22 |
+| Tamil | 20 |
+| Persian | 18 |
+| Punjabi | 9 |
+| Marathi | 8 |
+| Bengali | 4 |
 | English | 3 |
-| Punjabi | 3 |
+| Telugu | 3 |
 | Hebrew | 2 |
-| Telugu | 2 |
+| Kannada | 2 |
 | Malayalam | 2 |
 | Japanese | 1 |
-| Marathi | 1 |
-| Kannada | 1 |
+| Gujarati | 1 |
 
 ## Hindu quality gate
 
@@ -155,4 +159,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 8 | athi .. baba | 100 | complete |
+| 9 | babai .. balvir | 100 | complete |

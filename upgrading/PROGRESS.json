@@ -26057,18 +26057,18 @@
   "total_failures": 0
  },
  "next_batch_starts_after": "hakeema",
- "updated_at": "2026-10-03T04:29:37Z",
+ "updated_at": "2026-10-03T04:33:19Z",
  "hindu": {
   "culture": "hindu",
   "total_names_in_slice": 5885,
-  "names_completed": 500,
-  "current_batch": 5,
+  "names_completed": 600,
+  "current_batch": 6,
   "batch_range": {
-   "first": "anarul",
-   "last": "anuraag",
+   "first": "anuradha",
+   "last": "arth",
    "count": 100
   },
-  "batches_completed": 5,
+  "batches_completed": 6,
   "per_name": [
    {
     "name": "Aaba",
@@ -31069,27 +31069,1029 @@
     "gender": "Male",
     "manual_review_required": false,
     "reason": null
+   },
+   {
+    "name": "Anuradha",
+    "slug": "anuradha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Anurag",
+    "slug": "anurag",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Anuraj",
+    "slug": "anuraj",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Anuraj. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sour"
+   },
+   {
+    "name": "Anuranjan",
+    "slug": "anuranjan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Anurodh",
+    "slug": "anurodh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Anurudh",
+    "slug": "anurudh",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Anurudh. No verified Sanskrit lexical form was established for this source entry; the source gloss 'Rule "
+   },
+   {
+    "name": "Anushree",
+    "slug": "anushree",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Anushri",
+    "slug": "anushri",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Anvesh",
+    "slug": "anvesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Anwesha",
+    "slug": "anwesha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Ap",
+    "slug": "ap",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Unisex",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aparajita",
+    "slug": "aparajita",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Apeksha",
+    "slug": "apeksha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Api",
+    "slug": "api",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Api. अपि (api) is a Sanskrit particle meaning 'also, even'; it is not a lexical noun. The source gloss 'L"
+   },
+   {
+    "name": "Apoorv",
+    "slug": "apoorv",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Apoorva",
+    "slug": "apoorva",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Appa",
+    "slug": "appa",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Appala",
+    "slug": "appala",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Appala. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sour"
+   },
+   {
+    "name": "Appalanaidu",
+    "slug": "appalanaidu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Appalanaidu. No verified Sanskrit or modern Indic lexical form was established for this source entry; the"
+   },
+   {
+    "name": "Apparao",
+    "slug": "apparao",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Apparao. A Telugu compound of the address अप्पा (appā, father) with the honorific राव (rāo). The source g"
+   },
+   {
+    "name": "Appasaheb",
+    "slug": "appasaheb",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Appasaheb. A Marathi honorific compound of अप्पा (appā, father) and साहेब (sāheb, sir). The source gloss "
+   },
+   {
+    "name": "Appi",
+    "slug": "appi",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Appi. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+   },
+   {
+    "name": "Appu",
+    "slug": "appu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Kannada",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Appu. An affectionate Kannada/Tamil diminutive. No verified Sanskrit lexical form; the source gloss 'Smal"
+   },
+   {
+    "name": "Apsar",
+    "slug": "apsar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Apsara",
+    "slug": "apsara",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Apurba",
+    "slug": "apurba",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Apurbo",
+    "slug": "apurbo",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Apurv",
+    "slug": "apurv",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Apurva",
+    "slug": "apurva",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Unisex",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arabind",
+    "slug": "arabind",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arabinda",
+    "slug": "arabinda",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aradhana",
+    "slug": "aradhana",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aradhya",
+    "slug": "aradhya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Unisex",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aranya",
+    "slug": "aranya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Unisex",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arasu",
+    "slug": "arasu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arasu. Tamil அரசு (arasu), 'king, government'. A Tamil lexical item, not Sanskrit; the source gloss 'Lord"
+   },
+   {
+    "name": "Arav",
+    "slug": "arav",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arav. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+   },
+   {
+    "name": "Aravin",
+    "slug": "aravin",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aravind",
+    "slug": "aravind",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aravindh",
+    "slug": "aravindh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aravindhan",
+    "slug": "aravindhan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aravinth",
+    "slug": "aravinth",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arayan",
+    "slug": "arayan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arbaj",
+    "slug": "arbaj",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arbaj. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Arbas",
+    "slug": "arbas",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arbas. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Arbin",
+    "slug": "arbin",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arbin. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Arbind",
+    "slug": "arbind",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Archan",
+    "slug": "archan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Archi",
+    "slug": "archi",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Archit",
+    "slug": "archit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Ardhendu",
+    "slug": "ardhendu",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Ardhika",
+    "slug": "ardhika",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Unisex",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Areen",
+    "slug": "areen",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Areen. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Aren",
+    "slug": "aren",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aren. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+   },
+   {
+    "name": "Areya",
+    "slug": "areya",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Areya. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Arfat",
+    "slug": "arfat",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arfat. Arabic ʿArafāt, a place-name (the plain near Mecca). Not a Sanskrit lexical item; the source gloss"
+   },
+   {
+    "name": "Argha",
+    "slug": "argha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Unisex",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arhaan",
+    "slug": "arhaan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arhaan. No verified Sanskrit lexical form was established for this source entry; the source gloss 'Bringe"
+   },
+   {
+    "name": "Arhan",
+    "slug": "arhan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arhat",
+    "slug": "arhat",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Ariful",
+    "slug": "ariful",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Ariful. Arabic ʿarīf, 'knowing, expert', with a Bengali -ul ending. Not a Sanskrit lexical item; the sour"
+   },
+   {
+    "name": "Arihant",
+    "slug": "arihant",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arijit",
+    "slug": "arijit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arin",
+    "slug": "arin",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arin. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+   },
+   {
+    "name": "Arindam",
+    "slug": "arindam",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arindom",
+    "slug": "arindom",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aritra",
+    "slug": "aritra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Unisex",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arivu",
+    "slug": "arivu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arivu. Tamil அறிவு (aṟivu), 'knowledge, wisdom'. A Tamil lexical item, not Sanskrit; the source gloss 'Ne"
+   },
+   {
+    "name": "Ariya",
+    "slug": "ariya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Ariyan",
+    "slug": "ariyan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arja",
+    "slug": "arja",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arja. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+   },
+   {
+    "name": "Arjan",
+    "slug": "arjan",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arjani",
+    "slug": "arjani",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arjani. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sour"
+   },
+   {
+    "name": "Arjay",
+    "slug": "arjay",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arjay. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Arjin",
+    "slug": "arjin",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arjin. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+   },
+   {
+    "name": "Arjit",
+    "slug": "arjit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arju",
+    "slug": "arju",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arjun",
+    "slug": "arjun",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arjunan",
+    "slug": "arjunan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arjunkumar",
+    "slug": "arjunkumar",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Ark",
+    "slug": "ark",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Unisex",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arka",
+    "slug": "arka",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arko",
+    "slug": "arko",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arnab",
+    "slug": "arnab",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arnav",
+    "slug": "arnav",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arnesh",
+    "slug": "arnesh",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arni",
+    "slug": "arni",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arni. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+   },
+   {
+    "name": "Arnika",
+    "slug": "arnika",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arockia",
+    "slug": "arockia",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Tamil",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arockia. Tamil அரோக்கிய (arōkkiya), from Portuguese 'Ave Maria' via the Tamil Christian tradition. Not a "
+   },
+   {
+    "name": "Arohi",
+    "slug": "arohi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arom",
+    "slug": "arom",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arom. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+   },
+   {
+    "name": "Arpan",
+    "slug": "arpan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arpana",
+    "slug": "arpana",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arpit",
+    "slug": "arpit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arpita",
+    "slug": "arpita",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arpitha",
+    "slug": "arpitha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Arsad",
+    "slug": "arsad",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arsad. Arabic irshād, 'guidance', or arshad, 'most rightly guided'. Not a Sanskrit lexical item; the sour"
+   },
+   {
+    "name": "Arshdeep",
+    "slug": "arshdeep",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arshdeep. Punjabi compound of ਅਰਸ਼ (arash, from Arabic ʿarsh, 'throne') and ਦੀਪ (dīp, 'lamp'). Not a Sans"
+   },
+   {
+    "name": "Arshia",
+    "slug": "arshia",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Persian",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arshia. Persian arshī, 'heavenly, of the throne'. Not a Sanskrit lexical item; the source gloss 'Moon God"
+   },
+   {
+    "name": "Arshin",
+    "slug": "arshin",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Arshin. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sour"
+   },
+   {
+    "name": "Arth",
+    "slug": "arth",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
    }
   ],
   "confidence_summary": {
-   "unverified": 150,
-   "high": 257,
-   "medium": 93
+   "unverified": 183,
+   "high": 312,
+   "medium": 105
   },
   "origin_summary": {
-   "Unknown": 99,
-   "Sanskrit": 334,
-   "Persian": 11,
-   "Arabic": 41,
-   "Tamil": 8,
+   "Unknown": 122,
+   "Sanskrit": 401,
+   "Persian": 12,
+   "Arabic": 44,
+   "Tamil": 11,
    "Japanese": 1,
    "English": 3,
-   "Punjabi": 1,
+   "Punjabi": 2,
    "Hebrew": 1,
-   "Telugu": 1
+   "Telugu": 1,
+   "Marathi": 1,
+   "Kannada": 1
   },
-  "verified_forms": 350,
-  "unverified_forms": 150,
+  "verified_forms": 417,
+  "unverified_forms": 183,
   "quality_gate": {
    "invalid_json": 0,
    "conflict_markers": 0,
@@ -31101,8 +32103,8 @@
    "broken_text": 0,
    "total_failures": 0
   },
-  "next_batch_starts_after": "anuraag",
-  "updated_at": "2026-10-03T04:29:37Z"
+  "next_batch_starts_after": "arth",
+  "updated_at": "2026-10-03T04:33:19Z"
  },
  "slices": {
   "islamic": {
@@ -57164,18 +58166,18 @@
     "total_failures": 0
    },
    "next_batch_starts_after": "hakeema",
-   "updated_at": "2026-10-03T03:52:21Z",
+   "updated_at": "2026-10-03T04:29:37Z",
    "hindu": {
     "culture": "hindu",
     "total_names_in_slice": 5885,
-    "names_completed": 400,
-    "current_batch": 4,
+    "names_completed": 500,
+    "current_batch": 5,
     "batch_range": {
-     "first": "alokesh",
-     "last": "ananya",
+     "first": "anarul",
+     "last": "anuraag",
      "count": 100
     },
-    "batches_completed": 4,
+    "batches_completed": 5,
     "per_name": [
      {
       "name": "Aaba",
@@ -61176,25 +62178,1027 @@
       "gender": "Female",
       "manual_review_required": false,
       "reason": null
+     },
+     {
+      "name": "Anarul",
+      "slug": "anarul",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anarul. Arabic anwār, 'lights', with a Bengali -ul ending. Not a Sanskrit lexical item. No meaning is ass"
+     },
+     {
+      "name": "Anash",
+      "slug": "anash",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anash. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Anasuya",
+      "slug": "anasuya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anath",
+      "slug": "anath",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anav",
+      "slug": "anav",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anav. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Anavi",
+      "slug": "anavi",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anavi. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Anay",
+      "slug": "anay",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anay. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Anbarasan",
+      "slug": "anbarasan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anbarasan. Tamil name; no verified Sanskrit lexical form. Recorded as a source entry only. No meaning is "
+     },
+     {
+      "name": "Anbu",
+      "slug": "anbu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Tamil",
+      "gender": "Unisex",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anbu. Tamil அன்பு (aṉpu), 'love, affection'. A Tamil lexical item, not a Sanskrit one. No meaning is asse"
+     },
+     {
+      "name": "Anchal",
+      "slug": "anchal",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anchal. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+     },
+     {
+      "name": "Anchit",
+      "slug": "anchit",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Andal",
+      "slug": "andal",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Tamil",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Andal. Tamil name associated with the Āṇṭāḷ tradition; no verified Sanskrit lexical form. No meaning is a"
+     },
+     {
+      "name": "Anek",
+      "slug": "anek",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aneri",
+      "slug": "aneri",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aneri. Modern Gujarati name reported as 'unique, one of a kind'. No Tier-A/B lexical source was establish"
+     },
+     {
+      "name": "Anga",
+      "slug": "anga",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Unisex",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Angad",
+      "slug": "angad",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Angat",
+      "slug": "angat",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Angat. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Angrej",
+      "slug": "angrej",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Angrej. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+     },
+     {
+      "name": "Angshuman",
+      "slug": "angshuman",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anik",
+      "slug": "anik",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anik. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Anika",
+      "slug": "anika",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anikesh",
+      "slug": "anikesh",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anikesh. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+     },
+     {
+      "name": "Aniket",
+      "slug": "aniket",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aniketh",
+      "slug": "aniketh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anil",
+      "slug": "anil",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anila",
+      "slug": "anila",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anilbhai",
+      "slug": "anilbhai",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anilkumar",
+      "slug": "anilkumar",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anima",
+      "slug": "anima",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anirban",
+      "slug": "anirban",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aniruddh",
+      "slug": "aniruddh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aniruddha",
+      "slug": "aniruddha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aniruddhsinh",
+      "slug": "aniruddhsinh",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anirudh",
+      "slug": "anirudh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anirudha",
+      "slug": "anirudha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anishka",
+      "slug": "anishka",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anishka. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+     },
+     {
+      "name": "Anisul",
+      "slug": "anisul",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anisul. Arabic anīs, 'close companion, friendly', with a Bengali -ul ending. Not a Sanskrit lexical item."
+     },
+     {
+      "name": "Anisur",
+      "slug": "anisur",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anisur. Arabic anīs, 'close companion', with a Bengali -ur ending. Not a Sanskrit lexical item. No meanin"
+     },
+     {
+      "name": "Anit",
+      "slug": "anit",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anit. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Anita",
+      "slug": "anita",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hebrew",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anita. Anita is a diminutive of Anna, from Hebrew Ḥannāh, 'grace, favour'. It is not a Sanskrit lexical i"
+     },
+     {
+      "name": "Anjaan",
+      "slug": "anjaan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anjaan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+     },
+     {
+      "name": "Anjan",
+      "slug": "anjan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anjana",
+      "slug": "anjana",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anjaneyulu",
+      "slug": "anjaneyulu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Telugu",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anjaneyulu. Telugu form of Āñjaneya, a name of Hanuman. Recorded as a regional form; no independent Sansk"
+     },
+     {
+      "name": "Anjar",
+      "slug": "anjar",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anjar. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Anjay",
+      "slug": "anjay",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anjay. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Anjeet",
+      "slug": "anjeet",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anjeet. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+     },
+     {
+      "name": "Anjel",
+      "slug": "anjel",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "English",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anjel. English Angel, from Greek ἄγγελος (angelos), 'messenger'. Not a Sanskrit or Indic lexical item. No"
+     },
+     {
+      "name": "Anji",
+      "slug": "anji",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anji. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Anjit",
+      "slug": "anjit",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anjit. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Anju",
+      "slug": "anju",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anju. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Ankaj",
+      "slug": "ankaj",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Ankaj. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Ankan",
+      "slug": "ankan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Ankan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Ankesh",
+      "slug": "ankesh",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Ankesh. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+     },
+     {
+      "name": "Ankit",
+      "slug": "ankit",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Ankita",
+      "slug": "ankita",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Ankitha",
+      "slug": "ankitha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Ankul",
+      "slug": "ankul",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Ankul. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Ankush",
+      "slug": "ankush",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Annam",
+      "slug": "annam",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Annamalai",
+      "slug": "annamalai",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Annamalai. Tamil அண்ணாமலை (Aṇṇāmalai), the hill at Arunachala. A Tamil place-name used as a personal name"
+     },
+     {
+      "name": "Anoj",
+      "slug": "anoj",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anoj. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Anoop",
+      "slug": "anoop",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anouka",
+      "slug": "anouka",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anouka. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+     },
+     {
+      "name": "Anoushka",
+      "slug": "anoushka",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anoushka. Anushka/Anoushka is a diminutive of Anna (Hebrew Ḥannāh, 'grace') in Slavic usage, and is also "
+     },
+     {
+      "name": "Anowar",
+      "slug": "anowar",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anowar. Arabic anwār, 'lights'. Not a Sanskrit lexical item. No meaning is asserted, because asserting on"
+     },
+     {
+      "name": "Ansarul",
+      "slug": "ansarul",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Ansarul. Arabic anṣār, 'helpers', with a Bengali -ul ending. Not a Sanskrit lexical item. No meaning is a"
+     },
+     {
+      "name": "Ansay",
+      "slug": "ansay",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Ansay. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Ansh",
+      "slug": "ansh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anshi",
+      "slug": "anshi",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anshika",
+      "slug": "anshika",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anshita",
+      "slug": "anshita",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anshul",
+      "slug": "anshul",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anshuman",
+      "slug": "anshuman",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Ansir",
+      "slug": "ansir",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Ansir. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Ansit",
+      "slug": "ansit",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Ansit. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Anso",
+      "slug": "anso",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anso. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Ansu",
+      "slug": "ansu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Ansul",
+      "slug": "ansul",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Ansuma",
+      "slug": "ansuma",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Ansuman",
+      "slug": "ansuman",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Ansuya",
+      "slug": "ansuya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Antara",
+      "slug": "antara",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Antaryami",
+      "slug": "antaryami",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Antika",
+      "slug": "antika",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Antu",
+      "slug": "antu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Antu. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Anu",
+      "slug": "anu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Unisex",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anubhab",
+      "slug": "anubhab",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anubhav",
+      "slug": "anubhav",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anudeep",
+      "slug": "anudeep",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anudeep. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+     },
+     {
+      "name": "Anuj",
+      "slug": "anuj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anuja",
+      "slug": "anuja",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anukul",
+      "slug": "anukul",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anula",
+      "slug": "anula",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Anula. Anula is recorded in Sinhala and Pali usage (Queen Anula, 3rd century BCE). No verified Sanskrit l"
+     },
+     {
+      "name": "Anup",
+      "slug": "anup",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anupam",
+      "slug": "anupam",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anupama",
+      "slug": "anupama",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anupom",
+      "slug": "anupom",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anupriya",
+      "slug": "anupriya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Anuraag",
+      "slug": "anuraag",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
      }
     ],
     "confidence_summary": {
-     "unverified": 105,
-     "high": 212,
-     "medium": 83
+     "unverified": 150,
+     "high": 257,
+     "medium": 93
     },
     "origin_summary": {
-     "Unknown": 66,
-     "Sanskrit": 279,
+     "Unknown": 99,
+     "Sanskrit": 334,
      "Persian": 11,
-     "Arabic": 36,
-     "Tamil": 4,
+     "Arabic": 41,
+     "Tamil": 8,
      "Japanese": 1,
-     "English": 2,
-     "Punjabi": 1
+     "English": 3,
+     "Punjabi": 1,
+     "Hebrew": 1,
+     "Telugu": 1
     },
-    "verified_forms": 295,
-    "unverified_forms": 105,
+    "verified_forms": 350,
+    "unverified_forms": 150,
     "quality_gate": {
      "invalid_json": 0,
      "conflict_markers": 0,
@@ -61206,21 +63210,21 @@
      "broken_text": 0,
      "total_failures": 0
     },
-    "next_batch_starts_after": "ananya",
-    "updated_at": "2026-10-03T03:52:21Z"
+    "next_batch_starts_after": "anuraag",
+    "updated_at": "2026-10-03T04:29:37Z"
    }
   },
   "hindu": {
    "culture": "hindu",
    "total_names_in_slice": 5885,
-   "names_completed": 500,
-   "current_batch": 5,
+   "names_completed": 600,
+   "current_batch": 6,
    "batch_range": {
-    "first": "anarul",
-    "last": "anuraag",
+    "first": "anuradha",
+    "last": "arth",
     "count": 100
    },
-   "batches_completed": 5,
+   "batches_completed": 6,
    "per_name": [
     {
      "name": "Aaba",
@@ -66221,27 +68225,1029 @@
      "gender": "Male",
      "manual_review_required": false,
      "reason": null
+    },
+    {
+     "name": "Anuradha",
+     "slug": "anuradha",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Anurag",
+     "slug": "anurag",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Anuraj",
+     "slug": "anuraj",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Anuraj. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sour"
+    },
+    {
+     "name": "Anuranjan",
+     "slug": "anuranjan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Anurodh",
+     "slug": "anurodh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Anurudh",
+     "slug": "anurudh",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Anurudh. No verified Sanskrit lexical form was established for this source entry; the source gloss 'Rule "
+    },
+    {
+     "name": "Anushree",
+     "slug": "anushree",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Anushri",
+     "slug": "anushri",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Anvesh",
+     "slug": "anvesh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Anwesha",
+     "slug": "anwesha",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Ap",
+     "slug": "ap",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Unisex",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aparajita",
+     "slug": "aparajita",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Apeksha",
+     "slug": "apeksha",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Api",
+     "slug": "api",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Api. अपि (api) is a Sanskrit particle meaning 'also, even'; it is not a lexical noun. The source gloss 'L"
+    },
+    {
+     "name": "Apoorv",
+     "slug": "apoorv",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Apoorva",
+     "slug": "apoorva",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Appa",
+     "slug": "appa",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Appala",
+     "slug": "appala",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Appala. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sour"
+    },
+    {
+     "name": "Appalanaidu",
+     "slug": "appalanaidu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Appalanaidu. No verified Sanskrit or modern Indic lexical form was established for this source entry; the"
+    },
+    {
+     "name": "Apparao",
+     "slug": "apparao",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Apparao. A Telugu compound of the address अप्पा (appā, father) with the honorific राव (rāo). The source g"
+    },
+    {
+     "name": "Appasaheb",
+     "slug": "appasaheb",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Appasaheb. A Marathi honorific compound of अप्पा (appā, father) and साहेब (sāheb, sir). The source gloss "
+    },
+    {
+     "name": "Appi",
+     "slug": "appi",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Appi. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+    },
+    {
+     "name": "Appu",
+     "slug": "appu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Kannada",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Appu. An affectionate Kannada/Tamil diminutive. No verified Sanskrit lexical form; the source gloss 'Smal"
+    },
+    {
+     "name": "Apsar",
+     "slug": "apsar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Apsara",
+     "slug": "apsara",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Apurba",
+     "slug": "apurba",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Apurbo",
+     "slug": "apurbo",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Apurv",
+     "slug": "apurv",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Apurva",
+     "slug": "apurva",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Unisex",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arabind",
+     "slug": "arabind",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arabinda",
+     "slug": "arabinda",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aradhana",
+     "slug": "aradhana",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aradhya",
+     "slug": "aradhya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Unisex",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aranya",
+     "slug": "aranya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Unisex",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arasu",
+     "slug": "arasu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arasu. Tamil அரசு (arasu), 'king, government'. A Tamil lexical item, not Sanskrit; the source gloss 'Lord"
+    },
+    {
+     "name": "Arav",
+     "slug": "arav",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arav. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+    },
+    {
+     "name": "Aravin",
+     "slug": "aravin",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aravind",
+     "slug": "aravind",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aravindh",
+     "slug": "aravindh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aravindhan",
+     "slug": "aravindhan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aravinth",
+     "slug": "aravinth",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arayan",
+     "slug": "arayan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arbaj",
+     "slug": "arbaj",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arbaj. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Arbas",
+     "slug": "arbas",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arbas. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Arbin",
+     "slug": "arbin",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arbin. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Arbind",
+     "slug": "arbind",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Archan",
+     "slug": "archan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Archi",
+     "slug": "archi",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Archit",
+     "slug": "archit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Ardhendu",
+     "slug": "ardhendu",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Ardhika",
+     "slug": "ardhika",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Unisex",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Areen",
+     "slug": "areen",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Areen. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Aren",
+     "slug": "aren",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Aren. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+    },
+    {
+     "name": "Areya",
+     "slug": "areya",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Areya. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Arfat",
+     "slug": "arfat",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Arabic",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arfat. Arabic ʿArafāt, a place-name (the plain near Mecca). Not a Sanskrit lexical item; the source gloss"
+    },
+    {
+     "name": "Argha",
+     "slug": "argha",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Unisex",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arhaan",
+     "slug": "arhaan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arhaan. No verified Sanskrit lexical form was established for this source entry; the source gloss 'Bringe"
+    },
+    {
+     "name": "Arhan",
+     "slug": "arhan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arhat",
+     "slug": "arhat",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Ariful",
+     "slug": "ariful",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Arabic",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Ariful. Arabic ʿarīf, 'knowing, expert', with a Bengali -ul ending. Not a Sanskrit lexical item; the sour"
+    },
+    {
+     "name": "Arihant",
+     "slug": "arihant",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arijit",
+     "slug": "arijit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arin",
+     "slug": "arin",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arin. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+    },
+    {
+     "name": "Arindam",
+     "slug": "arindam",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arindom",
+     "slug": "arindom",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Aritra",
+     "slug": "aritra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Unisex",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arivu",
+     "slug": "arivu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arivu. Tamil அறிவு (aṟivu), 'knowledge, wisdom'. A Tamil lexical item, not Sanskrit; the source gloss 'Ne"
+    },
+    {
+     "name": "Ariya",
+     "slug": "ariya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Ariyan",
+     "slug": "ariyan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arja",
+     "slug": "arja",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arja. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+    },
+    {
+     "name": "Arjan",
+     "slug": "arjan",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arjani",
+     "slug": "arjani",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arjani. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sour"
+    },
+    {
+     "name": "Arjay",
+     "slug": "arjay",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arjay. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Arjin",
+     "slug": "arjin",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arjin. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sourc"
+    },
+    {
+     "name": "Arjit",
+     "slug": "arjit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arju",
+     "slug": "arju",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arjun",
+     "slug": "arjun",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arjunan",
+     "slug": "arjunan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arjunkumar",
+     "slug": "arjunkumar",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Ark",
+     "slug": "ark",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Unisex",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arka",
+     "slug": "arka",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arko",
+     "slug": "arko",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arnab",
+     "slug": "arnab",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arnav",
+     "slug": "arnav",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arnesh",
+     "slug": "arnesh",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arni",
+     "slug": "arni",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arni. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+    },
+    {
+     "name": "Arnika",
+     "slug": "arnika",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arockia",
+     "slug": "arockia",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Tamil",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arockia. Tamil அரோக்கிய (arōkkiya), from Portuguese 'Ave Maria' via the Tamil Christian tradition. Not a "
+    },
+    {
+     "name": "Arohi",
+     "slug": "arohi",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arom",
+     "slug": "arom",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arom. No verified Sanskrit or modern Indic lexical form was established for this source entry; the source"
+    },
+    {
+     "name": "Arpan",
+     "slug": "arpan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arpana",
+     "slug": "arpana",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arpit",
+     "slug": "arpit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arpita",
+     "slug": "arpita",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arpitha",
+     "slug": "arpitha",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Arsad",
+     "slug": "arsad",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Arabic",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arsad. Arabic irshād, 'guidance', or arshad, 'most rightly guided'. Not a Sanskrit lexical item; the sour"
+    },
+    {
+     "name": "Arshdeep",
+     "slug": "arshdeep",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arshdeep. Punjabi compound of ਅਰਸ਼ (arash, from Arabic ʿarsh, 'throne') and ਦੀਪ (dīp, 'lamp'). Not a Sans"
+    },
+    {
+     "name": "Arshia",
+     "slug": "arshia",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Persian",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arshia. Persian arshī, 'heavenly, of the throne'. Not a Sanskrit lexical item; the source gloss 'Moon God"
+    },
+    {
+     "name": "Arshin",
+     "slug": "arshin",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Arshin. No verified Sanskrit or modern Indic lexical form was established for this source entry; the sour"
+    },
+    {
+     "name": "Arth",
+     "slug": "arth",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
     }
    ],
    "confidence_summary": {
-    "unverified": 150,
-    "high": 257,
-    "medium": 93
+    "unverified": 183,
+    "high": 312,
+    "medium": 105
    },
    "origin_summary": {
-    "Unknown": 99,
-    "Sanskrit": 334,
-    "Persian": 11,
-    "Arabic": 41,
-    "Tamil": 8,
+    "Unknown": 122,
+    "Sanskrit": 401,
+    "Persian": 12,
+    "Arabic": 44,
+    "Tamil": 11,
     "Japanese": 1,
     "English": 3,
-    "Punjabi": 1,
+    "Punjabi": 2,
     "Hebrew": 1,
-    "Telugu": 1
+    "Telugu": 1,
+    "Marathi": 1,
+    "Kannada": 1
    },
-   "verified_forms": 350,
-   "unverified_forms": 150,
+   "verified_forms": 417,
+   "unverified_forms": 183,
    "quality_gate": {
     "invalid_json": 0,
     "conflict_markers": 0,
@@ -66253,8 +69259,8 @@
     "broken_text": 0,
     "total_failures": 0
    },
-   "next_batch_starts_after": "anuraag",
-   "updated_at": "2026-10-03T04:29:37Z"
+   "next_batch_starts_after": "arth",
+   "updated_at": "2026-10-03T04:33:19Z"
   }
  }
 }

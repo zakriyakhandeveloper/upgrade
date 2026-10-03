@@ -102,37 +102,39 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 500 |
-| Current batch | 5 |
-| Batch range | anarul .. anuraag (100) |
-| Batches completed | 5 |
-| Verified forms | 350 |
-| Unverified forms (no gloss asserted) | 150 |
-| Next batch starts after | anuraag |
-| Updated | 2026-10-03T04:29:37Z |
+| Names completed | 600 |
+| Current batch | 6 |
+| Batch range | anuradha .. arth (100) |
+| Batches completed | 6 |
+| Verified forms | 417 |
+| Unverified forms (no gloss asserted) | 183 |
+| Next batch starts after | arth |
+| Updated | 2026-10-03T04:33:19Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 257 |
-| medium | 93 |
-| unverified | 150 |
+| high | 312 |
+| medium | 105 |
+| unverified | 183 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 334 |
-| Unknown | 99 |
-| Arabic | 41 |
-| Persian | 11 |
-| Tamil | 8 |
+| Sanskrit | 401 |
+| Unknown | 122 |
+| Arabic | 44 |
+| Persian | 12 |
+| Tamil | 11 |
 | English | 3 |
+| Punjabi | 2 |
 | Japanese | 1 |
-| Punjabi | 1 |
 | Hebrew | 1 |
 | Telugu | 1 |
+| Marathi | 1 |
+| Kannada | 1 |
 
 ## Hindu quality gate
 
@@ -152,4 +154,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 5 | anarul .. anuraag | 100 | complete |
+| 6 | anuradha .. arth | 100 | complete |

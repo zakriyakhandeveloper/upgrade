@@ -33,9 +33,13 @@ jobs:
           # Base toolchain: the verified archive from the batch-2 commit.
           git show 829859598:upgrading/scripts/nv_hindu_toolchain.b64 \
             | base64 -d | tar xzf - -C upgrading/scripts
-          # Delta: files added after that commit (curated_h3/h4, hgloss3).
-          base64 -d upgrading/scripts/nv_hindu_delta.b64 \
-            | tar xzf - -C upgrading/scripts
+          # Delta: curated tables + gloss supplements added after that commit.
+          # The URL is kept in a small tracked file so a new batch only needs
+          # that file + the trigger updated, never this workflow.
+          DELTA_URL=$(tr -d '\r\n' < upgrading/scripts/nv_hindu_delta_url.txt)
+          echo "delta: $DELTA_URL"
+          curl -fsSL -o /tmp/nv_delta.tar.gz "$DELTA_URL"
+          tar xzf /tmp/nv_delta.tar.gz -C upgrading/scripts
           ls upgrading/scripts/
 
       - name: Build every listed batch

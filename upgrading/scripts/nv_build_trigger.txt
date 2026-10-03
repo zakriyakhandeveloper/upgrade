@@ -1,3 +1,2 @@
 # hindu batch spec (batch curated_module first last)
-3 curated_h3 ajhar aloke
-4 curated_h4 alokesh ananya
+5 curated_h5 anarul anuraag

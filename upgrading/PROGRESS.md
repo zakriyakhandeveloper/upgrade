@@ -102,37 +102,38 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 700 |
-| Current batch | 7 |
-| Batch range | arti .. atharva (100) |
-| Batches completed | 7 |
-| Verified forms | 475 |
-| Unverified forms (no gloss asserted) | 225 |
-| Next batch starts after | atharva |
-| Updated | 2026-10-03T04:36:32Z |
+| Names completed | 800 |
+| Current batch | 8 |
+| Batch range | athi .. baba (100) |
+| Batches completed | 8 |
+| Verified forms | 527 |
+| Unverified forms (no gloss asserted) | 273 |
+| Next batch starts after | baba |
+| Updated | 2026-10-03T04:39:44Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 360 |
-| medium | 115 |
-| unverified | 225 |
+| high | 405 |
+| medium | 122 |
+| unverified | 273 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 455 |
-| Unknown | 146 |
-| Arabic | 58 |
-| Tamil | 16 |
-| Persian | 13 |
+| Sanskrit | 505 |
+| Unknown | 184 |
+| Arabic | 63 |
+| Tamil | 18 |
+| Persian | 15 |
 | English | 3 |
 | Punjabi | 3 |
 | Hebrew | 2 |
+| Telugu | 2 |
+| Malayalam | 2 |
 | Japanese | 1 |
-| Telugu | 1 |
 | Marathi | 1 |
 | Kannada | 1 |
 
@@ -154,4 +155,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 7 | arti .. atharva | 100 | complete |
+| 8 | athi .. baba | 100 | complete |

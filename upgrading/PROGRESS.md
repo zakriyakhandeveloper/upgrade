@@ -102,36 +102,36 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 600 |
-| Current batch | 6 |
-| Batch range | anuradha .. arth (100) |
-| Batches completed | 6 |
-| Verified forms | 417 |
-| Unverified forms (no gloss asserted) | 183 |
-| Next batch starts after | arth |
-| Updated | 2026-10-03T04:33:19Z |
+| Names completed | 700 |
+| Current batch | 7 |
+| Batch range | arti .. atharva (100) |
+| Batches completed | 7 |
+| Verified forms | 475 |
+| Unverified forms (no gloss asserted) | 225 |
+| Next batch starts after | atharva |
+| Updated | 2026-10-03T04:36:32Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 312 |
-| medium | 105 |
-| unverified | 183 |
+| high | 360 |
+| medium | 115 |
+| unverified | 225 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 401 |
-| Unknown | 122 |
-| Arabic | 44 |
-| Persian | 12 |
-| Tamil | 11 |
+| Sanskrit | 455 |
+| Unknown | 146 |
+| Arabic | 58 |
+| Tamil | 16 |
+| Persian | 13 |
 | English | 3 |
-| Punjabi | 2 |
+| Punjabi | 3 |
+| Hebrew | 2 |
 | Japanese | 1 |
-| Hebrew | 1 |
 | Telugu | 1 |
 | Marathi | 1 |
 | Kannada | 1 |
@@ -154,4 +154,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 6 | anuradha .. arth | 100 | complete |
+| 7 | arti .. atharva | 100 | complete |

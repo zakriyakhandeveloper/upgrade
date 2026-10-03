@@ -102,31 +102,31 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 100 |
-| Current batch | 1 |
-| Batch range | aaba .. abhishek (100) |
-| Batches completed | 1 |
-| Verified forms | 75 |
-| Unverified forms (no gloss asserted) | 25 |
-| Next batch starts after | abhishek |
-| Updated | 2026-10-03T03:26:20Z |
+| Names completed | 200 |
+| Current batch | 2 |
+| Batch range | abijit .. ajey (100) |
+| Batches completed | 2 |
+| Verified forms | 143 |
+| Unverified forms (no gloss asserted) | 57 |
+| Next batch starts after | ajey |
+| Updated | 2026-10-03T03:32:43Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 60 |
-| medium | 15 |
-| unverified | 25 |
+| high | 108 |
+| medium | 35 |
+| unverified | 57 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 72 |
-| Unknown | 21 |
-| Arabic | 4 |
-| Persian | 2 |
+| Sanskrit | 134 |
+| Unknown | 48 |
+| Arabic | 13 |
+| Persian | 4 |
 | Tamil | 1 |
 
 ## Hindu quality gate
@@ -147,4 +147,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 1 | aaba .. abhishek | 100 | complete |
+| 2 | abijit .. ajey | 100 | complete |

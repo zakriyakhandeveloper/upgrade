@@ -26057,18 +26057,18 @@
   "total_failures": 0
  },
  "next_batch_starts_after": "hakeema",
- "updated_at": "2026-10-03T05:28:23Z",
+ "updated_at": "2026-10-03T05:31:16Z",
  "hindu": {
   "culture": "hindu",
   "total_names_in_slice": 5885,
-  "names_completed": 1200,
-  "current_batch": 12,
+  "names_completed": 1300,
+  "current_batch": 13,
   "batch_range": {
-   "first": "bhole",
-   "last": "bindu",
+   "first": "binesh",
+   "last": "bulbuli",
    "count": 100
   },
-  "batches_completed": 12,
+  "batches_completed": 13,
   "per_name": [
    {
     "name": "Aaba",
@@ -38069,38 +38069,1038 @@
     "gender": "Female",
     "manual_review_required": false,
     "reason": null
+   },
+   {
+    "name": "Binesh",
+    "slug": "binesh",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Binesh. A compound of bina (without) and isha (lord) that is not attested as a lexical item; no meaning i"
+   },
+   {
+    "name": "Binit",
+    "slug": "binit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Binita",
+    "slug": "binita",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Binny",
+    "slug": "binny",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Binny. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Binod",
+    "slug": "binod",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Binodini",
+    "slug": "binodini",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Binoy",
+    "slug": "binoy",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Binud",
+    "slug": "binud",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Binud. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+   },
+   {
+    "name": "Bipan",
+    "slug": "bipan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bipan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+   },
+   {
+    "name": "Bipasha",
+    "slug": "bipasha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bipeen",
+    "slug": "bipeen",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bipin",
+    "slug": "bipin",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biplab",
+    "slug": "biplab",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biplob",
+    "slug": "biplob",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bipul",
+    "slug": "bipul",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bir",
+    "slug": "bir",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biraj",
+    "slug": "biraj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biransh",
+    "slug": "biransh",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Biransh. A modern coinage; no verified lexical form was established. No meaning is asserted, because asse"
+   },
+   {
+    "name": "Birbal",
+    "slug": "birbal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Birendar",
+    "slug": "birendar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Birender",
+    "slug": "birender",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Birendra",
+    "slug": "birendra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biresh",
+    "slug": "biresh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biri",
+    "slug": "biri",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Biri. biri (a leaf-rolled cigarette) is a common noun, not an established personal name. No meaning is as"
+   },
+   {
+    "name": "Birjesh",
+    "slug": "birjesh",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Birju",
+    "slug": "birju",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Birju. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Birsa",
+    "slug": "birsa",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biru",
+    "slug": "biru",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Biru. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Bishakha",
+    "slug": "bishakha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bishal",
+    "slug": "bishal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Nepali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bishan",
+    "slug": "bishan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bishan. A Punjabi name; the source record asserted no usable gloss and no lexical form was verified. No m"
+   },
+   {
+    "name": "Bishnu",
+    "slug": "bishnu",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bisho",
+    "slug": "bisho",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bisho. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+   },
+   {
+    "name": "Bisht",
+    "slug": "bisht",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bisht. Bisht is a surname; not established as a lexical given name. No meaning is asserted, because asser"
+   },
+   {
+    "name": "Bishu",
+    "slug": "bishu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bishu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Bishwa",
+    "slug": "bishwa",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bishwajit",
+    "slug": "bishwajit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bishwanath",
+    "slug": "bishwanath",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bisnu",
+    "slug": "bisnu",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bisu",
+    "slug": "bisu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bisu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Biswa",
+    "slug": "biswa",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biswajeet",
+    "slug": "biswajeet",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biswajit",
+    "slug": "biswajit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biswanath",
+    "slug": "biswanath",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biswarup",
+    "slug": "biswarup",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Biswas",
+    "slug": "biswas",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bithika",
+    "slug": "bithika",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bittu",
+    "slug": "bittu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bittu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Bitu",
+    "slug": "bitu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bitu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Bitupan",
+    "slug": "bitupan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Assamese",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bitupan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+   },
+   {
+    "name": "Bivas",
+    "slug": "bivas",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bivas. A Bengali name; the source record asserted no usable gloss and no lexical form was verified. No me"
+   },
+   {
+    "name": "Bivash",
+    "slug": "bivash",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bivash. A Bengali name; the source record asserted no usable gloss and no lexical form was verified. No m"
+   },
+   {
+    "name": "Bjp",
+    "slug": "bjp",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bjp. An abbreviation of a political party name, not a personal name; no name identity was verified. No me"
+   },
+   {
+    "name": "Bk",
+    "slug": "bk",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bk. A two-letter abbreviation, not a personal name; no name identity was verified. No meaning is asserted"
+   },
+   {
+    "name": "Bl",
+    "slug": "bl",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bl. A two-letter abbreviation, not a personal name; no name identity was verified. No meaning is asserted"
+   },
+   {
+    "name": "Bobby",
+    "slug": "bobby",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bobby. An English affectionate diminutive of Robert; not a lexical item. No meaning is asserted, because "
+   },
+   {
+    "name": "Boda",
+    "slug": "boda",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Boda. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+   },
+   {
+    "name": "Bodh",
+    "slug": "bodh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bodhi",
+    "slug": "bodhi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bodhisattva",
+    "slug": "bodhisattva",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Boga",
+    "slug": "boga",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Boga. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+   },
+   {
+    "name": "Bohemia",
+    "slug": "bohemia",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bohemia. Bohemia is a place name and an English word, not a personal name; no name identity was verified."
+   },
+   {
+    "name": "Boloram",
+    "slug": "boloram",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Assamese",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Boobalan",
+    "slug": "boobalan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Boobalan. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No m"
+   },
+   {
+    "name": "Boopalan",
+    "slug": "boopalan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Boopalan. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No m"
+   },
+   {
+    "name": "Boopathi",
+    "slug": "boopathi",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Borun",
+    "slug": "borun",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Boxer",
+    "slug": "boxer",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Boxer. boxer is an English common noun, not a personal name; no name identity was verified. No meaning is"
+   },
+   {
+    "name": "Boya",
+    "slug": "boya",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Boya. Boya is the name of a community; not established as a lexical given name. No meaning is asserted, b"
+   },
+   {
+    "name": "Brahma",
+    "slug": "brahma",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brahmanand",
+    "slug": "brahmanand",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brahmananda",
+    "slug": "brahmananda",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brahmdev",
+    "slug": "brahmdev",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Braj",
+    "slug": "braj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brajen",
+    "slug": "brajen",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brajendra",
+    "slug": "brajendra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brajesh",
+    "slug": "brajesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brij",
+    "slug": "brij",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brijendra",
+    "slug": "brijendra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brijesh",
+    "slug": "brijesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brijlal",
+    "slug": "brijlal",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Brijlal. vraja + lal (beloved), a devotional compound whose distinct lexical sense belongs to its element"
+   },
+   {
+    "name": "Brijraj",
+    "slug": "brijraj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brinda",
+    "slug": "brinda",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brindha",
+    "slug": "brindha",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Tamil",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Brishti",
+    "slug": "brishti",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Bubai",
+    "slug": "bubai",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bubai. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Bubul",
+    "slug": "bubul",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Assamese",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bubul. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Bubun",
+    "slug": "bubun",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bubun. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Buddhadeb",
+    "slug": "buddhadeb",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Buddhadev",
+    "slug": "buddhadev",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Budh",
+    "slug": "budh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Budhan",
+    "slug": "budhan",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Budhan. A vernacular form related to budh (Mercury); no distinct lexical form was verified. No meaning is"
+   },
+   {
+    "name": "Budhi",
+    "slug": "budhi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Budhia",
+    "slug": "budhia",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Budhia. A vernacular form related to buddhi; no distinct lexical form was verified. No meaning is asserte"
+   },
+   {
+    "name": "Budhiram",
+    "slug": "budhiram",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Budhiram. buddhi (wisdom) + Rama, a devotional compound whose distinct lexical sense belongs to its eleme"
+   },
+   {
+    "name": "Budhram",
+    "slug": "budhram",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Budhram. buddhi (wisdom) + Rama, a devotional compound whose distinct lexical sense belongs to its elemen"
+   },
+   {
+    "name": "Budhu",
+    "slug": "budhu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Budhu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Budu",
+    "slug": "budu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Budu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Bujji",
+    "slug": "bujji",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bujji. A Telugu affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is"
+   },
+   {
+    "name": "Bulbuli",
+    "slug": "bulbuli",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Assamese",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
    }
   ],
   "confidence_summary": {
-   "unverified": 401,
-   "high": 594,
-   "medium": 169,
-   "low": 36
+   "unverified": 435,
+   "high": 649,
+   "medium": 174,
+   "low": 42
   },
   "origin_summary": {
-   "Unknown": 217,
-   "Sanskrit": 557,
+   "Unknown": 221,
+   "Sanskrit": 561,
    "Persian": 19,
    "Arabic": 67,
-   "Tamil": 31,
+   "Tamil": 35,
    "Japanese": 1,
-   "English": 3,
-   "Punjabi": 18,
+   "English": 6,
+   "Punjabi": 22,
    "Hebrew": 2,
-   "Telugu": 11,
+   "Telugu": 13,
    "Marathi": 14,
    "Kannada": 8,
    "Malayalam": 4,
-   "Hindi": 163,
-   "Bengali": 46,
+   "Hindi": 206,
+   "Bengali": 73,
    "Gujarati": 20,
-   "Odia": 15,
+   "Odia": 19,
    "Kashmiri": 1,
-   "Assamese": 2,
-   "Nepali": 1
+   "Assamese": 6,
+   "Nepali": 2
   },
-  "verified_forms": 799,
-  "unverified_forms": 401,
+  "verified_forms": 865,
+  "unverified_forms": 435,
   "quality_gate": {
    "invalid_json": 0,
    "conflict_markers": 0,
@@ -38112,8 +39112,8 @@
    "broken_text": 0,
    "total_failures": 0
   },
-  "next_batch_starts_after": "bindu",
-  "updated_at": "2026-10-03T05:28:23Z"
+  "next_batch_starts_after": "bulbuli",
+  "updated_at": "2026-10-03T05:31:16Z"
  },
  "slices": {
   "islamic": {
@@ -64175,18 +65175,18 @@
     "total_failures": 0
    },
    "next_batch_starts_after": "hakeema",
-   "updated_at": "2026-10-03T05:23:26Z",
+   "updated_at": "2026-10-03T05:28:23Z",
    "hindu": {
     "culture": "hindu",
     "total_names_in_slice": 5885,
-    "names_completed": 1100,
-    "current_batch": 11,
+    "names_completed": 1200,
+    "current_batch": 12,
     "batch_range": {
-     "first": "bhagaban",
-     "last": "bholanath",
+     "first": "bhole",
+     "last": "bindu",
      "count": 100
     },
-    "batches_completed": 11,
+    "batches_completed": 12,
     "per_name": [
      {
       "name": "Aaba",
@@ -75187,37 +76187,1038 @@
       "gender": "Male",
       "manual_review_required": false,
       "reason": null
+     },
+     {
+      "name": "Bhole",
+      "slug": "bhole",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bholu",
+      "slug": "bholu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bholu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bhom",
+      "slug": "bhom",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhom. A vernacular spelling of bhoomi; no distinct lexical form was verified. No meaning is asserted, bec"
+     },
+     {
+      "name": "Bhoma",
+      "slug": "bhoma",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhoma. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Bhoomi",
+      "slug": "bhoomi",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhoomika",
+      "slug": "bhoomika",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhoopendra",
+      "slug": "bhoopendra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhoora",
+      "slug": "bhoora",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhoora. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+     },
+     {
+      "name": "Bhooshan",
+      "slug": "bhooshan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhopal",
+      "slug": "bhopal",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhopal. Bhopal is the name of a city; it is not an established personal name. No meaning is asserted, bec"
+     },
+     {
+      "name": "Bhrat",
+      "slug": "bhrat",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhrat. A contracted form of bhrata (brother); not an established lexical given name. No meaning is assert"
+     },
+     {
+      "name": "Bhrigu",
+      "slug": "bhrigu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhuban",
+      "slug": "bhuban",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhukya",
+      "slug": "bhukya",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Telugu",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhukya. A Telugu clan name; not established as a lexical given name. No meaning is asserted, because asse"
+     },
+     {
+      "name": "Bhumesh",
+      "slug": "bhumesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhumi",
+      "slug": "bhumi",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhumihar",
+      "slug": "bhumihar",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhumihar. Bhumihar is the name of a landholding community; not an established personal name. No meaning i"
+     },
+     {
+      "name": "Bhumika",
+      "slug": "bhumika",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhumit",
+      "slug": "bhumit",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Gujarati",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhumit. A modern coinage; no verified lexical form was established. No meaning is asserted, because asser"
+     },
+     {
+      "name": "Bhunesh",
+      "slug": "bhunesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhuneshwar",
+      "slug": "bhuneshwar",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhupal",
+      "slug": "bhupal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhupat",
+      "slug": "bhupat",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhupati",
+      "slug": "bhupati",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhupen",
+      "slug": "bhupen",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhupendar",
+      "slug": "bhupendar",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhupender",
+      "slug": "bhupender",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhupesh",
+      "slug": "bhupesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhupi",
+      "slug": "bhupi",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhupi. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bhupinder",
+      "slug": "bhupinder",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhura",
+      "slug": "bhura",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhura. bhura (brown, tawny) is a descriptive adjective, not an established personal name. No meaning is a"
+     },
+     {
+      "name": "Bhure",
+      "slug": "bhure",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhure. A vernacular form of bhura (brown); not an established lexical given name. No meaning is asserted,"
+     },
+     {
+      "name": "Bhuriya",
+      "slug": "bhuriya",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhuriya. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+     },
+     {
+      "name": "Bhuro",
+      "slug": "bhuro",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bhuro. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Bhushan",
+      "slug": "bhushan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhuvan",
+      "slug": "bhuvan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhuvana",
+      "slug": "bhuvana",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Telugu",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhuvanesh",
+      "slug": "bhuvanesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhuvi",
+      "slug": "bhuvi",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "The gloss is the verified lexical sense of भूमि. A short form related to bhumi (earth); no distinct lexical form was verified."
+     },
+     {
+      "name": "Bhuvnesh",
+      "slug": "bhuvnesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bhuwan",
+      "slug": "bhuwan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biaka",
+      "slug": "biaka",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biaka. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Bibak",
+      "slug": "bibak",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bibak. A Bengali name; the source record asserted no usable gloss and no lexical form was verified. No me"
+     },
+     {
+      "name": "Bibek",
+      "slug": "bibek",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bibekananda",
+      "slug": "bibekananda",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bibekananda. viveka (discernment) + ananda (bliss), the monastic name of Swami Vivekananda; the compound "
+     },
+     {
+      "name": "Bibha",
+      "slug": "bibha",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Bengali",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "The gloss is the verified lexical sense of विभा. bibha is a Bengali female name related to vibha (light, radiance); no distinct lexical form was verified."
+     },
+     {
+      "name": "Bibhas",
+      "slug": "bibhas",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "The gloss is the verified lexical sense of विभान. bibhas is related to vibhan (dawn, light); the distinct lexical form is not established."
+     },
+     {
+      "name": "Bibhash",
+      "slug": "bibhash",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "The gloss is the verified lexical sense of विभाषा. bibhash is related to vibhasha (radiance); the distinct lexical form is not independently established."
+     },
+     {
+      "name": "Bibhu",
+      "slug": "bibhu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bibhuti",
+      "slug": "bibhuti",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bichitra",
+      "slug": "bichitra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bicky",
+      "slug": "bicky",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bicky. An affectionate diminutive of Vikram rather than a lexical item; no meaning is asserted. No meanin"
+     },
+     {
+      "name": "Bidesh",
+      "slug": "bidesh",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bidesh. bidesh (foreign country) is a common Bengali noun, not an established personal name. No meaning i"
+     },
+     {
+      "name": "Bidhan",
+      "slug": "bidhan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bidhu",
+      "slug": "bidhu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bidisha",
+      "slug": "bidisha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bidur",
+      "slug": "bidur",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bidya",
+      "slug": "bidya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bidyadhar",
+      "slug": "bidyadhar",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bidyadhar. vidya (knowledge) + dhara (holder), a Bengali compound whose distinct lexical sense belongs to"
+     },
+     {
+      "name": "Bidyut",
+      "slug": "bidyut",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bigan",
+      "slug": "bigan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bigan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Bihari",
+      "slug": "bihari",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bijal",
+      "slug": "bijal",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Gujarati",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "The gloss is the verified lexical sense of विद्युत्. bijal is related to vidyut (lightning); the Gujarati lexical form was not independently verified."
+     },
+     {
+      "name": "Bijay",
+      "slug": "bijay",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bijaya",
+      "slug": "bijaya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bijen",
+      "slug": "bijen",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bijender",
+      "slug": "bijender",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bijendra",
+      "slug": "bijendra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bijit",
+      "slug": "bijit",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bijith",
+      "slug": "bijith",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Malayalam",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "The gloss is the verified lexical sense of विजय. A Malayalam spelling of bijit (conquered, victorious)."
+     },
+     {
+      "name": "Bijon",
+      "slug": "bijon",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bijon. A Bengali name; no verified lexical form was established for this source entry. No meaning is asse"
+     },
+     {
+      "name": "Bijoy",
+      "slug": "bijoy",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biju",
+      "slug": "biju",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biju. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Bijuli",
+      "slug": "bijuli",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Odia",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bikas",
+      "slug": "bikas",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Nepali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bikash",
+      "slug": "bikash",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bike",
+      "slug": "bike",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bike. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Bikesh",
+      "slug": "bikesh",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biki",
+      "slug": "biki",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biki. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Bikki",
+      "slug": "bikki",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bikki. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bikku",
+      "slug": "bikku",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bikku. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bikky",
+      "slug": "bikky",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bikky. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bikrant",
+      "slug": "bikrant",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bikrom",
+      "slug": "bikrom",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biku",
+      "slug": "biku",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biku. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Bilash",
+      "slug": "bilash",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Billu",
+      "slug": "billu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Billu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Biltu",
+      "slug": "biltu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biltu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bilu",
+      "slug": "bilu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bilu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Bimal",
+      "slug": "bimal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biman",
+      "slug": "biman",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biman. biman (aircraft) is a common Bengali noun; no name identity was verified. No meaning is asserted, "
+     },
+     {
+      "name": "Bimlesh",
+      "slug": "bimlesh",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bimol",
+      "slug": "bimol",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Binay",
+      "slug": "binay",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Binaya",
+      "slug": "binaya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Binda",
+      "slug": "binda",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "The gloss is the verified lexical sense of बिन्दु. binda is related to bindu (a drop or dot); no distinct lexical form was verified."
+     },
+     {
+      "name": "Bindas",
+      "slug": "bindas",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bindas. An exclamation meaning carefree; not an established personal name. No meaning is asserted, becaus"
+     },
+     {
+      "name": "Binder",
+      "slug": "binder",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "The gloss is the verified lexical sense of बिन्दु. A Punjabi name related to bindu (a drop or dot)."
+     },
+     {
+      "name": "Bindesh",
+      "slug": "bindesh",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bindu",
+      "slug": "bindu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
      }
     ],
     "confidence_summary": {
-     "unverified": 371,
-     "high": 544,
-     "medium": 161,
-     "low": 24
+     "unverified": 401,
+     "high": 594,
+     "medium": 169,
+     "low": 36
     },
     "origin_summary": {
-     "Unknown": 215,
-     "Sanskrit": 554,
+     "Unknown": 217,
+     "Sanskrit": 557,
      "Persian": 19,
      "Arabic": 67,
      "Tamil": 31,
      "Japanese": 1,
      "English": 3,
-     "Punjabi": 13,
+     "Punjabi": 18,
      "Hebrew": 2,
-     "Telugu": 9,
+     "Telugu": 11,
      "Marathi": 14,
      "Kannada": 8,
-     "Malayalam": 3,
-     "Hindi": 118,
-     "Bengali": 16,
-     "Gujarati": 18,
-     "Odia": 6,
+     "Malayalam": 4,
+     "Hindi": 163,
+     "Bengali": 46,
+     "Gujarati": 20,
+     "Odia": 15,
      "Kashmiri": 1,
-     "Assamese": 2
+     "Assamese": 2,
+     "Nepali": 1
     },
-    "verified_forms": 729,
-    "unverified_forms": 371,
+    "verified_forms": 799,
+    "unverified_forms": 401,
     "quality_gate": {
      "invalid_json": 0,
      "conflict_markers": 0,
@@ -75229,21 +77230,21 @@
      "broken_text": 0,
      "total_failures": 0
     },
-    "next_batch_starts_after": "bholanath",
-    "updated_at": "2026-10-03T05:23:26Z"
+    "next_batch_starts_after": "bindu",
+    "updated_at": "2026-10-03T05:28:23Z"
    }
   },
   "hindu": {
    "culture": "hindu",
    "total_names_in_slice": 5885,
-   "names_completed": 1200,
-   "current_batch": 12,
+   "names_completed": 1300,
+   "current_batch": 13,
    "batch_range": {
-    "first": "bhole",
-    "last": "bindu",
+    "first": "binesh",
+    "last": "bulbuli",
     "count": 100
    },
-   "batches_completed": 12,
+   "batches_completed": 13,
    "per_name": [
     {
      "name": "Aaba",
@@ -87244,38 +89245,1038 @@
      "gender": "Female",
      "manual_review_required": false,
      "reason": null
+    },
+    {
+     "name": "Binesh",
+     "slug": "binesh",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Binesh. A compound of bina (without) and isha (lord) that is not attested as a lexical item; no meaning i"
+    },
+    {
+     "name": "Binit",
+     "slug": "binit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Binita",
+     "slug": "binita",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Binny",
+     "slug": "binny",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Binny. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Binod",
+     "slug": "binod",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Binodini",
+     "slug": "binodini",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Binoy",
+     "slug": "binoy",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Binud",
+     "slug": "binud",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Binud. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+    },
+    {
+     "name": "Bipan",
+     "slug": "bipan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bipan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+    },
+    {
+     "name": "Bipasha",
+     "slug": "bipasha",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bipeen",
+     "slug": "bipeen",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bipin",
+     "slug": "bipin",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biplab",
+     "slug": "biplab",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biplob",
+     "slug": "biplob",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bipul",
+     "slug": "bipul",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bir",
+     "slug": "bir",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biraj",
+     "slug": "biraj",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biransh",
+     "slug": "biransh",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Biransh. A modern coinage; no verified lexical form was established. No meaning is asserted, because asse"
+    },
+    {
+     "name": "Birbal",
+     "slug": "birbal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Birendar",
+     "slug": "birendar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Birender",
+     "slug": "birender",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Birendra",
+     "slug": "birendra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biresh",
+     "slug": "biresh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biri",
+     "slug": "biri",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Biri. biri (a leaf-rolled cigarette) is a common noun, not an established personal name. No meaning is as"
+    },
+    {
+     "name": "Birjesh",
+     "slug": "birjesh",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Birju",
+     "slug": "birju",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Birju. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Birsa",
+     "slug": "birsa",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biru",
+     "slug": "biru",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Biru. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Bishakha",
+     "slug": "bishakha",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bishal",
+     "slug": "bishal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Nepali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bishan",
+     "slug": "bishan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bishan. A Punjabi name; the source record asserted no usable gloss and no lexical form was verified. No m"
+    },
+    {
+     "name": "Bishnu",
+     "slug": "bishnu",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bisho",
+     "slug": "bisho",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bisho. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+    },
+    {
+     "name": "Bisht",
+     "slug": "bisht",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bisht. Bisht is a surname; not established as a lexical given name. No meaning is asserted, because asser"
+    },
+    {
+     "name": "Bishu",
+     "slug": "bishu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bishu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Bishwa",
+     "slug": "bishwa",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bishwajit",
+     "slug": "bishwajit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bishwanath",
+     "slug": "bishwanath",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bisnu",
+     "slug": "bisnu",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bisu",
+     "slug": "bisu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bisu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Biswa",
+     "slug": "biswa",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biswajeet",
+     "slug": "biswajeet",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biswajit",
+     "slug": "biswajit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biswanath",
+     "slug": "biswanath",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biswarup",
+     "slug": "biswarup",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Biswas",
+     "slug": "biswas",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bithika",
+     "slug": "bithika",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bittu",
+     "slug": "bittu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bittu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Bitu",
+     "slug": "bitu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bitu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Bitupan",
+     "slug": "bitupan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Assamese",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bitupan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+    },
+    {
+     "name": "Bivas",
+     "slug": "bivas",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bivas. A Bengali name; the source record asserted no usable gloss and no lexical form was verified. No me"
+    },
+    {
+     "name": "Bivash",
+     "slug": "bivash",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bivash. A Bengali name; the source record asserted no usable gloss and no lexical form was verified. No m"
+    },
+    {
+     "name": "Bjp",
+     "slug": "bjp",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bjp. An abbreviation of a political party name, not a personal name; no name identity was verified. No me"
+    },
+    {
+     "name": "Bk",
+     "slug": "bk",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bk. A two-letter abbreviation, not a personal name; no name identity was verified. No meaning is asserted"
+    },
+    {
+     "name": "Bl",
+     "slug": "bl",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bl. A two-letter abbreviation, not a personal name; no name identity was verified. No meaning is asserted"
+    },
+    {
+     "name": "Bobby",
+     "slug": "bobby",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bobby. An English affectionate diminutive of Robert; not a lexical item. No meaning is asserted, because "
+    },
+    {
+     "name": "Boda",
+     "slug": "boda",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Boda. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+    },
+    {
+     "name": "Bodh",
+     "slug": "bodh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bodhi",
+     "slug": "bodhi",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bodhisattva",
+     "slug": "bodhisattva",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Boga",
+     "slug": "boga",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Unknown",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Boga. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+    },
+    {
+     "name": "Bohemia",
+     "slug": "bohemia",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bohemia. Bohemia is a place name and an English word, not a personal name; no name identity was verified."
+    },
+    {
+     "name": "Boloram",
+     "slug": "boloram",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Assamese",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Boobalan",
+     "slug": "boobalan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Boobalan. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No m"
+    },
+    {
+     "name": "Boopalan",
+     "slug": "boopalan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Boopalan. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No m"
+    },
+    {
+     "name": "Boopathi",
+     "slug": "boopathi",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Borun",
+     "slug": "borun",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Boxer",
+     "slug": "boxer",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Boxer. boxer is an English common noun, not a personal name; no name identity was verified. No meaning is"
+    },
+    {
+     "name": "Boya",
+     "slug": "boya",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Boya. Boya is the name of a community; not established as a lexical given name. No meaning is asserted, b"
+    },
+    {
+     "name": "Brahma",
+     "slug": "brahma",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brahmanand",
+     "slug": "brahmanand",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brahmananda",
+     "slug": "brahmananda",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brahmdev",
+     "slug": "brahmdev",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Braj",
+     "slug": "braj",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brajen",
+     "slug": "brajen",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brajendra",
+     "slug": "brajendra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brajesh",
+     "slug": "brajesh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brij",
+     "slug": "brij",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brijendra",
+     "slug": "brijendra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brijesh",
+     "slug": "brijesh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brijlal",
+     "slug": "brijlal",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Brijlal. vraja + lal (beloved), a devotional compound whose distinct lexical sense belongs to its element"
+    },
+    {
+     "name": "Brijraj",
+     "slug": "brijraj",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brinda",
+     "slug": "brinda",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brindha",
+     "slug": "brindha",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Tamil",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Brishti",
+     "slug": "brishti",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Bubai",
+     "slug": "bubai",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bubai. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Bubul",
+     "slug": "bubul",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Assamese",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bubul. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Bubun",
+     "slug": "bubun",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bubun. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Buddhadeb",
+     "slug": "buddhadeb",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Buddhadev",
+     "slug": "buddhadev",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Budh",
+     "slug": "budh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Budhan",
+     "slug": "budhan",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Budhan. A vernacular form related to budh (Mercury); no distinct lexical form was verified. No meaning is"
+    },
+    {
+     "name": "Budhi",
+     "slug": "budhi",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Budhia",
+     "slug": "budhia",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Budhia. A vernacular form related to buddhi; no distinct lexical form was verified. No meaning is asserte"
+    },
+    {
+     "name": "Budhiram",
+     "slug": "budhiram",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Budhiram. buddhi (wisdom) + Rama, a devotional compound whose distinct lexical sense belongs to its eleme"
+    },
+    {
+     "name": "Budhram",
+     "slug": "budhram",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Budhram. buddhi (wisdom) + Rama, a devotional compound whose distinct lexical sense belongs to its elemen"
+    },
+    {
+     "name": "Budhu",
+     "slug": "budhu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Budhu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Budu",
+     "slug": "budu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Budu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Bujji",
+     "slug": "bujji",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bujji. A Telugu affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is"
+    },
+    {
+     "name": "Bulbuli",
+     "slug": "bulbuli",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Assamese",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
     }
    ],
    "confidence_summary": {
-    "unverified": 401,
-    "high": 594,
-    "medium": 169,
-    "low": 36
+    "unverified": 435,
+    "high": 649,
+    "medium": 174,
+    "low": 42
    },
    "origin_summary": {
-    "Unknown": 217,
-    "Sanskrit": 557,
+    "Unknown": 221,
+    "Sanskrit": 561,
     "Persian": 19,
     "Arabic": 67,
-    "Tamil": 31,
+    "Tamil": 35,
     "Japanese": 1,
-    "English": 3,
-    "Punjabi": 18,
+    "English": 6,
+    "Punjabi": 22,
     "Hebrew": 2,
-    "Telugu": 11,
+    "Telugu": 13,
     "Marathi": 14,
     "Kannada": 8,
     "Malayalam": 4,
-    "Hindi": 163,
-    "Bengali": 46,
+    "Hindi": 206,
+    "Bengali": 73,
     "Gujarati": 20,
-    "Odia": 15,
+    "Odia": 19,
     "Kashmiri": 1,
-    "Assamese": 2,
-    "Nepali": 1
+    "Assamese": 6,
+    "Nepali": 2
    },
-   "verified_forms": 799,
-   "unverified_forms": 401,
+   "verified_forms": 865,
+   "unverified_forms": 435,
    "quality_gate": {
     "invalid_json": 0,
     "conflict_markers": 0,
@@ -87287,8 +90288,8 @@
     "broken_text": 0,
     "total_failures": 0
    },
-   "next_batch_starts_after": "bindu",
-   "updated_at": "2026-10-03T05:28:23Z"
+   "next_batch_starts_after": "bulbuli",
+   "updated_at": "2026-10-03T05:31:16Z"
   }
  }
 }

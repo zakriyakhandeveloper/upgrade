@@ -102,48 +102,48 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 1200 |
-| Current batch | 12 |
-| Batch range | bhole .. bindu (100) |
-| Batches completed | 12 |
-| Verified forms | 799 |
-| Unverified forms (no gloss asserted) | 401 |
-| Next batch starts after | bindu |
-| Updated | 2026-10-03T05:28:23Z |
+| Names completed | 1300 |
+| Current batch | 13 |
+| Batch range | binesh .. bulbuli (100) |
+| Batches completed | 13 |
+| Verified forms | 865 |
+| Unverified forms (no gloss asserted) | 435 |
+| Next batch starts after | bulbuli |
+| Updated | 2026-10-03T05:31:16Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 594 |
-| low | 36 |
-| medium | 169 |
-| unverified | 401 |
+| high | 649 |
+| low | 42 |
+| medium | 174 |
+| unverified | 435 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 557 |
-| Unknown | 217 |
-| Hindi | 163 |
+| Sanskrit | 561 |
+| Unknown | 221 |
+| Hindi | 206 |
+| Bengali | 73 |
 | Arabic | 67 |
-| Bengali | 46 |
-| Tamil | 31 |
+| Tamil | 35 |
+| Punjabi | 22 |
 | Gujarati | 20 |
 | Persian | 19 |
-| Punjabi | 18 |
-| Odia | 15 |
+| Odia | 19 |
 | Marathi | 14 |
-| Telugu | 11 |
+| Telugu | 13 |
 | Kannada | 8 |
+| English | 6 |
+| Assamese | 6 |
 | Malayalam | 4 |
-| English | 3 |
 | Hebrew | 2 |
-| Assamese | 2 |
+| Nepali | 2 |
 | Japanese | 1 |
 | Kashmiri | 1 |
-| Nepali | 1 |
 
 ## Hindu quality gate
 
@@ -163,4 +163,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 12 | bhole .. bindu | 100 | complete |
+| 13 | binesh .. bulbuli | 100 | complete |

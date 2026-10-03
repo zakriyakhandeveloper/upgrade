@@ -1,3 +1,4 @@
 # hindu batch spec (batch curated_module first last)
 # batch 8: athi..baba (100 names)
 8 curated_h8 athi baba
+9 curated_h9 babai balvir

@@ -102,32 +102,34 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 200 |
-| Current batch | 2 |
-| Batch range | abijit .. ajey (100) |
-| Batches completed | 2 |
-| Verified forms | 143 |
-| Unverified forms (no gloss asserted) | 57 |
-| Next batch starts after | ajey |
-| Updated | 2026-10-03T03:32:43Z |
+| Names completed | 300 |
+| Current batch | 3 |
+| Batch range | ajhar .. aloke (100) |
+| Batches completed | 3 |
+| Verified forms | 206 |
+| Unverified forms (no gloss asserted) | 94 |
+| Next batch starts after | aloke |
+| Updated | 2026-10-03T03:52:20Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 108 |
-| medium | 35 |
-| unverified | 57 |
+| high | 145 |
+| medium | 61 |
+| unverified | 94 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 134 |
-| Unknown | 48 |
-| Arabic | 13 |
-| Persian | 4 |
-| Tamil | 1 |
+| Sanskrit | 189 |
+| Unknown | 63 |
+| Arabic | 31 |
+| Persian | 11 |
+| Tamil | 4 |
+| Japanese | 1 |
+| English | 1 |
 
 ## Hindu quality gate
 
@@ -147,4 +149,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 2 | abijit .. ajey | 100 | complete |
+| 3 | ajhar .. aloke | 100 | complete |

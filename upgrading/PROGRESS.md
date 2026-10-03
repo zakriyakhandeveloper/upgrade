@@ -109,7 +109,7 @@
 | Verified forms | 75 |
 | Unverified forms (no gloss asserted) | 25 |
 | Next batch starts after | abhishek |
-| Updated | 2026-10-03T03:25:25Z |
+| Updated | 2026-10-03T03:26:20Z |
 
 ## Hindu confidence summary
 

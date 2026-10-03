@@ -26057,7 +26057,1048 @@
   "total_failures": 0
  },
  "next_batch_starts_after": "hakeema",
- "updated_at": "2026-10-03T03:25:25Z",
+ "updated_at": "2026-10-03T03:26:20Z",
+ "hindu": {
+  "culture": "hindu",
+  "total_names_in_slice": 5885,
+  "names_completed": 100,
+  "current_batch": 1,
+  "batch_range": {
+   "first": "aaba",
+   "last": "abhishek",
+   "count": 100
+  },
+  "batches_completed": 1,
+  "per_name": [
+   {
+    "name": "Aaba",
+    "slug": "aaba",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aaba. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+   },
+   {
+    "name": "Aabha",
+    "slug": "aabha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aadarsh",
+    "slug": "aadarsh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aadesh",
+    "slug": "aadesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aadhya",
+    "slug": "aadhya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aadi",
+    "slug": "aadi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aadit",
+    "slug": "aadit",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aadity",
+    "slug": "aadity",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aaditya",
+    "slug": "aaditya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aadya",
+    "slug": "aadya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aagam",
+    "slug": "aagam",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aahan",
+    "slug": "aahan",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aahana",
+    "slug": "aahana",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aajad",
+    "slug": "aajad",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Persian",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aajam",
+    "slug": "aajam",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aakanksha",
+    "slug": "aakanksha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aakansha",
+    "slug": "aakansha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aakash",
+    "slug": "aakash",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aakib",
+    "slug": "aakib",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aakib. The source entry is a transliteration of Arabic ʿĀqib. No Sanskrit form was established, so no mea"
+   },
+   {
+    "name": "Aakriti",
+    "slug": "aakriti",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aaksh",
+    "slug": "aaksh",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aaksh. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+   },
+   {
+    "name": "Aalok",
+    "slug": "aalok",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aaman",
+    "slug": "aaman",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aambal",
+    "slug": "aambal",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Tamil",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aanad",
+    "slug": "aanad",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aanand",
+    "slug": "aanand",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aanchal",
+    "slug": "aanchal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aanya",
+    "slug": "aanya",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aaquib",
+    "slug": "aaquib",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aaquib. The source entry is a transliteration of Arabic ʿĀqib. No Sanskrit form was established, so no me"
+   },
+   {
+    "name": "Aar",
+    "slug": "aar",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aar. No verified lexical form was established for this source entry. No meaning is asserted, because asse"
+   },
+   {
+    "name": "Aaradhya",
+    "slug": "aaradhya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aaran",
+    "slug": "aaran",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aaran. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+   },
+   {
+    "name": "Aarav",
+    "slug": "aarav",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aarchi",
+    "slug": "aarchi",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aarchi. No verified lexical form was established for this source entry. No meaning is asserted, because a"
+   },
+   {
+    "name": "Aarish",
+    "slug": "aarish",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aarish. No verified lexical form was established for this source entry. No meaning is asserted, because a"
+   },
+   {
+    "name": "Aariyan",
+    "slug": "aariyan",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aarju",
+    "slug": "aarju",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aarju. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+   },
+   {
+    "name": "Aarman",
+    "slug": "aarman",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aarman. No verified lexical form was established for this source entry. No meaning is asserted, because a"
+   },
+   {
+    "name": "Aarnav",
+    "slug": "aarnav",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aaro",
+    "slug": "aaro",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aaro. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
+   },
+   {
+    "name": "Aarohi",
+    "slug": "aarohi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aarti",
+    "slug": "aarti",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aaru",
+    "slug": "aaru",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aaru. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
+   },
+   {
+    "name": "Aarush",
+    "slug": "aarush",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aarushi",
+    "slug": "aarushi",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aarv",
+    "slug": "aarv",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aarv. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
+   },
+   {
+    "name": "Aashi",
+    "slug": "aashi",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aashima",
+    "slug": "aashima",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aashima. No verified lexical form was established for this source entry. No meaning is asserted, because "
+   },
+   {
+    "name": "Aashis",
+    "slug": "aashis",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aashish",
+    "slug": "aashish",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aashiya",
+    "slug": "aashiya",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aashiya. No verified lexical form was established for this source entry. No meaning is asserted, because "
+   },
+   {
+    "name": "Aashna",
+    "slug": "aashna",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Persian",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aashu",
+    "slug": "aashu",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aashutosh",
+    "slug": "aashutosh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aasik",
+    "slug": "aasik",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aasik. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+   },
+   {
+    "name": "Aasish",
+    "slug": "aasish",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aastha",
+    "slug": "aastha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aasu",
+    "slug": "aasu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aasu. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
+   },
+   {
+    "name": "Aathi",
+    "slug": "aathi",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aathi. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+   },
+   {
+    "name": "Aatma",
+    "slug": "aatma",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aatmaram",
+    "slug": "aatmaram",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aaush",
+    "slug": "aaush",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Aaush. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+   },
+   {
+    "name": "Aavesh",
+    "slug": "aavesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aayu",
+    "slug": "aayu",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aayush",
+    "slug": "aayush",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Aayushi",
+    "slug": "aayushi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abani",
+    "slug": "abani",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abbu",
+    "slug": "abbu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Abbu. The source entry is an honorific address term ('father'), not a personal name. No lexical meaning i"
+   },
+   {
+    "name": "Abdesh",
+    "slug": "abdesh",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Abdesh. No verified lexical form was established for this source entry. No meaning is asserted, because a"
+   },
+   {
+    "name": "Abdhesh",
+    "slug": "abdhesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abdur",
+    "slug": "abdur",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Arabic",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Abdur. From Arabic ʿAbd al- ('servant of'). The clipped form is not a complete name, so no meaning is ass"
+   },
+   {
+    "name": "Abha",
+    "slug": "abha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhay",
+    "slug": "abhay",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhaya",
+    "slug": "abhaya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhayraj",
+    "slug": "abhayraj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhey",
+    "slug": "abhey",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhi",
+    "slug": "abhi",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Sanskrit",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Abhi. अभि is a verbal prefix meaning 'towards, over', not an independent lexical noun. No name meaning is"
+   },
+   {
+    "name": "Abhigyan",
+    "slug": "abhigyan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhijeet",
+    "slug": "abhijeet",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhijit",
+    "slug": "abhijit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhik",
+    "slug": "abhik",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Abhik. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+   },
+   {
+    "name": "Abhilash",
+    "slug": "abhilash",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhilasha",
+    "slug": "abhilasha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhilesh",
+    "slug": "abhilesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhiman",
+    "slug": "abhiman",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhimanu",
+    "slug": "abhimanu",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhimanyu",
+    "slug": "abhimanyu",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhinab",
+    "slug": "abhinab",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhinandan",
+    "slug": "abhinandan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhinash",
+    "slug": "abhinash",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhinav",
+    "slug": "abhinav",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhinay",
+    "slug": "abhinay",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhineet",
+    "slug": "abhineet",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhinesh",
+    "slug": "abhinesh",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Unknown",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Abhinesh. No verified lexical form was established for this source entry. No meaning is asserted, because"
+   },
+   {
+    "name": "Abhiraj",
+    "slug": "abhiraj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhiram",
+    "slug": "abhiram",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhirup",
+    "slug": "abhirup",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhisek",
+    "slug": "abhisek",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhisekh",
+    "slug": "abhisekh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Abhishek",
+    "slug": "abhishek",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   }
+  ],
+  "confidence_summary": {
+   "unverified": 25,
+   "high": 60,
+   "medium": 15
+  },
+  "origin_summary": {
+   "Unknown": 21,
+   "Sanskrit": 72,
+   "Persian": 2,
+   "Arabic": 4,
+   "Tamil": 1
+  },
+  "verified_forms": 75,
+  "unverified_forms": 25,
+  "quality_gate": {
+   "invalid_json": 0,
+   "conflict_markers": 0,
+   "schema_mismatches": 0,
+   "duplicate_slugs": 0,
+   "english_gloss_in_script": 0,
+   "bad_structured_data": 0,
+   "missing_evidence": 0,
+   "broken_text": 0,
+   "total_failures": 0
+  },
+  "next_batch_starts_after": "abhishek",
+  "updated_at": "2026-10-03T03:26:20Z"
+ },
  "slices": {
   "islamic": {
    "dataset": "NameVerse",
@@ -52118,7 +53159,1048 @@
     "total_failures": 0
    },
    "next_batch_starts_after": "hakeema",
-   "updated_at": "2026-10-02T04:54:15Z"
+   "updated_at": "2026-10-03T03:25:25Z",
+   "hindu": {
+    "culture": "hindu",
+    "total_names_in_slice": 5885,
+    "names_completed": 100,
+    "current_batch": 1,
+    "batch_range": {
+     "first": "aaba",
+     "last": "abhishek",
+     "count": 100
+    },
+    "batches_completed": 1,
+    "per_name": [
+     {
+      "name": "Aaba",
+      "slug": "aaba",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aaba. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Aabha",
+      "slug": "aabha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aadarsh",
+      "slug": "aadarsh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aadesh",
+      "slug": "aadesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aadhya",
+      "slug": "aadhya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aadi",
+      "slug": "aadi",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aadit",
+      "slug": "aadit",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aadity",
+      "slug": "aadity",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aaditya",
+      "slug": "aaditya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aadya",
+      "slug": "aadya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aagam",
+      "slug": "aagam",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aahan",
+      "slug": "aahan",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aahana",
+      "slug": "aahana",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aajad",
+      "slug": "aajad",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Persian",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aajam",
+      "slug": "aajam",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aakanksha",
+      "slug": "aakanksha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aakansha",
+      "slug": "aakansha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aakash",
+      "slug": "aakash",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aakib",
+      "slug": "aakib",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aakib. The source entry is a transliteration of Arabic ʿĀqib. No Sanskrit form was established, so no mea"
+     },
+     {
+      "name": "Aakriti",
+      "slug": "aakriti",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aaksh",
+      "slug": "aaksh",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aaksh. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+     },
+     {
+      "name": "Aalok",
+      "slug": "aalok",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aaman",
+      "slug": "aaman",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aambal",
+      "slug": "aambal",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Tamil",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aanad",
+      "slug": "aanad",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aanand",
+      "slug": "aanand",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aanchal",
+      "slug": "aanchal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aanya",
+      "slug": "aanya",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aaquib",
+      "slug": "aaquib",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aaquib. The source entry is a transliteration of Arabic ʿĀqib. No Sanskrit form was established, so no me"
+     },
+     {
+      "name": "Aar",
+      "slug": "aar",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aar. No verified lexical form was established for this source entry. No meaning is asserted, because asse"
+     },
+     {
+      "name": "Aaradhya",
+      "slug": "aaradhya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aaran",
+      "slug": "aaran",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aaran. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+     },
+     {
+      "name": "Aarav",
+      "slug": "aarav",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aarchi",
+      "slug": "aarchi",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aarchi. No verified lexical form was established for this source entry. No meaning is asserted, because a"
+     },
+     {
+      "name": "Aarish",
+      "slug": "aarish",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aarish. No verified lexical form was established for this source entry. No meaning is asserted, because a"
+     },
+     {
+      "name": "Aariyan",
+      "slug": "aariyan",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aarju",
+      "slug": "aarju",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aarju. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+     },
+     {
+      "name": "Aarman",
+      "slug": "aarman",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aarman. No verified lexical form was established for this source entry. No meaning is asserted, because a"
+     },
+     {
+      "name": "Aarnav",
+      "slug": "aarnav",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aaro",
+      "slug": "aaro",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aaro. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
+     },
+     {
+      "name": "Aarohi",
+      "slug": "aarohi",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aarti",
+      "slug": "aarti",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aaru",
+      "slug": "aaru",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aaru. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
+     },
+     {
+      "name": "Aarush",
+      "slug": "aarush",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aarushi",
+      "slug": "aarushi",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aarv",
+      "slug": "aarv",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aarv. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
+     },
+     {
+      "name": "Aashi",
+      "slug": "aashi",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aashima",
+      "slug": "aashima",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aashima. No verified lexical form was established for this source entry. No meaning is asserted, because "
+     },
+     {
+      "name": "Aashis",
+      "slug": "aashis",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aashish",
+      "slug": "aashish",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aashiya",
+      "slug": "aashiya",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aashiya. No verified lexical form was established for this source entry. No meaning is asserted, because "
+     },
+     {
+      "name": "Aashna",
+      "slug": "aashna",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Persian",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aashu",
+      "slug": "aashu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aashutosh",
+      "slug": "aashutosh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aasik",
+      "slug": "aasik",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aasik. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+     },
+     {
+      "name": "Aasish",
+      "slug": "aasish",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aastha",
+      "slug": "aastha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aasu",
+      "slug": "aasu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aasu. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
+     },
+     {
+      "name": "Aathi",
+      "slug": "aathi",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aathi. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+     },
+     {
+      "name": "Aatma",
+      "slug": "aatma",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aatmaram",
+      "slug": "aatmaram",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aaush",
+      "slug": "aaush",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Aaush. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+     },
+     {
+      "name": "Aavesh",
+      "slug": "aavesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aayu",
+      "slug": "aayu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aayush",
+      "slug": "aayush",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Aayushi",
+      "slug": "aayushi",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abani",
+      "slug": "abani",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abbu",
+      "slug": "abbu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Abbu. The source entry is an honorific address term ('father'), not a personal name. No lexical meaning i"
+     },
+     {
+      "name": "Abdesh",
+      "slug": "abdesh",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Abdesh. No verified lexical form was established for this source entry. No meaning is asserted, because a"
+     },
+     {
+      "name": "Abdhesh",
+      "slug": "abdhesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abdur",
+      "slug": "abdur",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Abdur. From Arabic ʿAbd al- ('servant of'). The clipped form is not a complete name, so no meaning is ass"
+     },
+     {
+      "name": "Abha",
+      "slug": "abha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhay",
+      "slug": "abhay",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhaya",
+      "slug": "abhaya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhayraj",
+      "slug": "abhayraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhey",
+      "slug": "abhey",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhi",
+      "slug": "abhi",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Sanskrit",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Abhi. अभि is a verbal prefix meaning 'towards, over', not an independent lexical noun. No name meaning is"
+     },
+     {
+      "name": "Abhigyan",
+      "slug": "abhigyan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhijeet",
+      "slug": "abhijeet",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhijit",
+      "slug": "abhijit",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhik",
+      "slug": "abhik",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Abhik. No verified lexical form was established for this source entry. No meaning is asserted, because as"
+     },
+     {
+      "name": "Abhilash",
+      "slug": "abhilash",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhilasha",
+      "slug": "abhilasha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhilesh",
+      "slug": "abhilesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhiman",
+      "slug": "abhiman",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhimanu",
+      "slug": "abhimanu",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhimanyu",
+      "slug": "abhimanyu",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhinab",
+      "slug": "abhinab",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhinandan",
+      "slug": "abhinandan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhinash",
+      "slug": "abhinash",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhinav",
+      "slug": "abhinav",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhinay",
+      "slug": "abhinay",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhineet",
+      "slug": "abhineet",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhinesh",
+      "slug": "abhinesh",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Abhinesh. No verified lexical form was established for this source entry. No meaning is asserted, because"
+     },
+     {
+      "name": "Abhiraj",
+      "slug": "abhiraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhiram",
+      "slug": "abhiram",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhirup",
+      "slug": "abhirup",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhisek",
+      "slug": "abhisek",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhisekh",
+      "slug": "abhisekh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Abhishek",
+      "slug": "abhishek",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     }
+    ],
+    "confidence_summary": {
+     "unverified": 25,
+     "high": 60,
+     "medium": 15
+    },
+    "origin_summary": {
+     "Unknown": 21,
+     "Sanskrit": 72,
+     "Persian": 2,
+     "Arabic": 4,
+     "Tamil": 1
+    },
+    "verified_forms": 75,
+    "unverified_forms": 25,
+    "quality_gate": {
+     "invalid_json": 0,
+     "conflict_markers": 0,
+     "schema_mismatches": 0,
+     "duplicate_slugs": 0,
+     "english_gloss_in_script": 0,
+     "bad_structured_data": 0,
+     "missing_evidence": 0,
+     "broken_text": 0,
+     "total_failures": 0
+    },
+    "next_batch_starts_after": "abhishek",
+    "updated_at": "2026-10-03T03:25:25Z"
+   }
   },
   "hindu": {
    "culture": "hindu",
@@ -53159,1048 +55241,7 @@
     "total_failures": 0
    },
    "next_batch_starts_after": "abhishek",
-   "updated_at": "2026-10-03T03:25:25Z"
+   "updated_at": "2026-10-03T03:26:20Z"
   }
- },
- "hindu": {
-  "culture": "hindu",
-  "total_names_in_slice": 5885,
-  "names_completed": 100,
-  "current_batch": 1,
-  "batch_range": {
-   "first": "aaba",
-   "last": "abhishek",
-   "count": 100
-  },
-  "batches_completed": 1,
-  "per_name": [
-   {
-    "name": "Aaba",
-    "slug": "aaba",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aaba. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
-   },
-   {
-    "name": "Aabha",
-    "slug": "aabha",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aadarsh",
-    "slug": "aadarsh",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aadesh",
-    "slug": "aadesh",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aadhya",
-    "slug": "aadhya",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aadi",
-    "slug": "aadi",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aadit",
-    "slug": "aadit",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aadity",
-    "slug": "aadity",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aaditya",
-    "slug": "aaditya",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aadya",
-    "slug": "aadya",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aagam",
-    "slug": "aagam",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aahan",
-    "slug": "aahan",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aahana",
-    "slug": "aahana",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aajad",
-    "slug": "aajad",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Persian",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aajam",
-    "slug": "aajam",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Arabic",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aakanksha",
-    "slug": "aakanksha",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aakansha",
-    "slug": "aakansha",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aakash",
-    "slug": "aakash",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aakib",
-    "slug": "aakib",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Arabic",
-    "gender": "Male",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aakib. The source entry is a transliteration of Arabic ʿĀqib. No Sanskrit form was established, so no mea"
-   },
-   {
-    "name": "Aakriti",
-    "slug": "aakriti",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aaksh",
-    "slug": "aaksh",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aaksh. No verified lexical form was established for this source entry. No meaning is asserted, because as"
-   },
-   {
-    "name": "Aalok",
-    "slug": "aalok",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aaman",
-    "slug": "aaman",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aambal",
-    "slug": "aambal",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Tamil",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aanad",
-    "slug": "aanad",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aanand",
-    "slug": "aanand",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aanchal",
-    "slug": "aanchal",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aanya",
-    "slug": "aanya",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aaquib",
-    "slug": "aaquib",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Arabic",
-    "gender": "Male",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aaquib. The source entry is a transliteration of Arabic ʿĀqib. No Sanskrit form was established, so no me"
-   },
-   {
-    "name": "Aar",
-    "slug": "aar",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aar. No verified lexical form was established for this source entry. No meaning is asserted, because asse"
-   },
-   {
-    "name": "Aaradhya",
-    "slug": "aaradhya",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aaran",
-    "slug": "aaran",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aaran. No verified lexical form was established for this source entry. No meaning is asserted, because as"
-   },
-   {
-    "name": "Aarav",
-    "slug": "aarav",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aarchi",
-    "slug": "aarchi",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aarchi. No verified lexical form was established for this source entry. No meaning is asserted, because a"
-   },
-   {
-    "name": "Aarish",
-    "slug": "aarish",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aarish. No verified lexical form was established for this source entry. No meaning is asserted, because a"
-   },
-   {
-    "name": "Aariyan",
-    "slug": "aariyan",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aarju",
-    "slug": "aarju",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aarju. No verified lexical form was established for this source entry. No meaning is asserted, because as"
-   },
-   {
-    "name": "Aarman",
-    "slug": "aarman",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aarman. No verified lexical form was established for this source entry. No meaning is asserted, because a"
-   },
-   {
-    "name": "Aarnav",
-    "slug": "aarnav",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aaro",
-    "slug": "aaro",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aaro. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
-   },
-   {
-    "name": "Aarohi",
-    "slug": "aarohi",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aarti",
-    "slug": "aarti",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aaru",
-    "slug": "aaru",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aaru. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
-   },
-   {
-    "name": "Aarush",
-    "slug": "aarush",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aarushi",
-    "slug": "aarushi",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aarv",
-    "slug": "aarv",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aarv. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
-   },
-   {
-    "name": "Aashi",
-    "slug": "aashi",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aashima",
-    "slug": "aashima",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aashima. No verified lexical form was established for this source entry. No meaning is asserted, because "
-   },
-   {
-    "name": "Aashis",
-    "slug": "aashis",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aashish",
-    "slug": "aashish",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aashiya",
-    "slug": "aashiya",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aashiya. No verified lexical form was established for this source entry. No meaning is asserted, because "
-   },
-   {
-    "name": "Aashna",
-    "slug": "aashna",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Persian",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aashu",
-    "slug": "aashu",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aashutosh",
-    "slug": "aashutosh",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aasik",
-    "slug": "aasik",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aasik. No verified lexical form was established for this source entry. No meaning is asserted, because as"
-   },
-   {
-    "name": "Aasish",
-    "slug": "aasish",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aastha",
-    "slug": "aastha",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aasu",
-    "slug": "aasu",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aasu. No verified lexical form was established for this source entry. No meaning is asserted, because ass"
-   },
-   {
-    "name": "Aathi",
-    "slug": "aathi",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aathi. No verified lexical form was established for this source entry. No meaning is asserted, because as"
-   },
-   {
-    "name": "Aatma",
-    "slug": "aatma",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aatmaram",
-    "slug": "aatmaram",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aaush",
-    "slug": "aaush",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Aaush. No verified lexical form was established for this source entry. No meaning is asserted, because as"
-   },
-   {
-    "name": "Aavesh",
-    "slug": "aavesh",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aayu",
-    "slug": "aayu",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aayush",
-    "slug": "aayush",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Aayushi",
-    "slug": "aayushi",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abani",
-    "slug": "abani",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abbu",
-    "slug": "abbu",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Abbu. The source entry is an honorific address term ('father'), not a personal name. No lexical meaning i"
-   },
-   {
-    "name": "Abdesh",
-    "slug": "abdesh",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Abdesh. No verified lexical form was established for this source entry. No meaning is asserted, because a"
-   },
-   {
-    "name": "Abdhesh",
-    "slug": "abdhesh",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abdur",
-    "slug": "abdur",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Arabic",
-    "gender": "Male",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Abdur. From Arabic ʿAbd al- ('servant of'). The clipped form is not a complete name, so no meaning is ass"
-   },
-   {
-    "name": "Abha",
-    "slug": "abha",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhay",
-    "slug": "abhay",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhaya",
-    "slug": "abhaya",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhayraj",
-    "slug": "abhayraj",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhey",
-    "slug": "abhey",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhi",
-    "slug": "abhi",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Sanskrit",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Abhi. अभि is a verbal prefix meaning 'towards, over', not an independent lexical noun. No name meaning is"
-   },
-   {
-    "name": "Abhigyan",
-    "slug": "abhigyan",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhijeet",
-    "slug": "abhijeet",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhijit",
-    "slug": "abhijit",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhik",
-    "slug": "abhik",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Abhik. No verified lexical form was established for this source entry. No meaning is asserted, because as"
-   },
-   {
-    "name": "Abhilash",
-    "slug": "abhilash",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhilasha",
-    "slug": "abhilasha",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Female",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhilesh",
-    "slug": "abhilesh",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhiman",
-    "slug": "abhiman",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhimanu",
-    "slug": "abhimanu",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhimanyu",
-    "slug": "abhimanyu",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhinab",
-    "slug": "abhinab",
-    "status": "complete",
-    "meaning_confidence": "medium",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhinandan",
-    "slug": "abhinandan",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhinash",
-    "slug": "abhinash",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhinav",
-    "slug": "abhinav",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhinay",
-    "slug": "abhinay",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhineet",
-    "slug": "abhineet",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhinesh",
-    "slug": "abhinesh",
-    "status": "complete",
-    "meaning_confidence": "unverified",
-    "origin": "Unknown",
-    "gender": "Unknown",
-    "manual_review_required": true,
-    "reason": "No verified lexical identification was established for Abhinesh. No verified lexical form was established for this source entry. No meaning is asserted, because"
-   },
-   {
-    "name": "Abhiraj",
-    "slug": "abhiraj",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhiram",
-    "slug": "abhiram",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhirup",
-    "slug": "abhirup",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhisek",
-    "slug": "abhisek",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhisekh",
-    "slug": "abhisekh",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   },
-   {
-    "name": "Abhishek",
-    "slug": "abhishek",
-    "status": "complete",
-    "meaning_confidence": "high",
-    "origin": "Sanskrit",
-    "gender": "Male",
-    "manual_review_required": false,
-    "reason": null
-   }
-  ],
-  "confidence_summary": {
-   "unverified": 25,
-   "high": 60,
-   "medium": 15
-  },
-  "origin_summary": {
-   "Unknown": 21,
-   "Sanskrit": 72,
-   "Persian": 2,
-   "Arabic": 4,
-   "Tamil": 1
-  },
-  "verified_forms": 75,
-  "unverified_forms": 25,
-  "quality_gate": {
-   "invalid_json": 0,
-   "conflict_markers": 0,
-   "schema_mismatches": 0,
-   "duplicate_slugs": 0,
-   "english_gloss_in_script": 0,
-   "bad_structured_data": 0,
-   "missing_evidence": 0,
-   "broken_text": 0,
-   "total_failures": 0
-  },
-  "next_batch_starts_after": "abhishek",
-  "updated_at": "2026-10-03T03:25:25Z"
  }
 }

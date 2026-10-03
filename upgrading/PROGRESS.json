@@ -26057,18 +26057,18 @@
   "total_failures": 0
  },
  "next_batch_starts_after": "hakeema",
- "updated_at": "2026-10-03T05:41:29Z",
+ "updated_at": "2026-10-03T05:45:31Z",
  "hindu": {
   "culture": "hindu",
   "total_names_in_slice": 5885,
-  "names_completed": 1700,
-  "current_batch": 17,
+  "names_completed": 1800,
+  "current_batch": 18,
   "batch_range": {
-   "first": "devidas",
-   "last": "dhiraj",
+   "first": "dhiren",
+   "last": "divit",
    "count": 100
   },
-  "batches_completed": 17,
+  "batches_completed": 18,
   "per_name": [
    {
     "name": "Aaba",
@@ -43069,40 +43069,1040 @@
     "gender": "Male",
     "manual_review_required": false,
     "reason": null
+   },
+   {
+    "name": "Dhiren",
+    "slug": "dhiren",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhirendar",
+    "slug": "dhirendar",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhirendra",
+    "slug": "dhirendra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhiru",
+    "slug": "dhiru",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dhiru. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Dhirubhai",
+    "slug": "dhirubhai",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dhirubhai. dhiru (diminutive) + bhai (brother), an affectionate compound with no distinct lexical sense. "
+   },
+   {
+    "name": "Dhoni",
+    "slug": "dhoni",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dhoni. A surname-derived name; no verified lexical form was established. No meaning is asserted, because "
+   },
+   {
+    "name": "Dhritiman",
+    "slug": "dhritiman",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhruba",
+    "slug": "dhruba",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhrubajyoti",
+    "slug": "dhrubajyoti",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Assamese",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhrumil",
+    "slug": "dhrumil",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dhrumil. A modern Gujarati coinage; no verified lexical form was established. No meaning is asserted, bec"
+   },
+   {
+    "name": "Dhruti",
+    "slug": "dhruti",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhruv",
+    "slug": "dhruv",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhruvesh",
+    "slug": "dhruvesh",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dhruvesh. dhruva (the pole star) + ish (lord), a compound whose distinct lexical sense belongs to its ele"
+   },
+   {
+    "name": "Dhruvin",
+    "slug": "dhruvin",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dhruvin. A modern Gujarati coinage related to dhruva; no distinct lexical form was verified. No meaning i"
+   },
+   {
+    "name": "Dhunu",
+    "slug": "dhunu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dhunu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Dhurba",
+    "slug": "dhurba",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhurv",
+    "slug": "dhurv",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhyan",
+    "slug": "dhyan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dhyey",
+    "slug": "dhyey",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dhyey. A Gujarati name from dhyeya (aim, target); no verified lexical form was established. No meaning is"
+   },
+   {
+    "name": "Dia",
+    "slug": "dia",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dia. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting one w"
+   },
+   {
+    "name": "Diara",
+    "slug": "diara",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Diara. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting one"
+   },
+   {
+    "name": "Dibakar",
+    "slug": "dibakar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dibya",
+    "slug": "dibya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dibyendu",
+    "slug": "dibyendu",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dibyendu. dibya (divine) + indu (moon), a compound whose distinct lexical sense belongs to its elements. "
+   },
+   {
+    "name": "Digambar",
+    "slug": "digambar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Digamber",
+    "slug": "digamber",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Digant",
+    "slug": "digant",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Diganta",
+    "slug": "diganta",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Assamese",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Digu",
+    "slug": "digu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Digu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Digvijay",
+    "slug": "digvijay",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dikesh",
+    "slug": "dikesh",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dikesh. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+   },
+   {
+    "name": "Dikshant",
+    "slug": "dikshant",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dikshit",
+    "slug": "dikshit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dikshita",
+    "slug": "dikshita",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Odia",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Diku",
+    "slug": "diku",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Diku. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Dilbag",
+    "slug": "dilbag",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilbag. dil (heart) + bag (garden), a compound whose distinct lexical sense belongs to its elements. No m"
+   },
+   {
+    "name": "Dileep",
+    "slug": "dileep",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dilep",
+    "slug": "dilep",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dilesh",
+    "slug": "dilesh",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilesh. dil (heart) + ish (lord), a compound whose distinct lexical sense belongs to its elements. No mea"
+   },
+   {
+    "name": "Dileshwar",
+    "slug": "dileshwar",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dileshwar. dil (heart) + ishwar (lord), a compound whose distinct lexical sense belongs to its elements. "
+   },
+   {
+    "name": "Dilip",
+    "slug": "dilip",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dilipbhai",
+    "slug": "dilipbhai",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilipbhai. dilip + bhai (brother), a compound whose distinct lexical sense belongs to its elements. No me"
+   },
+   {
+    "name": "Dilipsinh",
+    "slug": "dilipsinh",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilipsinh. dilip + sinh (lion), a compound whose distinct lexical sense belongs to its elements. No meani"
+   },
+   {
+    "name": "Diljeet",
+    "slug": "diljeet",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Diljeet. dil (heart) + jeet (victory), a compound whose distinct lexical sense belongs to its elements. N"
+   },
+   {
+    "name": "Dilkash",
+    "slug": "dilkash",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilkash. dilkash means charming or attractive, from Persian; no verified Indic lexical form. No meaning i"
+   },
+   {
+    "name": "Dilkhush",
+    "slug": "dilkhush",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilkhush. dilkhush means happy or delighted, from Persian; no verified Indic lexical form. No meaning is "
+   },
+   {
+    "name": "Dilkush",
+    "slug": "dilkush",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilkush. A variant spelling of dilkhush, happy or delighted, from Persian. No meaning is asserted, becaus"
+   },
+   {
+    "name": "Dilli",
+    "slug": "dilli",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilli. dilli is a place name (Delhi), not a personal name; no name identity was verified. No meaning is a"
+   },
+   {
+    "name": "Dillip",
+    "slug": "dillip",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dilp",
+    "slug": "dilp",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilp. dil (heart) + the Punjabi suffix -p; no verified lexical form was established. No meaning is assert"
+   },
+   {
+    "name": "Dilraj",
+    "slug": "dilraj",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilraj. dil (heart) + raj (rule), a compound whose distinct lexical sense belongs to its elements. No mea"
+   },
+   {
+    "name": "Dilsad",
+    "slug": "dilsad",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilsad. dil (heart) + shad (joy), a Persianate compound with no verified Indic lexical form. No meaning i"
+   },
+   {
+    "name": "Dilu",
+    "slug": "dilu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Dilwar",
+    "slug": "dilwar",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dilwar. dil (heart) + war (possessing), a Persianate compound with no verified Indic lexical form. No mea"
+   },
+   {
+    "name": "Dimbeswar",
+    "slug": "dimbeswar",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Assamese",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dimbeswar. A compound of dimba (a hill in Assam) + iswar (lord); no verified lexical form was established"
+   },
+   {
+    "name": "Dimpi",
+    "slug": "dimpi",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dimpi. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Dimple",
+    "slug": "dimple",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dimple. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting on"
+   },
+   {
+    "name": "Dinabandhu",
+    "slug": "dinabandhu",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dinakar",
+    "slug": "dinakar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dinakaran",
+    "slug": "dinakaran",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dinash",
+    "slug": "dinash",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dinash. A compound of dina (day); no verified lexical form was established. No meaning is asserted, becau"
+   },
+   {
+    "name": "Dindayal",
+    "slug": "dindayal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dindyal",
+    "slug": "dindyal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dines",
+    "slug": "dines",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dinesh",
+    "slug": "dinesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dineshbhai",
+    "slug": "dineshbhai",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dineshbhai. dinesh + bhai (brother), a compound whose distinct lexical sense belongs to its elements. No "
+   },
+   {
+    "name": "Dineshkumar",
+    "slug": "dineshkumar",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dineshkumar. dinesh + kumar (son, prince), a compound whose distinct lexical sense belongs to its element"
+   },
+   {
+    "name": "Dinkar",
+    "slug": "dinkar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dino",
+    "slug": "dino",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dino. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting one "
+   },
+   {
+    "name": "Dinu",
+    "slug": "dinu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dinu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Dip",
+    "slug": "dip",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dipak",
+    "slug": "dipak",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dipan",
+    "slug": "dipan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dipanjan",
+    "slug": "dipanjan",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dipanjan. dip (lamp) + anjan (collyrium, darkness), a compound whose distinct lexical sense belongs to it"
+   },
+   {
+    "name": "Dipankar",
+    "slug": "dipankar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dipanshu",
+    "slug": "dipanshu",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dipayan",
+    "slug": "dipayan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dipayan. A modern Bengali name; the source record asserted no usable gloss and no lexical form was verifi"
+   },
+   {
+    "name": "Dipesh",
+    "slug": "dipesh",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Nepali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dipesh. dip (lamp) + esh (lord), a compound whose distinct lexical sense belongs to its elements. No mean"
+   },
+   {
+    "name": "Dipika",
+    "slug": "dipika",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Odia",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dipjyoti",
+    "slug": "dipjyoti",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Assamese",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dipok",
+    "slug": "dipok",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Assamese",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dipon",
+    "slug": "dipon",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dipon. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Dippu",
+    "slug": "dippu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dippu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Dipraj",
+    "slug": "dipraj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Diptanu",
+    "slug": "diptanu",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Diptanu. dip (lamp) + tanu (body, self), a compound whose distinct lexical sense belongs to its elements."
+   },
+   {
+    "name": "Dipun",
+    "slug": "dipun",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dipun. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Disha",
+    "slug": "disha",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dishant",
+    "slug": "dishant",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Dishu",
+    "slug": "dishu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Dishu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Div",
+    "slug": "div",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Divakar",
+    "slug": "divakar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Divan",
+    "slug": "divan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Divan. divan is a court official or a collection of poems; not established as a lexical given name. No me"
+   },
+   {
+    "name": "Divani",
+    "slug": "divani",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Divani. A feminine form related to divan; no verified lexical form was established. No meaning is asserte"
+   },
+   {
+    "name": "Divanshu",
+    "slug": "divanshu",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Divesh",
+    "slug": "divesh",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Divesh. dik (day) + esh (lord), a compound whose distinct lexical sense belongs to its elements. No meani"
+   },
+   {
+    "name": "Divi",
+    "slug": "divi",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Divi. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting one "
+   },
+   {
+    "name": "Divij",
+    "slug": "divij",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Divij. divi (heaven) + ja (born), a compound whose distinct lexical sense belongs to its elements. No mea"
+   },
+   {
+    "name": "Divija",
+    "slug": "divija",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Divina",
+    "slug": "divina",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Divina. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting on"
+   },
+   {
+    "name": "Divit",
+    "slug": "divit",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Divit. A modern coinage; no verified Sanskrit or Indic lexical form was established. No meaning is assert"
    }
   ],
   "confidence_summary": {
-   "unverified": 535,
-   "high": 865,
-   "medium": 206,
-   "low": 94
+   "unverified": 563,
+   "high": 904,
+   "medium": 215,
+   "low": 118
   },
   "origin_summary": {
    "Unknown": 229,
-   "Sanskrit": 597,
+   "Sanskrit": 598,
    "Persian": 20,
    "Arabic": 67,
-   "Tamil": 56,
+   "Tamil": 57,
    "Japanese": 1,
-   "English": 16,
-   "Punjabi": 32,
+   "English": 22,
+   "Punjabi": 41,
    "Hebrew": 2,
    "Telugu": 31,
-   "Marathi": 24,
+   "Marathi": 25,
    "Kannada": 14,
    "Malayalam": 4,
-   "Hindi": 416,
-   "Bengali": 109,
-   "Gujarati": 43,
-   "Odia": 25,
+   "Hindi": 456,
+   "Bengali": 124,
+   "Gujarati": 57,
+   "Odia": 32,
    "Kashmiri": 2,
-   "Assamese": 8,
-   "Nepali": 2,
+   "Assamese": 13,
+   "Nepali": 3,
    "Slavic": 1,
    "Tibetan": 1
   },
-  "verified_forms": 1165,
-  "unverified_forms": 535,
+  "verified_forms": 1237,
+  "unverified_forms": 563,
   "quality_gate": {
    "invalid_json": 0,
    "conflict_markers": 0,
@@ -43114,8 +44114,8 @@
    "broken_text": 0,
    "total_failures": 0
   },
-  "next_batch_starts_after": "dhiraj",
-  "updated_at": "2026-10-03T05:41:29Z"
+  "next_batch_starts_after": "divit",
+  "updated_at": "2026-10-03T05:45:31Z"
  },
  "slices": {
   "islamic": {
@@ -69177,18 +70177,18 @@
     "total_failures": 0
    },
    "next_batch_starts_after": "hakeema",
-   "updated_at": "2026-10-03T05:41:28Z",
+   "updated_at": "2026-10-03T05:41:29Z",
    "hindu": {
     "culture": "hindu",
     "total_names_in_slice": 5885,
-    "names_completed": 1600,
-    "current_batch": 16,
+    "names_completed": 1700,
+    "current_batch": 17,
     "batch_range": {
-     "first": "darshit",
-     "last": "devid",
+     "first": "devidas",
+     "last": "dhiraj",
      "count": 100
     },
-    "batches_completed": 16,
+    "batches_completed": 17,
     "per_name": [
      {
       "name": "Aaba",
@@ -85189,40 +86189,1040 @@
       "gender": "Male",
       "manual_review_required": true,
       "reason": "No verified lexical identification was established for Devid. An English name (David) not established as an Indic lexical item. No meaning is asserted, because "
+     },
+     {
+      "name": "Devidas",
+      "slug": "devidas",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Marathi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devika",
+      "slug": "devika",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devilal",
+      "slug": "devilal",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Devilal. devi + lal (beloved), a devotional compound whose distinct lexical sense belongs to its elements"
+     },
+     {
+      "name": "Devina",
+      "slug": "devina",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "English",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Devina. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting on"
+     },
+     {
+      "name": "Devindar",
+      "slug": "devindar",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devinder",
+      "slug": "devinder",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devindra",
+      "slug": "devindra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Deviprasad",
+      "slug": "deviprasad",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devisha",
+      "slug": "devisha",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devisingh",
+      "slug": "devisingh",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Devisingh. devi + singh (lion), a compound whose distinct lexical sense belongs to its elements. No meani"
+     },
+     {
+      "name": "Devit",
+      "slug": "devit",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Devit. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Devji",
+      "slug": "devji",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Gujarati",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Devji. dev + ji (honorific), an honorific form rather than a lexical item. No meaning is asserted, becaus"
+     },
+     {
+      "name": "Devkaran",
+      "slug": "devkaran",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Devkaran. dev + karan, a compound whose distinct lexical sense belongs to its elements. No meaning is ass"
+     },
+     {
+      "name": "Devkinandan",
+      "slug": "devkinandan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devkishan",
+      "slug": "devkishan",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devkumar",
+      "slug": "devkumar",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devnarayan",
+      "slug": "devnarayan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devnath",
+      "slug": "devnath",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devo",
+      "slug": "devo",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Gujarati",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Devo. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Devraaj",
+      "slug": "devraaj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Devraj",
+      "slug": "devraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhairya",
+      "slug": "dhairya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhamendra",
+      "slug": "dhamendra",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhan",
+      "slug": "dhan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhana",
+      "slug": "dhana",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanajay",
+      "slug": "dhanajay",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanaji",
+      "slug": "dhanaji",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Marathi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhanaji. dhan + ji (honorific), an honorific form rather than a lexical item. No meaning is asserted, bec"
+     },
+     {
+      "name": "Dhanalakshmi",
+      "slug": "dhanalakshmi",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Telugu",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhanalakshmi. dhana (wealth) + Lakshmi, a compound whose distinct lexical sense belongs to its elements. "
+     },
+     {
+      "name": "Dhananjay",
+      "slug": "dhananjay",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhananjaya",
+      "slug": "dhananjaya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhananjoy",
+      "slug": "dhananjoy",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanapal",
+      "slug": "dhanapal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanaraj",
+      "slug": "dhanaraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Telugu",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanashree",
+      "slug": "dhanashree",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Marathi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanesh",
+      "slug": "dhanesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhaneshwar",
+      "slug": "dhaneshwar",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhaneswar",
+      "slug": "dhaneswar",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhani",
+      "slug": "dhani",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhaniram",
+      "slug": "dhaniram",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhaniram. dhani (wealthy) + rama, a devotional compound whose distinct lexical sense belongs to its eleme"
+     },
+     {
+      "name": "Dhanjay",
+      "slug": "dhanjay",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanjee",
+      "slug": "dhanjee",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Gujarati",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhanjee. dhan + ji (honorific), an honorific form rather than a lexical item. No meaning is asserted, bec"
+     },
+     {
+      "name": "Dhanji",
+      "slug": "dhanji",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Gujarati",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhanji. dhan + ji (honorific), an honorific form rather than a lexical item. No meaning is asserted, beca"
+     },
+     {
+      "name": "Dhanjit",
+      "slug": "dhanjit",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Assamese",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhannjay",
+      "slug": "dhannjay",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhannu",
+      "slug": "dhannu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhannu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+     },
+     {
+      "name": "Dhanraj",
+      "slug": "dhanraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhansukh",
+      "slug": "dhansukh",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhansukh. dhan + sukh (comfort), a compound whose distinct lexical sense belongs to its elements. No mean"
+     },
+     {
+      "name": "Dhanu",
+      "slug": "dhanu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanush",
+      "slug": "dhanush",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanveer",
+      "slug": "dhanveer",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhanveer. dhan + veer (hero), a compound whose distinct lexical sense belongs to its elements. No meaning"
+     },
+     {
+      "name": "Dhanvin",
+      "slug": "dhanvin",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhanya",
+      "slug": "dhanya",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhar",
+      "slug": "dhar",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhar. A short form of dhar (holding, bearing); no distinct lexical form was verified. No meaning is asser"
+     },
+     {
+      "name": "Dhara",
+      "slug": "dhara",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharam",
+      "slug": "dharam",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharambir",
+      "slug": "dharambir",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharambir. dharam + bir (brave), a compound whose distinct lexical sense belongs to its elements. No mean"
+     },
+     {
+      "name": "Dharampal",
+      "slug": "dharampal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharamveer",
+      "slug": "dharamveer",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharamveer. dharam + veer (hero), a compound whose distinct lexical sense belongs to its elements. No mea"
+     },
+     {
+      "name": "Dharamvir",
+      "slug": "dharamvir",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharamvir. dharam + vir (hero), a compound whose distinct lexical sense belongs to its elements. No meani"
+     },
+     {
+      "name": "Dharan",
+      "slug": "dharan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharani",
+      "slug": "dharani",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharanidhar",
+      "slug": "dharanidhar",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharini",
+      "slug": "dharini",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharitri",
+      "slug": "dharitri",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharma",
+      "slug": "dharma",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharman",
+      "slug": "dharman",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharman. A Tamil form related to dharma; no distinct lexical form was verified. No meaning is asserted, b"
+     },
+     {
+      "name": "Dharmanand",
+      "slug": "dharmanand",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharmander",
+      "slug": "dharmander",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharmaraj",
+      "slug": "dharmaraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharmbir",
+      "slug": "dharmbir",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharmbir. dharm + bir (brave), a compound whose distinct lexical sense belongs to its elements. No meanin"
+     },
+     {
+      "name": "Dharmendra",
+      "slug": "dharmendra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharmesh",
+      "slug": "dharmesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharmi",
+      "slug": "dharmi",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharmi. A short form related to dharma; no distinct lexical form was verified. No meaning is asserted, be"
+     },
+     {
+      "name": "Dharmik",
+      "slug": "dharmik",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharmpal",
+      "slug": "dharmpal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharmraj",
+      "slug": "dharmraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dharmu",
+      "slug": "dharmu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharmu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+     },
+     {
+      "name": "Dharmveer",
+      "slug": "dharmveer",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharmveer. dharm + veer (hero), a compound whose distinct lexical sense belongs to its elements. No meani"
+     },
+     {
+      "name": "Dharmvir",
+      "slug": "dharmvir",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharmvir. dharm + vir (hero), a compound whose distinct lexical sense belongs to its elements. No meaning"
+     },
+     {
+      "name": "Dharu",
+      "slug": "dharu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Dharun",
+      "slug": "dharun",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharun. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No mea"
+     },
+     {
+      "name": "Dharvin",
+      "slug": "dharvin",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Gujarati",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dharvin. A modern Gujarati coinage; no verified lexical form was established. No meaning is asserted, bec"
+     },
+     {
+      "name": "Dhaval",
+      "slug": "dhaval",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Gujarati",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhawal",
+      "slug": "dhawal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhaya",
+      "slug": "dhaya",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Tamil",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhaya. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No mean"
+     },
+     {
+      "name": "Dhayan",
+      "slug": "dhayan",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dheeksha",
+      "slug": "dheeksha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Telugu",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dheeman",
+      "slug": "dheeman",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dheena",
+      "slug": "dheena",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dheer",
+      "slug": "dheer",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dheeraj",
+      "slug": "dheeraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dheerendra",
+      "slug": "dheerendra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dheraj",
+      "slug": "dheraj",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhilip",
+      "slug": "dhilip",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhiman",
+      "slug": "dhiman",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhina",
+      "slug": "dhina",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhinesh",
+      "slug": "dhinesh",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Dhinesh. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No me"
+     },
+     {
+      "name": "Dhir",
+      "slug": "dhir",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhira",
+      "slug": "dhira",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Dhiraj",
+      "slug": "dhiraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
      }
     ],
     "confidence_summary": {
-     "unverified": 528,
-     "high": 808,
-     "medium": 193,
-     "low": 71
+     "unverified": 535,
+     "high": 865,
+     "medium": 206,
+     "low": 94
     },
     "origin_summary": {
      "Unknown": 229,
-     "Sanskrit": 588,
+     "Sanskrit": 597,
      "Persian": 20,
      "Arabic": 67,
-     "Tamil": 45,
+     "Tamil": 56,
      "Japanese": 1,
-     "English": 15,
-     "Punjabi": 30,
+     "English": 16,
+     "Punjabi": 32,
      "Hebrew": 2,
-     "Telugu": 28,
-     "Marathi": 21,
+     "Telugu": 31,
+     "Marathi": 24,
      "Kannada": 14,
      "Malayalam": 4,
-     "Hindi": 358,
-     "Bengali": 104,
-     "Gujarati": 37,
-     "Odia": 24,
+     "Hindi": 416,
+     "Bengali": 109,
+     "Gujarati": 43,
+     "Odia": 25,
      "Kashmiri": 2,
-     "Assamese": 7,
+     "Assamese": 8,
      "Nepali": 2,
      "Slavic": 1,
      "Tibetan": 1
     },
-    "verified_forms": 1072,
-    "unverified_forms": 528,
+    "verified_forms": 1165,
+    "unverified_forms": 535,
     "quality_gate": {
      "invalid_json": 0,
      "conflict_markers": 0,
@@ -85234,21 +87234,21 @@
      "broken_text": 0,
      "total_failures": 0
     },
-    "next_batch_starts_after": "devid",
-    "updated_at": "2026-10-03T05:41:28Z"
+    "next_batch_starts_after": "dhiraj",
+    "updated_at": "2026-10-03T05:41:29Z"
    }
   },
   "hindu": {
    "culture": "hindu",
    "total_names_in_slice": 5885,
-   "names_completed": 1700,
-   "current_batch": 17,
+   "names_completed": 1800,
+   "current_batch": 18,
    "batch_range": {
-    "first": "devidas",
-    "last": "dhiraj",
+    "first": "dhiren",
+    "last": "divit",
     "count": 100
    },
-   "batches_completed": 17,
+   "batches_completed": 18,
    "per_name": [
     {
      "name": "Aaba",
@@ -102249,40 +104249,1040 @@
      "gender": "Male",
      "manual_review_required": false,
      "reason": null
+    },
+    {
+     "name": "Dhiren",
+     "slug": "dhiren",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhirendar",
+     "slug": "dhirendar",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhirendra",
+     "slug": "dhirendra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhiru",
+     "slug": "dhiru",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dhiru. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Dhirubhai",
+     "slug": "dhirubhai",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dhirubhai. dhiru (diminutive) + bhai (brother), an affectionate compound with no distinct lexical sense. "
+    },
+    {
+     "name": "Dhoni",
+     "slug": "dhoni",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dhoni. A surname-derived name; no verified lexical form was established. No meaning is asserted, because "
+    },
+    {
+     "name": "Dhritiman",
+     "slug": "dhritiman",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhruba",
+     "slug": "dhruba",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhrubajyoti",
+     "slug": "dhrubajyoti",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Assamese",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhrumil",
+     "slug": "dhrumil",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dhrumil. A modern Gujarati coinage; no verified lexical form was established. No meaning is asserted, bec"
+    },
+    {
+     "name": "Dhruti",
+     "slug": "dhruti",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhruv",
+     "slug": "dhruv",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhruvesh",
+     "slug": "dhruvesh",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dhruvesh. dhruva (the pole star) + ish (lord), a compound whose distinct lexical sense belongs to its ele"
+    },
+    {
+     "name": "Dhruvin",
+     "slug": "dhruvin",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dhruvin. A modern Gujarati coinage related to dhruva; no distinct lexical form was verified. No meaning i"
+    },
+    {
+     "name": "Dhunu",
+     "slug": "dhunu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dhunu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Dhurba",
+     "slug": "dhurba",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhurv",
+     "slug": "dhurv",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhyan",
+     "slug": "dhyan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dhyey",
+     "slug": "dhyey",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dhyey. A Gujarati name from dhyeya (aim, target); no verified lexical form was established. No meaning is"
+    },
+    {
+     "name": "Dia",
+     "slug": "dia",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dia. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting one w"
+    },
+    {
+     "name": "Diara",
+     "slug": "diara",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Diara. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting one"
+    },
+    {
+     "name": "Dibakar",
+     "slug": "dibakar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dibya",
+     "slug": "dibya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dibyendu",
+     "slug": "dibyendu",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dibyendu. dibya (divine) + indu (moon), a compound whose distinct lexical sense belongs to its elements. "
+    },
+    {
+     "name": "Digambar",
+     "slug": "digambar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Digamber",
+     "slug": "digamber",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Digant",
+     "slug": "digant",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Diganta",
+     "slug": "diganta",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Assamese",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Digu",
+     "slug": "digu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Digu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Digvijay",
+     "slug": "digvijay",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dikesh",
+     "slug": "dikesh",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dikesh. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meani"
+    },
+    {
+     "name": "Dikshant",
+     "slug": "dikshant",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dikshit",
+     "slug": "dikshit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dikshita",
+     "slug": "dikshita",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Odia",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Diku",
+     "slug": "diku",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Diku. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Dilbag",
+     "slug": "dilbag",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilbag. dil (heart) + bag (garden), a compound whose distinct lexical sense belongs to its elements. No m"
+    },
+    {
+     "name": "Dileep",
+     "slug": "dileep",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dilep",
+     "slug": "dilep",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dilesh",
+     "slug": "dilesh",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilesh. dil (heart) + ish (lord), a compound whose distinct lexical sense belongs to its elements. No mea"
+    },
+    {
+     "name": "Dileshwar",
+     "slug": "dileshwar",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dileshwar. dil (heart) + ishwar (lord), a compound whose distinct lexical sense belongs to its elements. "
+    },
+    {
+     "name": "Dilip",
+     "slug": "dilip",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dilipbhai",
+     "slug": "dilipbhai",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilipbhai. dilip + bhai (brother), a compound whose distinct lexical sense belongs to its elements. No me"
+    },
+    {
+     "name": "Dilipsinh",
+     "slug": "dilipsinh",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilipsinh. dilip + sinh (lion), a compound whose distinct lexical sense belongs to its elements. No meani"
+    },
+    {
+     "name": "Diljeet",
+     "slug": "diljeet",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Diljeet. dil (heart) + jeet (victory), a compound whose distinct lexical sense belongs to its elements. N"
+    },
+    {
+     "name": "Dilkash",
+     "slug": "dilkash",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilkash. dilkash means charming or attractive, from Persian; no verified Indic lexical form. No meaning i"
+    },
+    {
+     "name": "Dilkhush",
+     "slug": "dilkhush",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilkhush. dilkhush means happy or delighted, from Persian; no verified Indic lexical form. No meaning is "
+    },
+    {
+     "name": "Dilkush",
+     "slug": "dilkush",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilkush. A variant spelling of dilkhush, happy or delighted, from Persian. No meaning is asserted, becaus"
+    },
+    {
+     "name": "Dilli",
+     "slug": "dilli",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilli. dilli is a place name (Delhi), not a personal name; no name identity was verified. No meaning is a"
+    },
+    {
+     "name": "Dillip",
+     "slug": "dillip",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dilp",
+     "slug": "dilp",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilp. dil (heart) + the Punjabi suffix -p; no verified lexical form was established. No meaning is assert"
+    },
+    {
+     "name": "Dilraj",
+     "slug": "dilraj",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilraj. dil (heart) + raj (rule), a compound whose distinct lexical sense belongs to its elements. No mea"
+    },
+    {
+     "name": "Dilsad",
+     "slug": "dilsad",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilsad. dil (heart) + shad (joy), a Persianate compound with no verified Indic lexical form. No meaning i"
+    },
+    {
+     "name": "Dilu",
+     "slug": "dilu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Dilwar",
+     "slug": "dilwar",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dilwar. dil (heart) + war (possessing), a Persianate compound with no verified Indic lexical form. No mea"
+    },
+    {
+     "name": "Dimbeswar",
+     "slug": "dimbeswar",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Assamese",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dimbeswar. A compound of dimba (a hill in Assam) + iswar (lord); no verified lexical form was established"
+    },
+    {
+     "name": "Dimpi",
+     "slug": "dimpi",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dimpi. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Dimple",
+     "slug": "dimple",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dimple. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting on"
+    },
+    {
+     "name": "Dinabandhu",
+     "slug": "dinabandhu",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dinakar",
+     "slug": "dinakar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dinakaran",
+     "slug": "dinakaran",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dinash",
+     "slug": "dinash",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dinash. A compound of dina (day); no verified lexical form was established. No meaning is asserted, becau"
+    },
+    {
+     "name": "Dindayal",
+     "slug": "dindayal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dindyal",
+     "slug": "dindyal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dines",
+     "slug": "dines",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dinesh",
+     "slug": "dinesh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dineshbhai",
+     "slug": "dineshbhai",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dineshbhai. dinesh + bhai (brother), a compound whose distinct lexical sense belongs to its elements. No "
+    },
+    {
+     "name": "Dineshkumar",
+     "slug": "dineshkumar",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dineshkumar. dinesh + kumar (son, prince), a compound whose distinct lexical sense belongs to its element"
+    },
+    {
+     "name": "Dinkar",
+     "slug": "dinkar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dino",
+     "slug": "dino",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dino. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting one "
+    },
+    {
+     "name": "Dinu",
+     "slug": "dinu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dinu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Dip",
+     "slug": "dip",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dipak",
+     "slug": "dipak",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dipan",
+     "slug": "dipan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dipanjan",
+     "slug": "dipanjan",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dipanjan. dip (lamp) + anjan (collyrium, darkness), a compound whose distinct lexical sense belongs to it"
+    },
+    {
+     "name": "Dipankar",
+     "slug": "dipankar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dipanshu",
+     "slug": "dipanshu",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dipayan",
+     "slug": "dipayan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dipayan. A modern Bengali name; the source record asserted no usable gloss and no lexical form was verifi"
+    },
+    {
+     "name": "Dipesh",
+     "slug": "dipesh",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Nepali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dipesh. dip (lamp) + esh (lord), a compound whose distinct lexical sense belongs to its elements. No mean"
+    },
+    {
+     "name": "Dipika",
+     "slug": "dipika",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Odia",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dipjyoti",
+     "slug": "dipjyoti",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Assamese",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dipok",
+     "slug": "dipok",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Assamese",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dipon",
+     "slug": "dipon",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dipon. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Dippu",
+     "slug": "dippu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dippu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Dipraj",
+     "slug": "dipraj",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Diptanu",
+     "slug": "diptanu",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Diptanu. dip (lamp) + tanu (body, self), a compound whose distinct lexical sense belongs to its elements."
+    },
+    {
+     "name": "Dipun",
+     "slug": "dipun",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dipun. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Disha",
+     "slug": "disha",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dishant",
+     "slug": "dishant",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Dishu",
+     "slug": "dishu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Dishu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Div",
+     "slug": "div",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Divakar",
+     "slug": "divakar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Divan",
+     "slug": "divan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Divan. divan is a court official or a collection of poems; not established as a lexical given name. No me"
+    },
+    {
+     "name": "Divani",
+     "slug": "divani",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Divani. A feminine form related to divan; no verified lexical form was established. No meaning is asserte"
+    },
+    {
+     "name": "Divanshu",
+     "slug": "divanshu",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Divesh",
+     "slug": "divesh",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Divesh. dik (day) + esh (lord), a compound whose distinct lexical sense belongs to its elements. No meani"
+    },
+    {
+     "name": "Divi",
+     "slug": "divi",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Divi. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting one "
+    },
+    {
+     "name": "Divij",
+     "slug": "divij",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Divij. divi (heaven) + ja (born), a compound whose distinct lexical sense belongs to its elements. No mea"
+    },
+    {
+     "name": "Divija",
+     "slug": "divija",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Divina",
+     "slug": "divina",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Divina. An English name; no Indic lexical form was verified. No meaning is asserted, because asserting on"
+    },
+    {
+     "name": "Divit",
+     "slug": "divit",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Divit. A modern coinage; no verified Sanskrit or Indic lexical form was established. No meaning is assert"
     }
    ],
    "confidence_summary": {
-    "unverified": 535,
-    "high": 865,
-    "medium": 206,
-    "low": 94
+    "unverified": 563,
+    "high": 904,
+    "medium": 215,
+    "low": 118
    },
    "origin_summary": {
     "Unknown": 229,
-    "Sanskrit": 597,
+    "Sanskrit": 598,
     "Persian": 20,
     "Arabic": 67,
-    "Tamil": 56,
+    "Tamil": 57,
     "Japanese": 1,
-    "English": 16,
-    "Punjabi": 32,
+    "English": 22,
+    "Punjabi": 41,
     "Hebrew": 2,
     "Telugu": 31,
-    "Marathi": 24,
+    "Marathi": 25,
     "Kannada": 14,
     "Malayalam": 4,
-    "Hindi": 416,
-    "Bengali": 109,
-    "Gujarati": 43,
-    "Odia": 25,
+    "Hindi": 456,
+    "Bengali": 124,
+    "Gujarati": 57,
+    "Odia": 32,
     "Kashmiri": 2,
-    "Assamese": 8,
-    "Nepali": 2,
+    "Assamese": 13,
+    "Nepali": 3,
     "Slavic": 1,
     "Tibetan": 1
    },
-   "verified_forms": 1165,
-   "unverified_forms": 535,
+   "verified_forms": 1237,
+   "unverified_forms": 563,
    "quality_gate": {
     "invalid_json": 0,
     "conflict_markers": 0,
@@ -102294,8 +105294,8 @@
     "broken_text": 0,
     "total_failures": 0
    },
-   "next_batch_starts_after": "dhiraj",
-   "updated_at": "2026-10-03T05:41:29Z"
+   "next_batch_starts_after": "divit",
+   "updated_at": "2026-10-03T05:45:31Z"
   }
  }
 }

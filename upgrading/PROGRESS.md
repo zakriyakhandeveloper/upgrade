@@ -102,47 +102,47 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 1700 |
-| Current batch | 17 |
-| Batch range | devidas .. dhiraj (100) |
-| Batches completed | 17 |
-| Verified forms | 1165 |
-| Unverified forms (no gloss asserted) | 535 |
-| Next batch starts after | dhiraj |
-| Updated | 2026-10-03T05:41:29Z |
+| Names completed | 1800 |
+| Current batch | 18 |
+| Batch range | dhiren .. divit (100) |
+| Batches completed | 18 |
+| Verified forms | 1237 |
+| Unverified forms (no gloss asserted) | 563 |
+| Next batch starts after | divit |
+| Updated | 2026-10-03T05:45:31Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 865 |
-| low | 94 |
-| medium | 206 |
-| unverified | 535 |
+| high | 904 |
+| low | 118 |
+| medium | 215 |
+| unverified | 563 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 597 |
-| Hindi | 416 |
+| Sanskrit | 598 |
+| Hindi | 456 |
 | Unknown | 229 |
-| Bengali | 109 |
+| Bengali | 124 |
 | Arabic | 67 |
-| Tamil | 56 |
-| Gujarati | 43 |
-| Punjabi | 32 |
+| Tamil | 57 |
+| Gujarati | 57 |
+| Punjabi | 41 |
+| Odia | 32 |
 | Telugu | 31 |
-| Odia | 25 |
-| Marathi | 24 |
+| Marathi | 25 |
+| English | 22 |
 | Persian | 20 |
-| English | 16 |
 | Kannada | 14 |
-| Assamese | 8 |
+| Assamese | 13 |
 | Malayalam | 4 |
+| Nepali | 3 |
 | Hebrew | 2 |
 | Kashmiri | 2 |
-| Nepali | 2 |
 | Japanese | 1 |
 | Slavic | 1 |
 | Tibetan | 1 |
@@ -165,4 +165,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 17 | devidas .. dhiraj | 100 | complete |
+| 18 | dhiren .. divit | 100 | complete |

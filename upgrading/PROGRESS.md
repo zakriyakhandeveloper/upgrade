@@ -102,49 +102,50 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 1500 |
-| Current batch | 15 |
-| Batch range | chidananda .. darshini (100) |
-| Batches completed | 15 |
-| Verified forms | 987 |
-| Unverified forms (no gloss asserted) | 513 |
-| Next batch starts after | darshini |
-| Updated | 2026-10-03T05:37:03Z |
+| Names completed | 1600 |
+| Current batch | 16 |
+| Batch range | darshit .. devid (100) |
+| Batches completed | 16 |
+| Verified forms | 1072 |
+| Unverified forms (no gloss asserted) | 528 |
+| Next batch starts after | devid |
+| Updated | 2026-10-03T05:41:28Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 748 |
-| low | 59 |
-| medium | 180 |
-| unverified | 513 |
+| high | 808 |
+| low | 71 |
+| medium | 193 |
+| unverified | 528 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 583 |
-| Hindi | 309 |
-| Unknown | 226 |
-| Bengali | 86 |
+| Sanskrit | 588 |
+| Hindi | 358 |
+| Unknown | 229 |
+| Bengali | 104 |
 | Arabic | 67 |
-| Tamil | 41 |
-| Gujarati | 31 |
-| Punjabi | 28 |
-| Telugu | 26 |
-| Odia | 23 |
-| Persian | 19 |
-| Marathi | 18 |
-| Kannada | 13 |
-| English | 12 |
-| Assamese | 6 |
+| Tamil | 45 |
+| Gujarati | 37 |
+| Punjabi | 30 |
+| Telugu | 28 |
+| Odia | 24 |
+| Marathi | 21 |
+| Persian | 20 |
+| English | 15 |
+| Kannada | 14 |
+| Assamese | 7 |
 | Malayalam | 4 |
 | Hebrew | 2 |
 | Kashmiri | 2 |
 | Nepali | 2 |
 | Japanese | 1 |
 | Slavic | 1 |
+| Tibetan | 1 |
 
 ## Hindu quality gate
 
@@ -164,4 +165,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 15 | chidananda .. darshini | 100 | complete |
+| 16 | darshit .. devid | 100 | complete |

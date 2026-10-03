@@ -1,3 +1,4 @@
 # hindu batch spec (batch curated_module first last)
-# batches 1-14 already installed; build only what is listed below
-15 curated_h15 chidananda darshini
+# batches 1-15 already installed; build only what is listed below
+16 curated_h16 darshit devid
+17 curated_h17 devidas dhiraj

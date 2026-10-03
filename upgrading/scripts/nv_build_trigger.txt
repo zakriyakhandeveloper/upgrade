@@ -1,2 +1,3 @@
 # hindu batch spec (batch curated_module first last)
+# batch 5: anarul..anuraag (100 names)
 5 curated_h5 anarul anuraag

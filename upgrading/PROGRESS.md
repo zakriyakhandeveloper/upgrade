@@ -102,48 +102,49 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 1400 |
-| Current batch | 14 |
-| Batch range | bulu .. chidanand (100) |
-| Batches completed | 14 |
-| Verified forms | 940 |
-| Unverified forms (no gloss asserted) | 460 |
-| Next batch starts after | chidanand |
-| Updated | 2026-10-03T05:34:10Z |
+| Names completed | 1500 |
+| Current batch | 15 |
+| Batch range | chidananda .. darshini (100) |
+| Batches completed | 15 |
+| Verified forms | 987 |
+| Unverified forms (no gloss asserted) | 513 |
+| Next batch starts after | darshini |
+| Updated | 2026-10-03T05:37:03Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 711 |
-| low | 49 |
+| high | 748 |
+| low | 59 |
 | medium | 180 |
-| unverified | 460 |
+| unverified | 513 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 571 |
-| Hindi | 268 |
-| Unknown | 221 |
-| Bengali | 77 |
+| Sanskrit | 583 |
+| Hindi | 309 |
+| Unknown | 226 |
+| Bengali | 86 |
 | Arabic | 67 |
-| Tamil | 39 |
-| Punjabi | 25 |
-| Gujarati | 21 |
-| Odia | 21 |
-| Telugu | 20 |
+| Tamil | 41 |
+| Gujarati | 31 |
+| Punjabi | 28 |
+| Telugu | 26 |
+| Odia | 23 |
 | Persian | 19 |
-| Marathi | 15 |
-| Kannada | 12 |
-| English | 7 |
+| Marathi | 18 |
+| Kannada | 13 |
+| English | 12 |
 | Assamese | 6 |
 | Malayalam | 4 |
 | Hebrew | 2 |
 | Kashmiri | 2 |
 | Nepali | 2 |
 | Japanese | 1 |
+| Slavic | 1 |
 
 ## Hindu quality gate
 
@@ -163,4 +164,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 14 | bulu .. chidanand | 100 | complete |
+| 15 | chidananda .. darshini | 100 | complete |

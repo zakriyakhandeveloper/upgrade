@@ -26057,18 +26057,18 @@
   "total_failures": 0
  },
  "next_batch_starts_after": "hakeema",
- "updated_at": "2026-10-03T05:31:16Z",
+ "updated_at": "2026-10-03T05:34:10Z",
  "hindu": {
   "culture": "hindu",
   "total_names_in_slice": 5885,
-  "names_completed": 1300,
-  "current_batch": 13,
+  "names_completed": 1400,
+  "current_batch": 14,
   "batch_range": {
-   "first": "binesh",
-   "last": "bulbuli",
+   "first": "bulu",
+   "last": "chidanand",
    "count": 100
   },
-  "batches_completed": 13,
+  "batches_completed": 14,
   "per_name": [
    {
     "name": "Aaba",
@@ -39069,38 +39069,1038 @@
     "gender": "Female",
     "manual_review_required": false,
     "reason": null
+   },
+   {
+    "name": "Bulu",
+    "slug": "bulu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bulu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Bunty",
+    "slug": "bunty",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bunty. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Bunu",
+    "slug": "bunu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Bunu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+   },
+   {
+    "name": "Bushan",
+    "slug": "bushan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Butt",
+    "slug": "butt",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Kashmiri",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Butt. Butt is a Kashmiri surname; not established as a lexical given name. No meaning is asserted, becaus"
+   },
+   {
+    "name": "Call",
+    "slug": "call",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "English",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Call. call is an English verb, not a personal name; no name identity was verified. No meaning is asserted"
+   },
+   {
+    "name": "Chaaya",
+    "slug": "chaaya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chagan",
+    "slug": "chagan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chagan. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Chahat",
+    "slug": "chahat",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chainsingh",
+    "slug": "chainsingh",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chainsingh. chain (peace) + singh (lion), a compound whose distinct lexical sense belongs to its elements"
+   },
+   {
+    "name": "Chaitan",
+    "slug": "chaitan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chaitany",
+    "slug": "chaitany",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chaitanya",
+    "slug": "chaitanya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chaitra",
+    "slug": "chaitra",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chaitu",
+    "slug": "chaitu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chaitu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Chakradhar",
+    "slug": "chakradhar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chakrapani",
+    "slug": "chakrapani",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chakri",
+    "slug": "chakri",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chakri. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Challa",
+    "slug": "challa",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Unknown",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Challa. Challa is a surname; not established as a lexical given name. No meaning is asserted, because ass"
+   },
+   {
+    "name": "Chameli",
+    "slug": "chameli",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Champ",
+    "slug": "champ",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Champ. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Champa",
+    "slug": "champa",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Champak",
+    "slug": "champak",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Champalal",
+    "slug": "champalal",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Champalal. champa + lal (beloved), a compound whose distinct lexical sense belongs to its elements. No me"
+   },
+   {
+    "name": "Chanakya",
+    "slug": "chanakya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chanchal",
+    "slug": "chanchal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chanchala",
+    "slug": "chanchala",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandana",
+    "slug": "chandana",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandankumar",
+    "slug": "chandankumar",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chandankumar. chandan (sandalwood) + kumar (son, prince), a compound whose distinct lexical sense belongs"
+   },
+   {
+    "name": "Chandar",
+    "slug": "chandar",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chanderpal",
+    "slug": "chanderpal",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chanderpal. chander (moon) + pal (protector), a compound whose distinct lexical sense belongs to its elem"
+   },
+   {
+    "name": "Chandhu",
+    "slug": "chandhu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chandhu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+   },
+   {
+    "name": "Chandini",
+    "slug": "chandini",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrabhan",
+    "slug": "chandrabhan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandradeep",
+    "slug": "chandradeep",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandradev",
+    "slug": "chandradev",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrajeet",
+    "slug": "chandrajeet",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrajit",
+    "slug": "chandrajit",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrakant",
+    "slug": "chandrakant",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrakesh",
+    "slug": "chandrakesh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrakishor",
+    "slug": "chandrakishor",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrakumar",
+    "slug": "chandrakumar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrama",
+    "slug": "chandrama",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandramani",
+    "slug": "chandramani",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandramohan",
+    "slug": "chandramohan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandramouli",
+    "slug": "chandramouli",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandran",
+    "slug": "chandran",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrani",
+    "slug": "chandrani",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrapal",
+    "slug": "chandrapal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandraprakash",
+    "slug": "chandraprakash",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrasekhar",
+    "slug": "chandrasekhar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrashekar",
+    "slug": "chandrashekar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrashekhar",
+    "slug": "chandrashekhar",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrbhan",
+    "slug": "chandrbhan",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandresh",
+    "slug": "chandresh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrika",
+    "slug": "chandrika",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandrima",
+    "slug": "chandrima",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chandru",
+    "slug": "chandru",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chandru. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+   },
+   {
+    "name": "Chandu",
+    "slug": "chandu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chandu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Channu",
+    "slug": "channu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Kannada",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Channu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Chanti",
+    "slug": "chanti",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chanti. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Chanu",
+    "slug": "chanu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Odia",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chanu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Chapal",
+    "slug": "chapal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Charan",
+    "slug": "charan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Charanjeet",
+    "slug": "charanjeet",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Charanpreet",
+    "slug": "charanpreet",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Charansingh",
+    "slug": "charansingh",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Punjabi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Charishma",
+    "slug": "charishma",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Charita",
+    "slug": "charita",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Charmi",
+    "slug": "charmi",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Telugu",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Charmi. A modern coinage; no verified lexical form was established. No meaning is asserted, because asser"
+   },
+   {
+    "name": "Charvi",
+    "slug": "charvi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chaten",
+    "slug": "chaten",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chaten. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Chatur",
+    "slug": "chatur",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chatura",
+    "slug": "chatura",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chaturbhuj",
+    "slug": "chaturbhuj",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Sanskrit",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chauhan",
+    "slug": "chauhan",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chavan",
+    "slug": "chavan",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Marathi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chavda",
+    "slug": "chavda",
+    "status": "complete",
+    "meaning_confidence": "medium",
+    "origin": "Gujarati",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chaya",
+    "slug": "chaya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chayan",
+    "slug": "chayan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chella",
+    "slug": "chella",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Tamil",
+    "gender": "Female",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chella. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Chenaram",
+    "slug": "chenaram",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chenaram. chena + rama, a devotional compound whose distinct lexical sense belongs to its elements. No me"
+   },
+   {
+    "name": "Cheshta",
+    "slug": "cheshta",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chetan",
+    "slug": "chetan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chethan",
+    "slug": "chethan",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Kannada",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chethana",
+    "slug": "chethana",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Kannada",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chethu",
+    "slug": "chethu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Kannada",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chethu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Chetram",
+    "slug": "chetram",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chetram. chet + rama, a devotional compound whose distinct lexical sense belongs to its elements. No mean"
+   },
+   {
+    "name": "Chetu",
+    "slug": "chetu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chetu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+   },
+   {
+    "name": "Chhabi",
+    "slug": "chhabi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Bengali",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chhagan",
+    "slug": "chhagan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chhagan. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+   },
+   {
+    "name": "Chhathu",
+    "slug": "chhathu",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chhathu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+   },
+   {
+    "name": "Chhatrapal",
+    "slug": "chhatrapal",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chhavi",
+    "slug": "chhavi",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chhaya",
+    "slug": "chhaya",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Female",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chhotan",
+    "slug": "chhotan",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chhotan. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+   },
+   {
+    "name": "Chhote",
+    "slug": "chhote",
+    "status": "complete",
+    "meaning_confidence": "unverified",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chhote. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+   },
+   {
+    "name": "Chhoturam",
+    "slug": "chhoturam",
+    "status": "complete",
+    "meaning_confidence": "low",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": true,
+    "reason": "No verified lexical identification was established for Chhoturam. chhotu (small) + rama, a devotional compound whose distinct lexical sense belongs to its eleme"
+   },
+   {
+    "name": "Chidambaram",
+    "slug": "chidambaram",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Tamil",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
+   },
+   {
+    "name": "Chidanand",
+    "slug": "chidanand",
+    "status": "complete",
+    "meaning_confidence": "high",
+    "origin": "Hindi",
+    "gender": "Male",
+    "manual_review_required": false,
+    "reason": null
    }
   ],
   "confidence_summary": {
-   "unverified": 435,
-   "high": 649,
-   "medium": 174,
-   "low": 42
+   "unverified": 460,
+   "high": 711,
+   "medium": 180,
+   "low": 49
   },
   "origin_summary": {
    "Unknown": 221,
-   "Sanskrit": 561,
+   "Sanskrit": 571,
    "Persian": 19,
    "Arabic": 67,
-   "Tamil": 35,
+   "Tamil": 39,
    "Japanese": 1,
-   "English": 6,
-   "Punjabi": 22,
+   "English": 7,
+   "Punjabi": 25,
    "Hebrew": 2,
-   "Telugu": 13,
-   "Marathi": 14,
-   "Kannada": 8,
+   "Telugu": 20,
+   "Marathi": 15,
+   "Kannada": 12,
    "Malayalam": 4,
-   "Hindi": 206,
-   "Bengali": 73,
-   "Gujarati": 20,
-   "Odia": 19,
-   "Kashmiri": 1,
+   "Hindi": 268,
+   "Bengali": 77,
+   "Gujarati": 21,
+   "Odia": 21,
+   "Kashmiri": 2,
    "Assamese": 6,
    "Nepali": 2
   },
-  "verified_forms": 865,
-  "unverified_forms": 435,
+  "verified_forms": 940,
+  "unverified_forms": 460,
   "quality_gate": {
    "invalid_json": 0,
    "conflict_markers": 0,
@@ -39112,8 +40112,8 @@
    "broken_text": 0,
    "total_failures": 0
   },
-  "next_batch_starts_after": "bulbuli",
-  "updated_at": "2026-10-03T05:31:16Z"
+  "next_batch_starts_after": "chidanand",
+  "updated_at": "2026-10-03T05:34:10Z"
  },
  "slices": {
   "islamic": {
@@ -65175,18 +66175,18 @@
     "total_failures": 0
    },
    "next_batch_starts_after": "hakeema",
-   "updated_at": "2026-10-03T05:28:23Z",
+   "updated_at": "2026-10-03T05:31:16Z",
    "hindu": {
     "culture": "hindu",
     "total_names_in_slice": 5885,
-    "names_completed": 1200,
-    "current_batch": 12,
+    "names_completed": 1300,
+    "current_batch": 13,
     "batch_range": {
-     "first": "bhole",
-     "last": "bindu",
+     "first": "binesh",
+     "last": "bulbuli",
      "count": 100
     },
-    "batches_completed": 12,
+    "batches_completed": 13,
     "per_name": [
      {
       "name": "Aaba",
@@ -77187,38 +78187,1038 @@
       "gender": "Female",
       "manual_review_required": false,
       "reason": null
+     },
+     {
+      "name": "Binesh",
+      "slug": "binesh",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Binesh. A compound of bina (without) and isha (lord) that is not attested as a lexical item; no meaning i"
+     },
+     {
+      "name": "Binit",
+      "slug": "binit",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Binita",
+      "slug": "binita",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Binny",
+      "slug": "binny",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Punjabi",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Binny. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Binod",
+      "slug": "binod",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Binodini",
+      "slug": "binodini",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Binoy",
+      "slug": "binoy",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Binud",
+      "slug": "binud",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Binud. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Bipan",
+      "slug": "bipan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bipan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Bipasha",
+      "slug": "bipasha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bipeen",
+      "slug": "bipeen",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bipin",
+      "slug": "bipin",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biplab",
+      "slug": "biplab",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biplob",
+      "slug": "biplob",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bipul",
+      "slug": "bipul",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bir",
+      "slug": "bir",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biraj",
+      "slug": "biraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biransh",
+      "slug": "biransh",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biransh. A modern coinage; no verified lexical form was established. No meaning is asserted, because asse"
+     },
+     {
+      "name": "Birbal",
+      "slug": "birbal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Birendar",
+      "slug": "birendar",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Birender",
+      "slug": "birender",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Birendra",
+      "slug": "birendra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biresh",
+      "slug": "biresh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biri",
+      "slug": "biri",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biri. biri (a leaf-rolled cigarette) is a common noun, not an established personal name. No meaning is as"
+     },
+     {
+      "name": "Birjesh",
+      "slug": "birjesh",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Birju",
+      "slug": "birju",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Birju. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Birsa",
+      "slug": "birsa",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biru",
+      "slug": "biru",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Biru. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Bishakha",
+      "slug": "bishakha",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bishal",
+      "slug": "bishal",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Nepali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bishan",
+      "slug": "bishan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bishan. A Punjabi name; the source record asserted no usable gloss and no lexical form was verified. No m"
+     },
+     {
+      "name": "Bishnu",
+      "slug": "bishnu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bisho",
+      "slug": "bisho",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bisho. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meanin"
+     },
+     {
+      "name": "Bisht",
+      "slug": "bisht",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bisht. Bisht is a surname; not established as a lexical given name. No meaning is asserted, because asser"
+     },
+     {
+      "name": "Bishu",
+      "slug": "bishu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bishu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bishwa",
+      "slug": "bishwa",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bishwajit",
+      "slug": "bishwajit",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bishwanath",
+      "slug": "bishwanath",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bisnu",
+      "slug": "bisnu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bisu",
+      "slug": "bisu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bisu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Biswa",
+      "slug": "biswa",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biswajeet",
+      "slug": "biswajeet",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biswajit",
+      "slug": "biswajit",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biswanath",
+      "slug": "biswanath",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biswarup",
+      "slug": "biswarup",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Biswas",
+      "slug": "biswas",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bithika",
+      "slug": "bithika",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bittu",
+      "slug": "bittu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bittu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bitu",
+      "slug": "bitu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Punjabi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bitu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Bitupan",
+      "slug": "bitupan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Assamese",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bitupan. No verified Sanskrit or modern Indic lexical form was established for this source entry. No mean"
+     },
+     {
+      "name": "Bivas",
+      "slug": "bivas",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bivas. A Bengali name; the source record asserted no usable gloss and no lexical form was verified. No me"
+     },
+     {
+      "name": "Bivash",
+      "slug": "bivash",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bivash. A Bengali name; the source record asserted no usable gloss and no lexical form was verified. No m"
+     },
+     {
+      "name": "Bjp",
+      "slug": "bjp",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bjp. An abbreviation of a political party name, not a personal name; no name identity was verified. No me"
+     },
+     {
+      "name": "Bk",
+      "slug": "bk",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bk. A two-letter abbreviation, not a personal name; no name identity was verified. No meaning is asserted"
+     },
+     {
+      "name": "Bl",
+      "slug": "bl",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bl. A two-letter abbreviation, not a personal name; no name identity was verified. No meaning is asserted"
+     },
+     {
+      "name": "Bobby",
+      "slug": "bobby",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "English",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bobby. An English affectionate diminutive of Robert; not a lexical item. No meaning is asserted, because "
+     },
+     {
+      "name": "Boda",
+      "slug": "boda",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Boda. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Bodh",
+      "slug": "bodh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bodhi",
+      "slug": "bodhi",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bodhisattva",
+      "slug": "bodhisattva",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Boga",
+      "slug": "boga",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Boga. No verified Sanskrit or modern Indic lexical form was established for this source entry. No meaning"
+     },
+     {
+      "name": "Bohemia",
+      "slug": "bohemia",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "English",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bohemia. Bohemia is a place name and an English word, not a personal name; no name identity was verified."
+     },
+     {
+      "name": "Boloram",
+      "slug": "boloram",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Assamese",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Boobalan",
+      "slug": "boobalan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Boobalan. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No m"
+     },
+     {
+      "name": "Boopalan",
+      "slug": "boopalan",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Boopalan. A Tamil name; the source record asserted no usable gloss and no lexical form was verified. No m"
+     },
+     {
+      "name": "Boopathi",
+      "slug": "boopathi",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Tamil",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Borun",
+      "slug": "borun",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Boxer",
+      "slug": "boxer",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "English",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Boxer. boxer is an English common noun, not a personal name; no name identity was verified. No meaning is"
+     },
+     {
+      "name": "Boya",
+      "slug": "boya",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Telugu",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Boya. Boya is the name of a community; not established as a lexical given name. No meaning is asserted, b"
+     },
+     {
+      "name": "Brahma",
+      "slug": "brahma",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brahmanand",
+      "slug": "brahmanand",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brahmananda",
+      "slug": "brahmananda",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brahmdev",
+      "slug": "brahmdev",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Braj",
+      "slug": "braj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brajen",
+      "slug": "brajen",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brajendra",
+      "slug": "brajendra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brajesh",
+      "slug": "brajesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brij",
+      "slug": "brij",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brijendra",
+      "slug": "brijendra",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brijesh",
+      "slug": "brijesh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brijlal",
+      "slug": "brijlal",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Brijlal. vraja + lal (beloved), a devotional compound whose distinct lexical sense belongs to its element"
+     },
+     {
+      "name": "Brijraj",
+      "slug": "brijraj",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brinda",
+      "slug": "brinda",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brindha",
+      "slug": "brindha",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Tamil",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Brishti",
+      "slug": "brishti",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Bubai",
+      "slug": "bubai",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bubai. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bubul",
+      "slug": "bubul",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Assamese",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bubul. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Bubun",
+      "slug": "bubun",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bubun. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Buddhadeb",
+      "slug": "buddhadeb",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Bengali",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Buddhadev",
+      "slug": "buddhadev",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Budh",
+      "slug": "budh",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Budhan",
+      "slug": "budhan",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Budhan. A vernacular form related to budh (Mercury); no distinct lexical form was verified. No meaning is"
+     },
+     {
+      "name": "Budhi",
+      "slug": "budhi",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+     },
+     {
+      "name": "Budhia",
+      "slug": "budhia",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Budhia. A vernacular form related to buddhi; no distinct lexical form was verified. No meaning is asserte"
+     },
+     {
+      "name": "Budhiram",
+      "slug": "budhiram",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Budhiram. buddhi (wisdom) + Rama, a devotional compound whose distinct lexical sense belongs to its eleme"
+     },
+     {
+      "name": "Budhram",
+      "slug": "budhram",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Budhram. buddhi (wisdom) + Rama, a devotional compound whose distinct lexical sense belongs to its elemen"
+     },
+     {
+      "name": "Budhu",
+      "slug": "budhu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Hindi",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Budhu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+     },
+     {
+      "name": "Budu",
+      "slug": "budu",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Odia",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Budu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+     },
+     {
+      "name": "Bujji",
+      "slug": "bujji",
+      "status": "complete",
+      "meaning_confidence": "unverified",
+      "origin": "Telugu",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": "No verified lexical identification was established for Bujji. A Telugu affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is"
+     },
+     {
+      "name": "Bulbuli",
+      "slug": "bulbuli",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Assamese",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
      }
     ],
     "confidence_summary": {
-     "unverified": 401,
-     "high": 594,
-     "medium": 169,
-     "low": 36
+     "unverified": 435,
+     "high": 649,
+     "medium": 174,
+     "low": 42
     },
     "origin_summary": {
-     "Unknown": 217,
-     "Sanskrit": 557,
+     "Unknown": 221,
+     "Sanskrit": 561,
      "Persian": 19,
      "Arabic": 67,
-     "Tamil": 31,
+     "Tamil": 35,
      "Japanese": 1,
-     "English": 3,
-     "Punjabi": 18,
+     "English": 6,
+     "Punjabi": 22,
      "Hebrew": 2,
-     "Telugu": 11,
+     "Telugu": 13,
      "Marathi": 14,
      "Kannada": 8,
      "Malayalam": 4,
-     "Hindi": 163,
-     "Bengali": 46,
+     "Hindi": 206,
+     "Bengali": 73,
      "Gujarati": 20,
-     "Odia": 15,
+     "Odia": 19,
      "Kashmiri": 1,
-     "Assamese": 2,
-     "Nepali": 1
+     "Assamese": 6,
+     "Nepali": 2
     },
-    "verified_forms": 799,
-    "unverified_forms": 401,
+    "verified_forms": 865,
+    "unverified_forms": 435,
     "quality_gate": {
      "invalid_json": 0,
      "conflict_markers": 0,
@@ -77230,21 +79230,21 @@
      "broken_text": 0,
      "total_failures": 0
     },
-    "next_batch_starts_after": "bindu",
-    "updated_at": "2026-10-03T05:28:23Z"
+    "next_batch_starts_after": "bulbuli",
+    "updated_at": "2026-10-03T05:31:16Z"
    }
   },
   "hindu": {
    "culture": "hindu",
    "total_names_in_slice": 5885,
-   "names_completed": 1300,
-   "current_batch": 13,
+   "names_completed": 1400,
+   "current_batch": 14,
    "batch_range": {
-    "first": "binesh",
-    "last": "bulbuli",
+    "first": "bulu",
+    "last": "chidanand",
     "count": 100
    },
-   "batches_completed": 13,
+   "batches_completed": 14,
    "per_name": [
     {
      "name": "Aaba",
@@ -90245,38 +92245,1038 @@
      "gender": "Female",
      "manual_review_required": false,
      "reason": null
+    },
+    {
+     "name": "Bulu",
+     "slug": "bulu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bulu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Bunty",
+     "slug": "bunty",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bunty. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Bunu",
+     "slug": "bunu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Bunu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is assert"
+    },
+    {
+     "name": "Bushan",
+     "slug": "bushan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Butt",
+     "slug": "butt",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Kashmiri",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Butt. Butt is a Kashmiri surname; not established as a lexical given name. No meaning is asserted, becaus"
+    },
+    {
+     "name": "Call",
+     "slug": "call",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "English",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Call. call is an English verb, not a personal name; no name identity was verified. No meaning is asserted"
+    },
+    {
+     "name": "Chaaya",
+     "slug": "chaaya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chagan",
+     "slug": "chagan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chagan. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Chahat",
+     "slug": "chahat",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chainsingh",
+     "slug": "chainsingh",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chainsingh. chain (peace) + singh (lion), a compound whose distinct lexical sense belongs to its elements"
+    },
+    {
+     "name": "Chaitan",
+     "slug": "chaitan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chaitany",
+     "slug": "chaitany",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chaitanya",
+     "slug": "chaitanya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chaitra",
+     "slug": "chaitra",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chaitu",
+     "slug": "chaitu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chaitu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Chakradhar",
+     "slug": "chakradhar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chakrapani",
+     "slug": "chakrapani",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chakri",
+     "slug": "chakri",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chakri. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Challa",
+     "slug": "challa",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Unknown",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Challa. Challa is a surname; not established as a lexical given name. No meaning is asserted, because ass"
+    },
+    {
+     "name": "Chameli",
+     "slug": "chameli",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Champ",
+     "slug": "champ",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Champ. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Champa",
+     "slug": "champa",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Champak",
+     "slug": "champak",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Champalal",
+     "slug": "champalal",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Champalal. champa + lal (beloved), a compound whose distinct lexical sense belongs to its elements. No me"
+    },
+    {
+     "name": "Chanakya",
+     "slug": "chanakya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chanchal",
+     "slug": "chanchal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chanchala",
+     "slug": "chanchala",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandana",
+     "slug": "chandana",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandankumar",
+     "slug": "chandankumar",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chandankumar. chandan (sandalwood) + kumar (son, prince), a compound whose distinct lexical sense belongs"
+    },
+    {
+     "name": "Chandar",
+     "slug": "chandar",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chanderpal",
+     "slug": "chanderpal",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chanderpal. chander (moon) + pal (protector), a compound whose distinct lexical sense belongs to its elem"
+    },
+    {
+     "name": "Chandhu",
+     "slug": "chandhu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chandhu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+    },
+    {
+     "name": "Chandini",
+     "slug": "chandini",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrabhan",
+     "slug": "chandrabhan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandradeep",
+     "slug": "chandradeep",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandradev",
+     "slug": "chandradev",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrajeet",
+     "slug": "chandrajeet",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrajit",
+     "slug": "chandrajit",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrakant",
+     "slug": "chandrakant",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrakesh",
+     "slug": "chandrakesh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrakishor",
+     "slug": "chandrakishor",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrakumar",
+     "slug": "chandrakumar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrama",
+     "slug": "chandrama",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandramani",
+     "slug": "chandramani",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandramohan",
+     "slug": "chandramohan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandramouli",
+     "slug": "chandramouli",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandran",
+     "slug": "chandran",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrani",
+     "slug": "chandrani",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrapal",
+     "slug": "chandrapal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandraprakash",
+     "slug": "chandraprakash",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrasekhar",
+     "slug": "chandrasekhar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrashekar",
+     "slug": "chandrashekar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrashekhar",
+     "slug": "chandrashekhar",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrbhan",
+     "slug": "chandrbhan",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandresh",
+     "slug": "chandresh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrika",
+     "slug": "chandrika",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandrima",
+     "slug": "chandrima",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chandru",
+     "slug": "chandru",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chandru. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+    },
+    {
+     "name": "Chandu",
+     "slug": "chandu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chandu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Channu",
+     "slug": "channu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Kannada",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Channu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Chanti",
+     "slug": "chanti",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chanti. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Chanu",
+     "slug": "chanu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Odia",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chanu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Chapal",
+     "slug": "chapal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Charan",
+     "slug": "charan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Charanjeet",
+     "slug": "charanjeet",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Charanpreet",
+     "slug": "charanpreet",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Charansingh",
+     "slug": "charansingh",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Punjabi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Charishma",
+     "slug": "charishma",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Charita",
+     "slug": "charita",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Charmi",
+     "slug": "charmi",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Telugu",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Charmi. A modern coinage; no verified lexical form was established. No meaning is asserted, because asser"
+    },
+    {
+     "name": "Charvi",
+     "slug": "charvi",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chaten",
+     "slug": "chaten",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chaten. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Chatur",
+     "slug": "chatur",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chatura",
+     "slug": "chatura",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chaturbhuj",
+     "slug": "chaturbhuj",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Sanskrit",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chauhan",
+     "slug": "chauhan",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chavan",
+     "slug": "chavan",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Marathi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chavda",
+     "slug": "chavda",
+     "status": "complete",
+     "meaning_confidence": "medium",
+     "origin": "Gujarati",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chaya",
+     "slug": "chaya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chayan",
+     "slug": "chayan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chella",
+     "slug": "chella",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Tamil",
+     "gender": "Female",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chella. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Chenaram",
+     "slug": "chenaram",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chenaram. chena + rama, a devotional compound whose distinct lexical sense belongs to its elements. No me"
+    },
+    {
+     "name": "Cheshta",
+     "slug": "cheshta",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chetan",
+     "slug": "chetan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chethan",
+     "slug": "chethan",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Kannada",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chethana",
+     "slug": "chethana",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Kannada",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chethu",
+     "slug": "chethu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Kannada",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chethu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Chetram",
+     "slug": "chetram",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chetram. chet + rama, a devotional compound whose distinct lexical sense belongs to its elements. No mean"
+    },
+    {
+     "name": "Chetu",
+     "slug": "chetu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chetu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asser"
+    },
+    {
+     "name": "Chhabi",
+     "slug": "chhabi",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Bengali",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chhagan",
+     "slug": "chhagan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chhagan. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+    },
+    {
+     "name": "Chhathu",
+     "slug": "chhathu",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chhathu. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+    },
+    {
+     "name": "Chhatrapal",
+     "slug": "chhatrapal",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chhavi",
+     "slug": "chhavi",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chhaya",
+     "slug": "chhaya",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Female",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chhotan",
+     "slug": "chhotan",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chhotan. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is ass"
+    },
+    {
+     "name": "Chhote",
+     "slug": "chhote",
+     "status": "complete",
+     "meaning_confidence": "unverified",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chhote. An affectionate diminutive rather than a lexical item; no meaning is asserted. No meaning is asse"
+    },
+    {
+     "name": "Chhoturam",
+     "slug": "chhoturam",
+     "status": "complete",
+     "meaning_confidence": "low",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": true,
+     "reason": "No verified lexical identification was established for Chhoturam. chhotu (small) + rama, a devotional compound whose distinct lexical sense belongs to its eleme"
+    },
+    {
+     "name": "Chidambaram",
+     "slug": "chidambaram",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Tamil",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
+    },
+    {
+     "name": "Chidanand",
+     "slug": "chidanand",
+     "status": "complete",
+     "meaning_confidence": "high",
+     "origin": "Hindi",
+     "gender": "Male",
+     "manual_review_required": false,
+     "reason": null
     }
    ],
    "confidence_summary": {
-    "unverified": 435,
-    "high": 649,
-    "medium": 174,
-    "low": 42
+    "unverified": 460,
+    "high": 711,
+    "medium": 180,
+    "low": 49
    },
    "origin_summary": {
     "Unknown": 221,
-    "Sanskrit": 561,
+    "Sanskrit": 571,
     "Persian": 19,
     "Arabic": 67,
-    "Tamil": 35,
+    "Tamil": 39,
     "Japanese": 1,
-    "English": 6,
-    "Punjabi": 22,
+    "English": 7,
+    "Punjabi": 25,
     "Hebrew": 2,
-    "Telugu": 13,
-    "Marathi": 14,
-    "Kannada": 8,
+    "Telugu": 20,
+    "Marathi": 15,
+    "Kannada": 12,
     "Malayalam": 4,
-    "Hindi": 206,
-    "Bengali": 73,
-    "Gujarati": 20,
-    "Odia": 19,
-    "Kashmiri": 1,
+    "Hindi": 268,
+    "Bengali": 77,
+    "Gujarati": 21,
+    "Odia": 21,
+    "Kashmiri": 2,
     "Assamese": 6,
     "Nepali": 2
    },
-   "verified_forms": 865,
-   "unverified_forms": 435,
+   "verified_forms": 940,
+   "unverified_forms": 460,
    "quality_gate": {
     "invalid_json": 0,
     "conflict_markers": 0,
@@ -90288,8 +93288,8 @@
     "broken_text": 0,
     "total_failures": 0
    },
-   "next_batch_starts_after": "bulbuli",
-   "updated_at": "2026-10-03T05:31:16Z"
+   "next_batch_starts_after": "chidanand",
+   "updated_at": "2026-10-03T05:34:10Z"
   }
  }
 }

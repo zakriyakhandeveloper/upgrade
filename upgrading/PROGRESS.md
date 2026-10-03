@@ -102,47 +102,48 @@
 |---|---|
 | Culture | hindu |
 | Total names in slice | 5,885 |
-| Names completed | 1100 |
-| Current batch | 11 |
-| Batch range | bhagaban .. bholanath (100) |
-| Batches completed | 11 |
-| Verified forms | 729 |
-| Unverified forms (no gloss asserted) | 371 |
-| Next batch starts after | bholanath |
-| Updated | 2026-10-03T05:23:26Z |
+| Names completed | 1200 |
+| Current batch | 12 |
+| Batch range | bhole .. bindu (100) |
+| Batches completed | 12 |
+| Verified forms | 799 |
+| Unverified forms (no gloss asserted) | 401 |
+| Next batch starts after | bindu |
+| Updated | 2026-10-03T05:28:23Z |
 
 ## Hindu confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 544 |
-| low | 24 |
-| medium | 161 |
-| unverified | 371 |
+| high | 594 |
+| low | 36 |
+| medium | 169 |
+| unverified | 401 |
 
 ## Hindu origin summary
 
 | Origin | Count |
 |---|---|
-| Sanskrit | 554 |
-| Unknown | 215 |
-| Hindi | 118 |
+| Sanskrit | 557 |
+| Unknown | 217 |
+| Hindi | 163 |
 | Arabic | 67 |
+| Bengali | 46 |
 | Tamil | 31 |
+| Gujarati | 20 |
 | Persian | 19 |
-| Gujarati | 18 |
-| Bengali | 16 |
+| Punjabi | 18 |
+| Odia | 15 |
 | Marathi | 14 |
-| Punjabi | 13 |
-| Telugu | 9 |
+| Telugu | 11 |
 | Kannada | 8 |
-| Odia | 6 |
+| Malayalam | 4 |
 | English | 3 |
-| Malayalam | 3 |
 | Hebrew | 2 |
 | Assamese | 2 |
 | Japanese | 1 |
 | Kashmiri | 1 |
+| Nepali | 1 |
 
 ## Hindu quality gate
 
@@ -162,4 +163,4 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 11 | bhagaban .. bholanath | 100 | complete |
+| 12 | bhole .. bindu | 100 | complete |

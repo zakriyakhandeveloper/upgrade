@@ -1,0 +1,309 @@
+{
+  "success": true,
+  "data": {
+    "name": "Barani",
+    "slug": "barani",
+    "identity": {
+      "display_name": "Barani",
+      "normalized_name": "barani",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "origin": "Tamil",
+      "origin_confidence": "medium",
+      "religion": "Hindu",
+      "religious_association": "Hindu naming usage",
+      "category": "Hindu",
+      "language": [
+        {
+          "name": "Tamil",
+          "relationship": "original_source"
+        }
+      ]
+    },
+    "meaning": {
+      "short_meaning": "Rain; the rainy season",
+      "alternative_meanings": [],
+      "long_meaning": "Barani corresponds to the Tamil form वर्षा. Its core lexical sense is rain; the rainy season. barani is a Tamil form of varani, rain; the Sanskrit lexeme is varsa. The source gloss is verified as correct.",
+      "meaning_note": "The gloss is the verified lexical sense of वर्षा. barani is a Tamil form of varani, rain; the Sanskrit lexeme is varsa. The source gloss is verified as correct.",
+      "etymology": {
+        "form": "वर्षा",
+        "romanization": "barani",
+        "modern_english_form": "Barani",
+        "components": [],
+        "etymology_confidence": "medium"
+      }
+    },
+    "spiritual_meaning": {
+      "value": "A life that reflects the positive sense of rain; the rainy season.",
+      "type": "interpretive",
+      "note": "This is a positive symbolic interpretation of the lexical meaning. It is not a revealed religious definition of the name and no doctrinal claim is made."
+    },
+    "spiritual_significance": {
+      "value": "The name is used in Hindu naming practice; its documented basis is lexical rather than doctrinal.",
+      "evidence_level": "C"
+    },
+    "spiritual_symbolism": {
+      "primary": [
+        "rain; the rainy season"
+      ],
+      "note": "Symbolic associations derived from the lexical sense. They are interpretive and must not be presented as objective religious fact."
+    },
+    "personality": {
+      "emotional_traits": [
+        "Rain; the rainy season"
+      ],
+      "hidden_personality_traits": [],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics. No empirical personality trait can be inferred from a name."
+    },
+    "numerology": {
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "status": "belief_based",
+      "note": "Numerological values are belief-based and are not linguistic, historical, scientific or religious facts. A life-path number derives from a birth date, not from a name; no name-derived number is asserted here."
+    },
+    "traditional_luck_attributes": {
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "status": "not_established",
+      "note": "No authoritative lucky day, colour or gemstone is established by the etymology of this name. Such attributes belong to specific astrological systems and are not asserted without a stated method."
+    },
+    "scripts": {
+      "sanskrit": {
+        "name": "वर्षा",
+        "transliteration": "barani",
+        "meaning": "वर्षा",
+        "long_meaning": "वर्षा (barani) — वर्षा",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "वर्षा",
+        "transliteration": "barani",
+        "meaning": "वर्षा",
+        "long_meaning": "वर्षा (barani) — वर्षा",
+        "translation_status": "verified"
+      },
+      "marathi": {
+        "name": "वर्षा",
+        "transliteration": "barani",
+        "meaning": "वर्षा",
+        "long_meaning": "वर्षा (barani) — वर्षा",
+        "translation_status": "verified"
+      },
+      "bengali": {
+        "name": "বর্ষা",
+        "transliteration": "barani",
+        "meaning": "বর্ষা",
+        "long_meaning": "বর্ষা (barani) — বর্ষা",
+        "translation_status": "verified"
+      },
+      "tamil": {
+        "name": null,
+        "transliteration": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified Tamil form or translation was established. A meaning is deliberately not asserted."
+      },
+      "telugu": {
+        "name": null,
+        "transliteration": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified Telugu form or translation was established. A meaning is deliberately not asserted."
+      }
+    },
+    "pronunciation": {
+      "english": "ba-ra-ni",
+      "common_indian_english": "ba-ra-ni",
+      "ipa": null,
+      "note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only."
+    },
+    "name_forms": {
+      "traditional_sanskrit_form": "वर्षा",
+      "modern_english_form": "Barani",
+      "native_sanskrit_script": "वर्षा",
+      "variants": [
+        "Barani",
+        "barani"
+      ],
+      "note": "Romanization variants reflect different transliteration conventions. Regional-script forms are script representations of the same name, not independent etymologies."
+    },
+    "religious_and_cultural_context": {
+      "religion": "Hindu",
+      "religious_usage": "Used as a personal name in Hindu communities.",
+      "scriptural_status": "not_established",
+      "vedic_status": "not_established",
+      "vedic_note": "No occurrence of this exact form in the Vedic corpus was verified. Absence of verification is not a claim of absence.",
+      "deity_association": null,
+      "epic_status": "not_established",
+      "note": "Sanskrit origin does not by itself make a name Hindu, and Hindu usage does not by itself make a name Vedic. These categories are kept separate."
+    },
+    "historical_references": [],
+    "historical_status": "not_established",
+    "historical_note": "No documented historical bearer of this exact name was verified. No person is invented to fill this field.",
+    "cultural_impact": {
+      "summary": "The name is used in Hindu naming practice; its documented basis is the lexical sense rain; the rainy season.",
+      "historical_claims": [],
+      "note": "Hindu traditions are diverse. No claim is made here that a practice is universal across regions, sects or communities."
+    },
+    "modern_usage": {
+      "context": "modern_indic_naming",
+      "common_contexts": [
+        "Hindu personal names",
+        "Indian diaspora naming"
+      ],
+      "usage_note": "Personal-name popularity must be measured from a defined dataset and is not inferred from lexical presence."
+    },
+    "notable_people": [],
+    "popularity": {
+      "overall_score": null,
+      "regional_scores": [],
+      "status": "unavailable",
+      "note": "No official or transparent statistical dataset for this name was available. A popularity score is not manufactured from intuition or from website frequency."
+    },
+    "social_tags": [
+      "#Barani",
+      "#BaraniMeaning",
+      "#HinduNames",
+      "#SanskritNames",
+      "#NameMeaning"
+    ],
+    "related_names": {
+      "similar_sounding_names": [],
+      "note": "Phonetic-similarity lists are not asserted: a name that merely sounds similar is not a variant, a morphological relative or a semantic relative."
+    },
+    "name_in_real_life": {
+      "status": "not_established",
+      "person_name": null,
+      "location": null,
+      "story": null,
+      "note": "No sourceable real-life naming story was found. A person, family, village or temple is never invented to fill this field."
+    },
+    "seo": {
+      "title": "Barani Name Meaning, Origin & Sanskrit Etymology",
+      "meta_description": "Explore the meaning, Tamil origin, script forms, pronunciation and cultural context of the name Barani (वर्षा).",
+      "h1": "Barani Name Meaning, Origin and Cultural Background",
+      "canonical_topic": "Barani name meaning and origin",
+      "description_paragraph": "The name Barani corresponds to the Tamil form वर्षा, whose core lexical sense is rain; the rainy season. barani is a Tamil form of varani, rain; the Sanskrit lexeme is varsa. The source gloss is verified as correct.",
+      "secondary_description": "The record documents the script forms, pronunciation approximation and the distinction between lexical meaning and religious or cultural association.",
+      "primary_keywords": [
+        "Barani meaning",
+        "Barani name meaning",
+        "Barani origin"
+      ],
+      "secondary_keywords": [
+        "Barani in Sanskrit",
+        "Barani pronunciation",
+        "Barani name"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "script",
+        "pronunciation",
+        "cultural context",
+        "variants"
+      ],
+      "faq": [
+        {
+          "q": "What does Barani mean?",
+          "a": "Barani corresponds to the Tamil form वर्षा, whose core lexical sense is rain; the rainy season."
+        },
+        {
+          "q": "What is the origin of Barani?",
+          "a": "Barani is associated with Tamil. barani is a Tamil form of varani, rain; the Sanskrit lexeme is varsa. The source gloss is verified as correct."
+        },
+        {
+          "q": "Is Barani a Sanskrit name?",
+          "a": "No — the underlying form is Tamil, not Sanskrit."
+        },
+        {
+          "q": "Is Barani a Hindu name?",
+          "a": "Barani is used in Hindu naming practice, but Sanskrit origin alone does not make a name Hindu. The classification here rests on documented naming usage."
+        },
+        {
+          "q": "Is Barani mentioned in the Vedas?",
+          "a": "No occurrence of this exact form in the Vedic corpus was verified. Absence of verification is not a claim of absence."
+        },
+        {
+          "q": "How is Barani written in Indian scripts?",
+          "a": "Sanskrit वर्षा, Hindi वर्षा, Marathi वर्षा, Bengali বর্ষা, Tamil —, Telugu —."
+        },
+        {
+          "q": "How is Barani pronounced?",
+          "a": "A romanized syllable approximation is ba-ra-ni. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        },
+        {
+          "q": "Is Barani a boy's or girl's name?",
+          "a": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+        }
+      ],
+      "content_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
+      }
+    },
+    "structured_data_recommendations": {
+      "page_types": [
+        "DefinedTerm"
+      ],
+      "optional_types": [],
+      "faq_schema": {
+        "recommended": true,
+        "reason": "FAQ answers are present on the page and are consistent with the record."
+      },
+      "note": "The name is not a person. @type Person must never be used for a name record; DefinedTerm is used instead."
+    },
+    "content_integrity": {
+      "hallucination_risk": "low",
+      "verified_core_claims": [
+        "The form वर्षा is an established Tamil lexical item.",
+        "Its core lexical sense is rain; the rainy season."
+      ],
+      "removed_or_unverified_claims": [
+        "invented popularity scores and regional scores",
+        "invented lucky number, day, colour and gemstone",
+        "invented personality and life-path claims",
+        "invented historical persons and dates",
+        "invented real-life stories",
+        "unsupported Vedic or scriptural occurrence claims",
+        "English glosses copied into non-English script fields",
+        "application/monetization configuration"
+      ]
+    },
+    "sources": [
+      {
+        "type": "Tier A",
+        "source": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Dictionaries)",
+        "subject": "lexical form and sense",
+        "supports": [
+          "meaning",
+          "etymology",
+          "script form"
+        ]
+      },
+      {
+        "type": "Tier C",
+        "source": "NameVerse source record (discovery lead only)",
+        "subject": "raw entry",
+        "supports": [
+          "name identity"
+        ]
+      }
+    ],
+    "updated_at": "2026-10-03T00:00:00.000Z"
+  }
+}

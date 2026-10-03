@@ -50,4 +50,56 @@
 | Verified forms | 641 |
 | Unverified forms (no gloss asserted) | 359 |
 | Next batch starts after | bhadur |
-| Updated | 2026-10-03T05:17:09Z |
+| Updated | 2026-10-03T05:19:55Z |
+
+## Hindu confidence summary
+
+| Confidence | Count |
+|---|---|
+| high | 482 |
+| low | 10 |
+| medium | 149 |
+| unverified | 359 |
+
+## Hindu origin summary
+
+| Origin | Count |
+|---|---|
+| Sanskrit | 545 |
+| Unknown | 215 |
+| Arabic | 67 |
+| Hindi | 52 |
+| Tamil | 27 |
+| Persian | 19 |
+| Bengali | 15 |
+| Punjabi | 11 |
+| Gujarati | 11 |
+| Marathi | 9 |
+| Kannada | 8 |
+| Telugu | 6 |
+| Odia | 5 |
+| English | 3 |
+| Malayalam | 3 |
+| Hebrew | 2 |
+| Japanese | 1 |
+| Kashmiri | 1 |
+
+## Hindu quality gate
+
+| Check | Result |
+|---|---|
+| Invalid JSON | 0 |
+| Conflict markers | 0 |
+| Schema mismatches | 0 |
+| Duplicate slugs | 0 |
+| English gloss in script field | 0 |
+| Bad structured data | 0 |
+| Missing evidence | 0 |
+| Broken text | 0 |
+| **Total failures** | **0** |
+
+## Hindu batch manifest
+
+| Batch | Range | Count | Status |
+|---|---|---|---|
+| 10 | balwant .. bhadur | 100 | complete |

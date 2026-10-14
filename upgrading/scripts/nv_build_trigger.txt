@@ -1,3 +1,0 @@
-# hindu batch spec (batch curated_module first last)
-# batches 1-17 already installed; build only what is listed below
-18 curated_h18 dhiren divit
